@@ -30,7 +30,11 @@ XXXX total entries.
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
+
 |**var1**|*int64*|df_climate|blah blah blah|.
+
+|**var1**|*int64*|df_climate|Eblah blah blah|.
+
 |**var2**|*object*|df_climate|blah blah blah|
 |**var3**|*object*|df_climate|blah blah blah|
 |**var4**|*object*|df_climate|blah blah blah|
@@ -53,5 +57,9 @@ xxxx total entries.
 |**var6**|*object*|df_demographic|blah blah blah|
 
 
+
 df_health
 etc.
+=======
+=======
+
