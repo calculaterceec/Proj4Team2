@@ -10,7 +10,7 @@ Blah blah blah
 
 **III. Scope Note**
 
-Using blah blah blah.
+For a given census tract (or other geo variable) between years x-y, there was an (insert variable) percent change in the daily temperature, and these were the demographics for that tract, and during that year range there was an increase/decrease in cases of (insert infectious disease thing or asthma or other climate-affected disease). This study is completely pre-COVID. 
 
 **IV. Methodology**
 
