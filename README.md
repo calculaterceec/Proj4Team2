@@ -31,11 +31,11 @@ XXXX total entries.
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
-|**var1**|*int64*|final_reddit_scrape|Epoch time code for the date the post was created|.
-|**var2**|*object*|final_reddit_scrape|The body of the text of the post.|
-|**var3**|*object*|final_reddit_scrape|Subreddit source|
-|**var4**|*object*|final_reddit_scrape|Title of the post.|
-|**var5**|*int64*|final_reddit_scrape|1 = from /r/breakingbad, 0 = from /r/betterCallSaul.|
+|**var1**|*int64*|df_climate|Eblah blah blah|.
+|**var2**|*object*|df_climate|blah blah blah|
+|**var3**|*object*|df_climate|blah blah blah|
+|**var4**|*object*|df_climate|blah blah blah|
+|**var5**|*int64*|df_climate|blah blah blah|
 
 
 
