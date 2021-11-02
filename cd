@@ -1,0 +1,1436 @@
+[1mdiff --git a/.DS_Store b/.DS_Store[m
+[1mnew file mode 100644[m
+[1mindex 0000000..2c26095[m
+Binary files /dev/null and b/.DS_Store differ
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 6961c3a..2d31aff 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1,65 @@[m
+[31m-# Proj4Team2[m
+\ No newline at end of file[m
+[32m+[m[32m## Project 4 - Team 2[m
+[32m+[m[41m [m
+[32m+[m[32m**I. Problem Statement**[m
+[32m+[m
+[32m+[m[32mUsing aggregated climate, demographic, and health data, identify meaningful drivers of health outcomes and create an interactive visualization of the data.[m
+[32m+[m
+[32m+[m[32m**II. Executive Summary**[m
+[32m+[m
+[32m+[m[32mBlah blah blah[m
+[32m+[m
+[32m+[m[32m**III. Scope Note**[m
+[32m+[m
+[32m+[m[32mFor a given census tract (or other geo variable) between years x-y, there was an (insert variable) percent change in the daily temperature, and these were the demographics for that tract, and during that year range there was an increase/decrease in cases of (insert infectious disease thing or asthma or other climate-affected disease). This study is completely pre-COVID.[m[41m [m
+[32m+[m
+[32m+[m[32m**IV. Methodology**[m
+[32m+[m
+[32m+[m[32mPut that here.[m
+[32m+[m[41m    [m
+[32m+[m[32m**V. Conclusion and Path Forward**[m
+[32m+[m
+[32m+[m[32mWhat did we learn? What's next[m
+[32m+[m
+[32m+[m[32m**VI. Data**[m
+[32m+[m
+[32m+[m[32m```python[m
+[32m+[m[32mdf_climate[m
+[32m+[m
+[32m+[m[32mXXXX total entries.[m
+[32m+[m[32m```[m
+[32m+[m
+[32m+[m[32m|Feature|Type|Dataset|Description|[m
+[32m+[m[32m|---|---|---|---|[m
+[32m+[m
+[32m+[m[32m|**var1**|*int64*|df_climate|blah blah blah|.[m
+[32m+[m
+[32m+[m[32m|**var1**|*int64*|df_climate|Eblah blah blah|.[m
+[32m+[m
+[32m+[m[32m|**var2**|*object*|df_climate|blah blah blah|[m
+[32m+[m[32m|**var3**|*object*|df_climate|blah blah blah|[m
+[32m+[m[32m|**var4**|*object*|df_climate|blah blah blah|[m
+[32m+[m[32m|**var5**|*int64*|df_climate|blah blah blah|[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m[32m```python[m
+[32m+[m[32mdf_demographic[m
+[32m+[m[32mxxxx total entries.[m
+[32m+[m[32m```[m
+[32m+[m
+[32m+[m[32m|Feature|Type|Dataset|Description|[m
+[32m+[m[32m|---|---|---|---|[m
+[32m+[m[32m|**var1**|*int64*|df_demographic|blah blah blah|.[m
+[32m+[m[32m|**var2**|*object*|df_demographic|blah blah blah|[m
+[32m+[m[32m|**var3**|*object*|df_demographic|blah blah blah|[m
+[32m+[m[32m|**var4**|*object*|df_demographic|blah blah blah|[m
+[32m+[m[32m|**var5**|*int64*|df_demographic|blah blah blah|[m
+[32m+[m[32m|**var6**|*object*|df_demographic|blah blah blah|[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m[32mdf_health[m
+[32m+[m[32metc.[m
+[32m+[m[32m=======[m
+[32m+[m[32m=======[m
+[41m+[m
+[1mdiff --git a/background_sources/Los Angeles confronts its shady divide.pdf b/background_sources/Los Angeles confronts its shady divide.pdf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..53002e4[m
+[1m--- /dev/null[m
+[1m+++ b/background_sources/Los Angeles confronts its shady divide.pdf[m	
+[36m@@ -0,0 +1,580 @@[m
+[32m+[m[32m10/25/21, 3:03 PM                      Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                   Subscriber Exclusive Content[m
+[32m+[m
+[32m+[m[32m                   Marie                                                                                          Renew  SUBSCRIBE  MENU[m
+[32m+[m
+[32m+[m[32m                   MAGAZINE                                                                                       PLANET POSSIBLE[m
+[32m+[m
+[32m+[m[32m                   Los Angeles confronts its[m
+[32m+[m[32m                   shady divide[m
+[32m+[m
+[32m+[m[32m                   A lack of tree cover in low-income areas has left[m
+[32m+[m[32m                   many residents especially vulnerable to rising heat.[m
+[32m+[m[32m                   It’s a legacy of the city’s design—and its history of[m
+[32m+[m[32m                   racist policies.[m
+[32m+[m
+[32m+[m[32m                   L.A.’s year-round sunshine has generally been considered a blessing. But it can make a long wait[m
+[32m+[m[32m                   for a bus uncomfortable.[m
+[32m+[m
+[32m+[m[32m   BY ALEJANDRA BORUNDA                                                                                                  ADVERTISEMENT[m
+[32m+[m[32m   PHOTOGRAPHS BY ELLIOT ROSS[m
+[32m+[m[32m                                                                                                                                                                   1/19[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true[m
+[32m+[m[32m10/25/21, 3:03 PM                                              Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m   P U B L I S H E D J U N E 1 7, 2 0 2 1 • 2 0 M I N R E A D[m
+[32m+[m
+[32m+[m[32mHear more about cooling cities by throwing shade in our podcast, Overheard[m
+[32m+[m[32mat National Geographic.[m
+[32m+[m
+[32m+[m[32mMiguel Vargas vividly remembers when he first understood the[m
+[32m+[m[32mpower of shade. He was in middle school, sprinting up and down a scrubby[m
+[32m+[m[32msoccer field in Huntington Park, a small city laced with train tracks and[m
+[32m+[m[32mhigh-voltage transmission lines just south of the Los Angeles skyline. He[m
+[32m+[m[32mran so hard in the battering sun that he overheated.[m
+[32m+[m
+[32m+[m[32mHis vision went fuzzy. His heart pounded. In a daze he stumbled toward a[m
+[32m+[m[32mtowering red pine near the southwest corner of the field—the biggest and[m
+[32m+[m[32malmost the only tree in sight.[m
+[32m+[m
+[32m+[m[32mIn that shelter, Vargas’s dizziness[m
+[32m+[m[32mreceded. His heart rate mellowed.[m
+[32m+[m[32mHe returned to himself, revived by[m
+[32m+[m[32mthe deep, cool shadow.[m
+[32m+[m
+[32m+[m[32mThat simple blessing, he learned[m
+[32m+[m[32mlater when he took a job planting[m
+[32m+[m[32mtrees, is abundant elsewhere in L.A.,[m
+[32m+[m
+[32m+[m[32mprimarily in rich, mostly white[m
+[32m+[m[32mneighborhoods. But in[m
+[32m+[m[32mpredominantly Black and brown[m
+[32m+[m[32mneighborhoods such as Huntington[m
+[32m+[m[32mPark, which is 97 percent Hispanic,[m
+[32m+[m[32mshade is vanishingly rare. (Oregon[m
+[32m+[m[32monce legally banned Black people.[m
+[32m+[m[32mHas the state reconciled its racist[m
+[32m+[m[32mpast?)[m
+[32m+[m
+[32m+[m[32mLos Angeles isn’t Phoenix or Dallas.[m
+[32m+[m
+[32m+[m[32mIt has a moderate climate. But it too                          The National Geographic Society, committed[m
+[32m+[m[32mexperiences deadly heat—and here,                              to illuminating and protecting the wonder of[m
+[32m+[m[32munlike almost any other U.S. city, it                          our world, has funded Explorer... Read More[m
+[32m+[m[32mcan strike year-round. Climate[m
+[32m+[m[32m                                                               ILLUSTRATION BY JOE MCKENDRY[m
+[32m+[m
+[32m+[m[32mchange is worsening the problem.[m
+[32m+[m
+[32m+[m[32mIt’s already time to “turn off the sunshine,” says L.A.’s chief design officer,[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true  2/19[m
+[32m+[m[32m10/I2t5/s21a, l3r:0e3aPdMy time to turn off the sunshine, says L.A.LosscAhngieelfesdceonsfirgonnts oitsffshicadeyrd,ivide[m
+[32m+[m[32m  Christopher Hawthorne. The city, he says, needs to find ways to build[m
+[32m+[m[32m  cooling, potentially lifesaving shade into its fabric.[m
+[32m+[m
+[32m+[m[32m                                                                  ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mLos Angeles’s car-centric design makes it seem as if the city is[m
+[32m+[m[32mmeant to be seen from an air- conditioned vehicle. Without[m
+[32m+[m[32mmuch shade, pedestrians such as these at Vermont Avenue[m
+[32m+[m[32mand Eighth Street, just west of downtown, often bake in the[m
+[32m+[m[32msun.[m
+[32m+[m
+[32m+[m[32mModern Los Angeles is a city built on sunshine, not shadow. In the late[m
+[32m+[m
+[32m+[m[32m1800s and early 1900s, Southern California boosters enticed migrants[m
+[32m+[m
+[32m+[m[32mfrom the East with visions of “almost everlasting sunlight.” The allure of[m
+[32m+[m
+[32m+[m[32mL.A.’s exceptional light has persisted, featured by Hollywood, celebrated by[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true           3/19[m
+[32m+[m[32m10/25/21, 3:03 PM                                 Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32mhomegrown artists such as Robert Irwin. “On many days the world almost[m
+[32m+[m
+[32m+[m[32mhas no shadows,” Irwin told the New Yorker in 1998. “Broad daylight—and[m
+[32m+[m
+[32m+[m[32min fact, lots and lots of light—and no shadows.”[m
+[32m+[m
+[32m+[m[32m                   ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32m“Sunshine,” says Hawthorne, “had become one of our central[m
+[32m+[m[32mcommodities.”[m
+[32m+[m
+[32m+[m[32mUrban design in Los Angeles prioritizes access to the sun. The city code[m
+[32m+[m[32moften defines where or for how much of the day a building can cast a[m
+[32m+[m[32mshadow, lest it overly shade courtyards, parks, or patios. Architects have[m
+[32m+[m[32mdesigned buildings to be transparent to sunlight and entire complexes to[m
+[32m+[m[32mlet it enter each corner. After the 1970s’ energy crisis, the city had a new[m
+[32m+[m[32mreason to ensure sun access everywhere; today, L.A. has more solar power[m
+[32m+[m[32mcapacity than any other American city.[m
+[32m+[m
+[32m+[m[32m                   At the northern end of Vermont Avenue in Los Feliz,[m
+[32m+[m[32m                   Moreton Bay fig trees arch over a grassy median where[m
+[32m+[m[32m                   people lounge on hot days. The trees, planted around 1913[m
+[32m+[m[32m                   and carefully tended since, are on the Los Angeles list of[m
+[32m+[m[32m                   historic monuments.[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true  4/19[m
+[32m+[m[32m10/25/21, 3:03 PM                                           Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                   ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mBut in the age of climate change, L.A.’s sunshine is no longer an[m
+[32m+[m[32munqualified boon. By mid-century, absent major international efforts to[m
+[32m+[m[32mrein in carbon emissions, L.A. is expected to experience 22 days a year[m
+[32m+[m[32mabove 95 degrees Fahrenheit, more than triple the current number. The[m
+[32m+[m[32msuburbs in the San Fernando Valley may see more than 90 days—a full[m
+[32m+[m[32mquarter of the year. Heat already increases the risk of death in Los Angeles,[m
+[32m+[m[32meven when it isn’t the proximate cause. During a short heat wave, the death[m
+[32m+[m[32mrate from all causes rises by 8 percent above normal. After four or five[m
+[32m+[m[32mdays, that number swells to 25 percent—and up to 48 percent among older[m
+[32m+[m[32mBlack and Latino residents. (Too hot to live: Millions worldwide will face[m
+[32m+[m[32munbearable temperatures.)[m
+[32m+[m
+[32m+[m[32m“The really simple thing, if you care about making people more[m
+[32m+[m[32mcomfortable, is just to offer more opportunities for shade,” says V. Kelly[m
+[32m+[m[32mTurner, an urban planner at UCLA.[m
+[32m+[m
+[32m+[m[32mOn a hot day you feel much hotter in the direct sun than in the shade, even[m
+[32m+[m[32mif the air temperature is the same. That temperature is a measure of how[m
+[32m+[m[32mfast air molecules are moving and are heating you as they bump into you—[m
+[32m+[m[32mbut solar radiation heats your body too. In direct sunlight you might feel as[m
+[32m+[m[32mmuch as 20 degrees warmer than in nearby shade.[m
+[32m+[m
+[32m+[m[32m                   Left: Most shade in L.A. is in communities such as Rolling[m
+[32m+[m[32m                   Hills, where people can afford to care for the trees.[m
+[32m+[m
+[32m+[m[32m                   Right: In low-income, largely minority areas such as[m
+[32m+[m[32m                   Hawthorne, lack of public investment means fewer trees.[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true  5/19[m
+[32m+[m[32m10/25/21, 3:03 PM                 Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                   ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mThe same is true for buildings, sidewalks, and other massive objects:[m
+[32m+[m[32mDirect solar radiation imparts more energy and therefore heat. Asphalt is a[m
+[32m+[m[32mparticularly good absorber, and along with concrete it releases that[m
+[32m+[m[32mcaptured heat into the air for hours, even after the sun disappears,[m
+[32m+[m[32mcontributing to the urban heat island effect. A well-placed tree, on the[m
+[32m+[m[32mother hand, can keep a building 18 degrees cooler than if it were fully[m
+[32m+[m[32mexposed to the sun. Shade keeps everything cooler—and the overheating[m
+[32m+[m[32mcity is taking note.[m
+[32m+[m
+[32m+[m[32mWhen Spanish colonizers arrived in the Los Angeles Basin, they found[m
+[32m+[m[32ma landscape carefully managed by the Tongva and other Native[m
+[32m+[m[32minhabitants, a rich ecological patchwork with profuse pockets of shade.[m
+[32m+[m[32mForests of oaks and other trees meandered along the rivers and in the[m
+[32m+[m[32mhighlands that now make up East Los Angeles, providing shade and[m
+[32m+[m[32mshowers of nutritious acorns. A village called Yaangna, near today’s[m
+[32m+[m
+[32m+[m[32mdowntown L.A., was “a very lush pleasing spot in every respect,” wrote[m
+[32m+[m[32mFather Juan Crespí, an early missionary who visited in 1679.[m
+[32m+[m
+[32m+[m[32mThe Spanish felled many of the oaks for lumber and cleared other tree-[m
+[32m+[m[32mdotted land for cattle. They created shade with buildings rather than trees:[m
+[32m+[m[32mStreets were laid out roughly 45 degrees off of north-south, to maximize[m
+[32m+[m[32msun and shade exposure year-round, and long, arched loggias lined the[m
+[32m+[m[32mexternal walls of missions and residences.[m
+[32m+[m
+[32m+[m[32mA street-level view of L.A.’s urban inequity[m
+[32m+[m
+[32m+[m[32mTrees become sparser and neighborhoods hotter as you drive from north to south along[m
+[32m+[m[32mVermont Avenue. Over about six miles, the road passes through areas that show the[m
+[32m+[m[32menduring effects of housing discrimination through redlining, which ranked areas from A[m
+[32m+[m[32m(“green,” or most suitable for investment) to D (“red,” or least suitable).[m
+[32m+[m
+[32m+[m[32m                       Grade A — Los Feliz[m
+[32m+[m
+[32m+[m[32m                      At the north end of Vermont Avenue in Los Feliz, spreading fig trees line the avenue. In this and other[m
+[32m+[m[32m                      affluent grade A areas, a 1939 map notes, deed restrictions left ownership of some houses “limited in[m
+[32m+[m[32m                      perpetuity to Caucasian” buyers.[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true               6/19[m
+[32m+[m[32m10/25/21, 3:03 PM  Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                   Grade B — Los Feliz[m
+[32m+[m
+[32m+[m[32m                   Downhill and half a mile south, small apartment buildings line the street, but there’s still room for[m
+[32m+[m[32m                   plenty of trees. Areas that were considered “reasonably homogenous” were given a B grade.[m
+[32m+[m
+[32m+[m[32m                   Grade C — East Hollywood[m
+[32m+[m
+[32m+[m[32m                   This part of Vermont Avenue has larger commercial buildings and more parking lots, leaving space on[m
+[32m+[m[32m                   the streets for only a few trees. Neighborhoods that had proximity to non-white communities were[m
+[32m+[m[32m                   given a C grade due to a perceived risk of "infiltration" from other groups.[m
+[32m+[m
+[32m+[m[32m                   Grade D — Pico-Union[m
+[32m+[m
+[32m+[m[32m                   Trees are all but absent here, where Vermont Avenue streetscape is dominated by pavement.[m
+[32m+[m[32m                   Bureuacrates gave a D grade to areas for having so-called “subversive racial elements," which included[m
+[32m+[m[32m                   African Americans, Jews, and people of Mexican and Japanese descent.[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true           7/19[m
+[32m+[m[32m10/25/21, 3:03 PM                                                     Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                   Streetscape photographs by Elliot Ross[m
+[32m+[m
+[32m+[m[32m                                                       ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mSettlers from the eastern U.S. reshuffled the shade landscape once again in[m
+[32m+[m[32mthe 19th century, planting new crops and citrus orchards. In the 20th[m
+[32m+[m[32mcentury, using water siphoned from outside the Los Angeles Basin, they[m
+[32m+[m[32meventually created an “urban woodland,” says Travis Longcore, an[m
+[32m+[m[32menvironmental scientist at UCLA. Especially after World War II, a neat[m
+[32m+[m[32msingle-family home with a car in the driveway and a pretty tree on the front[m
+[32m+[m[32mlawn became the embodiment of the American Dream—and the booming[m
+[32m+[m[32mL.A. population embraced it. Tree density grew by 150 percent from the[m
+[32m+[m[32m1920s to the early 2000s, when well over 10 million trees dotted the city.[m
+[32m+[m
+[32m+[m[32m(See how L.A.’s patterns of trees and heat can be traced back to racist[m
+[32m+[m[32mmaps drawn in 1939.)[m
+[32m+[m
+[32m+[m[32mBut urban forests grow on money,[m
+[32m+[m
+[32m+[m[32mwhich is not distributed equally.[m
+[32m+[m
+[32m+[m[32mMost shade in Los Angeles fell on                                     How L.A.'s urban[m
+[32m+[m[32mprivately owned land, in places                                       tree canopy reveals[m
+[32m+[m[32msuch as Los Feliz, Hollywood, or[m
+[32m+[m[32mBrentwood, where people could                                         hidden inequities[m
+[32m+[m
+[32m+[m[32mafford trees and their often                                          See how the city’s patterns[m
+[32m+[m[32mexpensive care. Today, nearly 20                                      of trees and heat can be[m
+[32m+[m[32mpercent of the city’s trees can be                                    traced back to racist maps[m
+[32m+[m[32m                                                                      drawn in 1939.[m
+[32m+[m
+[32m+[m[32mfound in just five census blocks,[m
+[32m+[m
+[32m+[m[32mhome to just one percent of the[m
+[32m+[m
+[32m+[m[32mpopulation. (How these 1930s[m
+[32m+[m
+[32m+[m[32mmaps left some neighborhoods with fewer trees.)[m
+[32m+[m
+[32m+[m[32mhttpIs://www.tnationtalgteographdici.cdom/mtagazine/artticle/los-angdeliels-cionfrtohnts-its-shady-divBidle-feakture?loggeddin=true  8/19[m
+[32m+[m[32m10/25/21, 3:03 PM                 Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32mIn contrast, trees did not sprout as readily in the poorer, Blacker, and[m
+[32m+[m
+[32m+[m[32mbrowner parts of the city. Redlining in the first half of the 20th century had[m
+[32m+[m
+[32m+[m[32mdenied many people of color mortgage financing for the American Dream[m
+[32m+[m
+[32m+[m[32mand had led to massive disinvestment in public goods, including trees.[m
+[32m+[m
+[32m+[m[32mPublic trees planted in such neighborhoods often were neglected by the[m
+[32m+[m
+[32m+[m[32munderfunded forestry department, leaving residents to deal with broken[m
+[32m+[m
+[32m+[m[32mbranches, buckled sidewalks, and wilting greenery. Furthermore, to make[m
+[32m+[m
+[32m+[m[32mway for cars, the city removed trees along streets and narrowed sidewalks.[m
+[32m+[m
+[32m+[m[32mTrees were also felled or trimmed to allow street surveillance by L.A. police[m
+[32m+[m
+[32m+[m[32mhelicopters. (Racist housing policies have created some oppressively hot[m
+[32m+[m
+[32m+[m[32mneighborhoods in Minneapolis.)[m
+[32m+[m
+[32m+[m[32m                   ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true  9/19[m
+[32m+[m[32m10/25/21, 3:03 PM                                                                        Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                   A lone tree grows on a lot in Vernon, an industrial area near[m
+[32m+[m[32m                   downtown L.A. where surfaces can be more than 15 degrees[m
+[32m+[m[32m                   Fahrenheit hotter than in leafy neighborhoods. Only a[m
+[32m+[m[32m                   hundred or so people live in this sun-blasted place, but some[m
+[32m+[m[32m                   50,000 come here to work.[m
+[32m+[m
+[32m+[m[32mThe disparity is stark: In some of the city’s poorest neighborhoods, such as[m
+[32m+[m[32mHuntington Park, trees shade well under 10 percent of the area, while in[m
+[32m+[m[32mbetter-off places, such as Los Feliz, the canopy coverage can hit nearly 40[m
+[32m+[m[32mpercent. That has a direct impact on public health. Formerly redlined[m
+[32m+[m[32mneighborhoods are on average 7.6 degrees hotter than the richest ones.[m
+[32m+[m[32m(How ‘nature deprived’ neighborhoods impact the health of people of[m
+[32m+[m[32mcolor.)[m
+[32m+[m
+[32m+[m[32m                                                              ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32m“You just don’t see green in the areas that were redlined,” says Vivek[m
+[32m+[m[32mShandas, an urban ecologist at Portland State University who is advising[m
+[32m+[m[32mL.A. on equitable tree planting.[m
+[32m+[m
+[32m+[m[32mOn a few stretches of Vermont Avenue in Los Feliz, the roots of decades-[m
+[32m+[m[32mold Moreton Bay figs fill eight-foot-wide tree wells on both sides of the[m
+[32m+[m[32mquiet, divided roadway. Luxuriant branches meet over the 40-foot-wide[m
+[32m+[m[32mmedian. Murky, cool light flickers to the grass below. But seven miles[m
+[32m+[m[32msouth on the same street, in South Central Los Angeles, the sun beats down[m
+[32m+[m[32munimpeded.[m
+[32m+[m
+[32m+[m[32mOne day last winter, it shone on Rachel O’Leary and Cindy Chen, of a[m
+[32m+[m[32mnonprofit called City Plants, who were looking for places to plant trees in[m
+[32m+[m[32mSouth Central. On one long block with 33 residential lots, they found just[m
+[32m+[m[32mnine street trees. Six were so immature, they cast only a dollop of shade. A[m
+[32m+[m[32mwhite mutt soaked in the cool under an overtrimmed jacaranda;[m
+[32m+[m[32mconstruction workers rested under two fat-trunked figs. The rest of the[m
+[32m+[m[32mblock was open to the sun.[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true                 10/19[m
+[32m+[m[32m10/25/21, 3:03 PM  Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                                                                             1/9[m
+[32m+[m
+[32m+[m[32mMany L.A. residents, particularly in Latino neighborhoods, have mastered the art of homemade[m
+[32m+[m[32mshade solutions, says urban planner James Rojas. The defining aesthetic is rasquachismo, a[m
+[32m+[m[32mChicano term for resourceful, cheerful cobbling together of whatever is around to c... Read More[m
+[32m+[m
+[32m+[m[32m                                                              ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mChen has built a computer model that finds the little wedges of land where[m
+[32m+[m[32mthe city could add trees, a trickier proposition than it sounds. Of the[m
+[32m+[m[32m88,500 square feet of publicly managed land on this block (including the[m
+[32m+[m[32mstreet), only about 10,800 square feet are even potentially plantable.[m
+[32m+[m[32mChen’s model picked out places that couldn’t fit trees because of driveways,[m
+[32m+[m[32mfire hydrants, alleys, and other obstacles such as water and gas meters or[m
+[32m+[m[32mpower poles. What was left was enough space, in three-foot-wide strips[m
+[32m+[m[32malong the narrow sidewalks, for 16 more street trees.[m
+[32m+[m
+[32m+[m[32mThat’s not a lot, O’Leary admits. But this area currently has less than 3[m
+[32m+[m[32mpercent canopy cover. “Some trees are better than no trees,” she says.[m
+[32m+[m
+[32m+[m[32mLos Angeles aims to plant 90,000 more trees by the end of 2021, with[m
+[32m+[m[32mthe goal of increasing canopy cover by 50 percent by 2028 in neglected[m
+[32m+[m[32mneighborhoods like South Central. The campaign is far from a panacea, the[m
+[32m+[m[32mcity’s forest officer, Rachel Malarich, says bluntly. Trees take years if not[m
+[32m+[m[32mdecades to mature and require significant watering. But their benefits, she[m
+[32m+[m[32msays, far outweigh the costs.[m
+[32m+[m
+[32m+[m[32mChristopher Hawthorne is advocating a holistic approach that integrates[m
+[32m+[m[32mshade considerations into all public urban design decisions in L.A. “Rather[m
+[32m+[m[32mthan embracing sun and sunshine,” he says, “we need to start thinking[m
+[32m+[m[32mabout designs that could protect us from sun and heat.”[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true  11/19[m
+[32m+[m[32m10/25/21, 3:03 PM  Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m     6:35[m
+[32m+[m
+[32m+[m[32mHOW THESE 1930S MAPS LEFT SOME NEIGHBORHOODS WITH[m
+[32m+[m[32mFEWER TREES[m
+[32m+[m[32mMore than 50 years after redlining was banned by the Fair Housing Act of 1968, its lingering[m
+[32m+[m[32meffects leave many low-income and often communities of color with fewer trees to keep their[m
+[32m+[m[32mneighborhoods cool.[m
+[32m+[m
+[32m+[m[32m                                                              ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mAt the broadest scale, that would entail reorienting the city itself away[m
+[32m+[m[32mfrom cars, returning space to pedestrians—and trees. It might mean[m
+[32m+[m[32mnarrowing streets and allowing them to be shaded by taller buildings than[m
+[32m+[m[32mcurrent codes permit. There are laws governing the right to heat in[m
+[32m+[m[32mbuildings, and in Europe even to sunlight; maybe it’s time to assert a right[m
+[32m+[m[32mto shade and cool, Hawthorne says.[m
+[32m+[m
+[32m+[m[32mFor now, the city is starting small. In a design competition to reimagine[m
+[32m+[m[32mstreetlights, contestants had to make them do double or triple duty—[m
+[32m+[m[32mprovide light, add shade if they could, and perhaps host art. Bus shelters[m
+[32m+[m[32mare next up for a redesign, and even before then the city is working on[m
+[32m+[m[32madding 750 shelters at heavily used stops on the hottest streets. At UCLA,[m
+[32m+[m[32mengineer Aaswath Raman is developing optical materials that shoot the[m
+[32m+[m[32msun’s incoming energy back out to space; a shelter made of such material[m
+[32m+[m[32mwould not only block the sun, it would cool the air beneath it.[m
+[32m+[m
+[32m+[m[32mAny shade from any source would be more than welcome, Esmerita Gómez[m
+[32m+[m[32msays as she waits for a bus at the corner of Vermont Avenue and Venice[m
+[32m+[m[32mBoulevard near downtown L.A. “There were three trees here once. But they[m
+[32m+[m[32mcut it down.” She stands carefully in the narrow shadow of a telephone pole[m
+[32m+[m[32muntil the bus groans to a stop in front of her.[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true  12/19[m
+[32m+[m[32m10/25/21, 3:03 PM  Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                   Ladale Hayes plants a pink trumpet tree in Watts, part of an[m
+[32m+[m[32m                   L.A. campaign to plant 90,000 trees by the end of 2021—and[m
+[32m+[m[32m                   many more after that. Working for North East Trees, a[m
+[32m+[m[32m                   nonprofit, Hayes leads a team of young adults, most of[m
+[32m+[m[32m                   whom are planting in the neighborhoods wh... Read More[m
+[32m+[m
+[32m+[m[32m                                                    ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mFinding or making shade is a well-honed skill for Latino residents of the[m
+[32m+[m[32mcity, says James Rojas, a city planner who grew up in East L.A. Take the[m
+[32m+[m[32mpatios, porches, and yards of Boyle Heights: They’re a rasquache pastiche[m
+[32m+[m[32mof creative shade solutions. Bamboo mats tied to wrought-iron fences.[m
+[32m+[m[32mFaded umbrellas lashed into place and colliding with bougainvillea-laced[m
+[32m+[m[32mtrellises. Tarps strung in elegant, overlapping swoops—“to protect mi[m
+[32m+[m[32mpadre y la Virgen de Guadalupe,” says Gubernal Velasquez, gesturing[m
+[32m+[m[32mfrom under a neat white awning toward his aging father and a nearly life-[m
+[32m+[m[32msize religious icon, both in deep shade. These are design solutions born out[m
+[32m+[m[32mof necessity, Rojas says, that the city can learn from and encourage while[m
+[32m+[m[32mwaiting for the tree canopy to grow in or the city itself to be reshaped.[m
+[32m+[m
+[32m+[m[32mL.A. IS NOT ALONE[m
+[32m+[m
+[32m+[m[32mBaltimore, Maryland, is also hiring residents to plant trees in under-[m
+[32m+[m[32mserved communities.[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true  13/19[m
+[32m+[m[32m10/25/21, 3:03 PM               Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32mPhoenix, Arizona, is targeting the hottest neighborhoods—low[m
+[32m+[m
+[32m+[m[32mincome and primarily Hispanic—for tree planting, shade structures,[m
+[32m+[m
+[32m+[m[32mand redesigned streets.[m
+[32m+[m
+[32m+[m[32mBoston, Massachusetts, is one of many cities that have created[m
+[32m+[m[32msophisticated shade maps to drive future planning efforts. For more[m
+[32m+[m[32mstories about how to help the planet, go to natgeo.com/planet.[m
+[32m+[m
+[32m+[m[32mVargas, the tree planter, takes the long view. He knows the value of a[m
+[32m+[m[32mmoment of shade, and he knows that it matters even more for the abue-[m
+[32m+[m[32mlitas in his neighborhood walking to pick up their grandchildren; for the[m
+[32m+[m[32mdomestic workers walking to the bus stop in the sweltering summer; for[m
+[32m+[m[32meveryone who doesn’t have an air conditioner. A bead of sweat rolls down[m
+[32m+[m[32mhis cheek as he digs a hole for a spindly crape myrtle, one of 1,400 new[m
+[32m+[m[32mtrees he’s helped plant in Huntington Park, his hometown in southern Los[m
+[32m+[m[32mAngeles County.[m
+[32m+[m
+[32m+[m[32m                                                              ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32m“This is not a short-term thing. We won’t feel the effects this year, next[m
+[32m+[m[32myear, maybe not even in 10 years. The people who are going to feel it are[m
+[32m+[m[32mthe next generation,” he says. “Slowly but surely, we’ll get there so it’s less[m
+[32m+[m[32mhot throughout the projects.”[m
+[32m+[m
+[32m+[m[32mThe National Geographic Society is committed to illuminating and protecting[m
+[32m+[m[32mthe wonder of our world. Learn more about the Society’s support of its[m
+[32m+[m[32mExplorers.[m
+[32m+[m
+[32m+[m[32mStaff writer Alejandra Borunda covers climate change and efforts to adapt to[m
+[32m+[m[32mit. Colorado-based photographer Elliot Ross focuses on the American[m
+[32m+[m[32mcondition and spaces in transition.[m
+[32m+[m
+[32m+[m[32mThis story appears in the July 2021 issue of National Geographic magazine.[m
+[32m+[m
+[32m+[m[32mSHARE                    TWEET  EMAIL[m
+[32m+[m
+[32m+[m[32m                 READ THIS NEXT                                                                                   14/19[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true[m
+[32m+[m[32m10/25/21, 3:03 PM  Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                   SCIENCE[m
+[32m+[m
+[32m+[m[32m                   Signs of an extreme planet found in another galaxy[m
+[32m+[m
+[32m+[m[32m                   An odd x-ray signal hints that a Saturn-size world could be the first known[m
+[32m+[m[32m                   planet lurking in the Whirlpool Galaxy 28 million light-years away.[m
+[32m+[m
+[32m+[m[32m                                                 ENVIRONMENT PLANET POSSIBLE[m
+[32m+[m
+[32m+[m[32m                                          Timber salvaged from New York City buildings reveals ancient[m
+[32m+[m[32m                                          climate[m
+[32m+[m
+[32m+[m[32m                                                 FA M I LY C O RO N AV I RU S C OV E R AG E[m
+[32m+[m
+[32m+[m[32m                                          Helping kids overcome a fear of shots[m
+[32m+[m
+[32m+[m[32m                                                 MAGAZINE PLANET POSSIBLE[m
+[32m+[m
+[32m+[m[32m                                          An icy world is in meltdown, amid penguin population shifts[m
+[32m+[m
+[32m+[m[32m                                                                                                        ADVERTISEMENT  15/19[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true[m
+[32m+[m[32m10/25/21, 3:03 PM                                             Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                                    GO FURTHER[m
+[32m+[m
+[32m+[m[32m                                                    ANIMALS[m
+[32m+[m
+[32m+[m[32mANIMALS                             ANIMALS                                                                       ANIMALS[m
+[32m+[m
+[32m+[m[32mLemurs sing in unique human-like    Africa’s only penguins face an uncertain                                      Domestic horses' mysterious ori[m
+[32m+[m[32mrhythms                             future                                                                        finally be revealed[m
+[32m+[m
+[32m+[m[32m                                    ENVIRONMENT[m
+[32m+[m
+[32m+[m[32mENVIRONMENT PLANET POSSIBLE         ENVIRONMENT                                                                   ENVIRONMENT PLANET POSS[m
+[32m+[m
+[32m+[m[32mTimber salvaged from New York City  A rising sea is eating away this Brazilian                                    How to brew a greener beer[m
+[32m+[m[32mbuildings reveals ancient climate   town[m
+[32m+[m
+[32m+[m[32m                                    HISTORY & CULTURE[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true  16/19[m
+[32m+[m[32m10/25/21, 3:03 PM                        Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32mHISTORY MAGAZINE                         HISTORY & CULTURE                                                        HISTORY & CULTURE[m
+[32m+[m
+[32m+[m[32mDid a 'werewolf' really terrorize 1700s  Ancient solar storm pinpoints Viking                                     From LGBT to LGBTQIA+: The ev[m
+[32m+[m[32mFrance?                                  settlement in Americas                                                   recognition of identity[m
+[32m+[m
+[32m+[m[32m                                         SCIENCE[m
+[32m+[m
+[32m+[m[32mSCIENCE                                  SCIENCE                                                                   PAID CONTENT[m
+[32m+[m
+[32m+[m[32mDeepest earthquake ever detected         Signs of an extreme planet found in                                      UAE's giant leap into space[m
+[32m+[m[32mstruck 467 miles beneath Japan           another galaxy[m
+[32m+[m
+[32m+[m[32m                                         T R AV E L[m
+[32m+[m
+[32m+[m[32mTRAVEL WORLD HERITAGE                    T R AV E L                                                                PAID CONTENT[m
+[32m+[m
+[32m+[m[32mCan UNESCO status save the world’s       Inspire young minds with these winter                                    A yearning to return[m
+[32m+[m[32moldest mummies?                          getaways[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true                               17/19[m
+[32m+[m[32m10/25/21, 3:03 PM                                                                Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                                     SUBSCRIBER EXCLUSIVE CONTENT[m
+[32m+[m
+[32m+[m[32m                                                                                          MAGAZINE[m
+[32m+[m
+[32m+[m[32m                                                MAGAZINE                                                          ANIMALS[m
+[32m+[m
+[32m+[m[32m                                     MAGAZINE                How viruses shape our                                                MAGAZINE[m
+[32m+[m
+[32m+[m[32m                                       Why are people so                                  world     The era of greyhound[m
+[32m+[m[32m                   MSaeresthhroeovwreerNdwApiSllalAend’sxeapntnelogwreobMsaersss?ed with              rcaocminignginttohaeiSmnUeaee.tSghnh.irdonoisweudgphleifhoeipsoltenorhMyaavres[m
+[32m+[m
+[32m+[m[32m                                     EXPLORE                                                                                      READ[m
+[32m+[m
+[32m+[m[32m                                                READ                                                                        READ[m
+[32m+[m
+[32m+[m[32m                                                                                          READ[m
+[32m+[m
+[32m+[m[32m                                                             SEE MORE[m
+[32m+[m
+[32m+[m[32mLEGAL                                OUR SITES                                            JOIN US                                 FOLLOW US[m
+[32m+[m[32m                                                                                                                                        United States (Change)[m
+[32m+[m[32mTerms of Use                         Nat Geo Home                                         Subscribe[m
+[32m+[m[32mPrivacy Policy                       Attend a Live Event                                  Customer Service[m
+[32m+[m[32mYour California Privacy Rights       Book a Trip                                          Renew Subscription[m
+[32m+[m[32mChildren's Online Privacy Policy     Buy Maps                                             Manage Your Subscription[m
+[32m+[m[32mInterest-Based Ads                   Inspire Your Kids                                    Work at Nat Geo[m
+[32m+[m[32mAbout Nielsen Measurement            Shop Nat Geo                                         Sign up for Our Newsletters[m
+[32m+[m[32mDo Not Sell My Personal Information  Visit the D.C. Museum                                Contribute to Protect the Planet[m
+[32m+[m[32m                                     Watch TV                                             Pitch a Story[m
+[32m+[m[32m                                     Learn About Our Impact[m
+[32m+[m[32m                                     Support our Mission[m
+[32m+[m[32m                                     Nat Geo Partners[m
+[32m+[m[32m                                     Masthead[m
+[32m+[m[32m                                     Press Room[m
+[32m+[m[32m                                     Advertise With Us[m
+[32m+[m
+[32m+[m[32m                   Copyright © 1996 2015 National Geographic Society Copyright © 2015 2021 National Geographic Partners LLC All rights[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true                                                                      18/19[m
+[32m+[m[32m10/25/21, 3:03 PM                                                       Los Angeles confronts its shady divide[m
+[32m+[m
+[32m+[m[32m                   Copyright © 1996-2015 National Geographic Society Copyright © 2015-2021 National Geographic Partners, LLC. All rights[m
+[32m+[m[32m                   reserved[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/magazine/article/los-angeles-confronts-its-shady-divide-feature?loggedin=true                          19/19[m
+[32m+[m[32m[m
+\ No newline at end of file[m
+[1mdiff --git "a/background_sources/People of color 3x more likely to live in \342\200\230nature deprived\342\200\231 U.S. neighborhoods.pdf" "b/background_sources/People of color 3x more likely to live in \342\200\230nature deprived\342\200\231 U.S. neighborhoods.pdf"[m
+[1mnew file mode 100644[m
+[1mindex 0000000..067ebb3[m
+[1m--- /dev/null[m
+[1m+++ "b/background_sources/People of color 3x more likely to live in \342\200\230nature deprived\342\200\231 U.S. neighborhoods.pdf"[m	
+[36m@@ -0,0 +1,443 @@[m
+[32m+[m[32m10/25/21, 3:06 PM  People of color 3x more likely to live in ‘nature deprived’ U.S. neighborhoods[m
+[32m+[m
+[32m+[m[32m                   Ma…              Renew                                                                           SUBSCRIBE  MENU[m
+[32m+[m
+[32m+[m[32m                                                                                                                                     A[m
+[32m+[m
+[32m+[m[32mKeith Russell, program manager of urban conservation at Audubon Pennsylvania, conducts a[m
+[32m+[m[32mbreeding bird census at Philadelphia's Wissahickon Valley Park in June 2020. The viral video of a[m
+[32m+[m[32mwhite woman targeting a Black bird watcher in New York's Central Park has renewe... Read More[m
+[32m+[m
+[32m+[m[32mPHOTOGRAPH BY JACQUELINE LARMA, AP[m
+[32m+[m
+[32m+[m[32mSCIENCE            RACE IN AMERICA[m
+[32m+[m
+[32m+[m[32mHow ‘nature deprived’[m
+[32m+[m[32mneighborhoods impact the health[m
+[32m+[m[32mof people of color[m
+[32m+[m
+[32m+[m[32mGreen spaces make people healthier and happier, but decades of systemic[m
+[32m+[m[32mracism have left many people of color living in areas without access to[m
+[32m+[m[32mnature.[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                   1/14[m
+[32m+[m[32m10/25/21, 3:06 PM        People of color 3x more likely to live in ‘nature deprived’ U.S. neighborhoods[m
+[32m+[m
+[32m+[m[32m   BY ALEJANDRA BORUNDA[m
+[32m+[m
+[32m+[m[32m                         Ma…  Renew                                                                                 SUBSCRIBE  MENU[m
+[32m+[m
+[32m+[m[32mP U B L I S H E D J U LY 2 9, 2 0 2 0 • 1 0 M I N R E A D[m
+[32m+[m
+[32m+[m[32mIn March, Philadelphia-based emergency room doctor Eugenia South[m
+[32m+[m[32mfound herself deep in the throes of stress. The COVID-19 pandemic was[m
+[32m+[m[32mspiraling out of control in the city, and more and more patients were[m
+[32m+[m[32mpouring into the hospital where she worked, which was short of masks.[m
+[32m+[m[32mSouth knew she had to protect her three young children at home and[m
+[32m+[m[32msomehow keep herself calm and clear-eyed.[m
+[32m+[m
+[32m+[m[32mSouth had spent years doing scientific research on the powerful effects of[m
+[32m+[m[32mnature on human health, both physical and mental. So every day, even in[m
+[32m+[m[32mthe damp chill of the waning winter, she walked down the street to a small[m
+[32m+[m[32mpark nearby and sat quietly for just a few minutes among the trees, letting[m
+[32m+[m[32mher body relax.[m
+[32m+[m
+[32m+[m[32mThat opportunity to take a moment in nature is something many[m
+[32m+[m[32mresearchers have increasingly identified as valuable for people’s mental[m
+[32m+[m[32mand physical health. But a new report underscores a reality that many[m
+[32m+[m[32mBlack and brown Americans have recognized for years: In the United[m
+[32m+[m[32mStates, people of color live in places with less immediate access to nature[m
+[32m+[m[32mthan white people do. The report, led by the Hispanic Access Foundation[m
+[32m+[m[32mand the Center for American Progress, found that communities of color are[m
+[32m+[m[32malmost three times more likely than white communities to live in “nature[m
+[32m+[m[32mdeprived” areas, those that have less or no access to parks, paths, and[m
+[32m+[m[32mgreen spaces.[m
+[32m+[m
+[32m+[m[32mHistorical racism in housing practices, city planning, and institutions has[m
+[32m+[m
+[32m+[m[32mshaped the pattern, which has been well documented for decades. But its[m
+[32m+[m
+[32m+[m[32meffects are particularly damaging this summer. During COVID-19-related[m
+[32m+[m
+[32m+[m[32mrestrictions, access to outdoor recreation has emerged as a crucial[m
+[32m+[m
+[32m+[m[32mcomponent of people’s emotional and physical wellbeing. At the same[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                   2/14[m
+[32m+[m[32m10/25/21, 3:06 PM         People of color 3x more likely to live in ‘nature deprived’ U.S. neighborhoods[m
+[32m+[m
+[32m+[m[32m                              Ma…                  Renew                                                            SUBSCRIBE  MENU[m
+[32m+[m
+[32m+[m[32mtime, it has become increasingly obvious that Black and brown Americans[m
+[32m+[m[32mare unsafe in many of the country’s public spaces.[m
+[32m+[m
+[32m+[m[32m“The distribution of these nature disparities is not an accident,” says[m
+[32m+[m[32mShanna Edberg, one of the authors of the report and the director of[m
+[32m+[m[32mConservation Programs at the Hispanic Access Foundation. “It was a[m
+[32m+[m[32mchoice, made over generations, from redlining, to choosing to exclude[m
+[32m+[m[32mminorities from certain neighborhoods, to choosing to put parks in certain[m
+[32m+[m[32mneighborhoods, and choosing to pave over communities of color to build[m
+[32m+[m[32mhighways and coal plants.”[m
+[32m+[m
+[32m+[m[32m                          ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32m                   People of color are more likely to live[m
+[32m+[m[32m                   in an area that is deprived of nature.[m
+[32m+[m
+[32m+[m[32m                   Percent living in an area with less[m
+[32m+[m[32m                   natural land than the U.S. state median[m
+[32m+[m
+[32m+[m[32m                   White 23%[m
+[32m+[m
+[32m+[m[32m                   American Indian or  48.2[m
+[32m+[m[32m                   Alaska Native[m
+[32m+[m
+[32m+[m[32m                   Asian                     66.9[m
+[32m+[m
+[32m+[m[32m                   Hispanic or Latino        67[m
+[32m+[m
+[32m+[m[32m                   Black or African American 68.2[m
+[32m+[m
+[32m+[m[32m                   Low-income communities also live[m
+[32m+[m[32m                   in less nature-rich areas.[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                   3/14[m
+[32m+[m[32m10/25/21, 3:06 PM  People of color 3x more likely to live in ‘nature deprived’ U.S. neighborhoods[m
+[32m+[m
+[32m+[m[32m                   Moderate income 47.8%         Renew                                                              SUBSCRIBE  MENU[m
+[32m+[m[32m                                            Ma…[m
+[32m+[m
+[32m+[m[32m                   High income  51.9[m
+[32m+[m[32m                   Low income              69.7[m
+[32m+[m
+[32m+[m[32m                   Low income and non-white      76.4[m
+[32m+[m
+[32m+[m[32m                   DIANA MARQUES AND IRENE BERMAN-VAPORIS, NG STAFF[m
+[32m+[m[32m                   SOURCE: “THE NATURE GAP,” JENNY ROWLAND,[m
+[32m+[m[32m                   CENTER FOR AMERICAN PROGRESS[m
+[32m+[m
+[32m+[m[32mNature as medicine[m
+[32m+[m
+[32m+[m[32mNature is good for us in many ways. It’s definitely good for cities and[m
+[32m+[m[32mtowns, in a practical sense. Green spaces and urban nature play an often[m
+[32m+[m[32munderappreciated role in keeping cities functional and safe. Natural spaces[m
+[32m+[m[32msop up stormwater, keeping floods at bay. Trees shade pavement and[m
+[32m+[m[32mconcrete, cooling cities in summer. Plants suck up heavy metals from the[m
+[32m+[m[32msoil. The list goes on.[m
+[32m+[m
+[32m+[m[32mLess flooding means people won’t be exposed to the stresses a flood might[m
+[32m+[m[32minduce, or the mold that might get left behind. Cooler temperatures help[m
+[32m+[m[32mpeople survive heat waves. Trees and plants help clean the air, too, which[m
+[32m+[m[32mkeeps lungs healthier—an effect that has extraordinarily important impacts[m
+[32m+[m[32mnow, says Jenny Rowland Shea, another author of the report and an[m
+[32m+[m[32manalyst at the Center for American Progress. Just a tiny rise in the amount[m
+[32m+[m[32mof pollution increased the likelihood of dying from COVID-19 by 8 percent,[m
+[32m+[m[32mone study noted. Others have estimated even stronger effects.[m
+[32m+[m
+[32m+[m[32m                   ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mNatural spaces are good for our brains, too. One study South led found that[m
+[32m+[m
+[32m+[m[32mcommunity members reported better mental-health status after vacant lots[m
+[32m+[m
+[32m+[m[32min their neighborhoods were cleaned up and carefully planted. The simple[m
+[32m+[m
+[32m+[m[32mact of walking past a natural-feeling space, even if it’s not pristine, can[m
+[32m+[m
+[32m+[m[32mlower heart rates and reduce stress. Walks in nature, another study[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                   4/14[m
+[32m+[m[32m10/2l5o/2w1, 3e:0r6 PhMeart rates and reduce sPteropelesosf c.olWor 3ax mlkorse liiknely nto laivteuinr‘neat,urae dneporivtehd’eUr.S.snetiughbdoryhoods  MENU[m
+[32m+[m[32m  showed, left people with clinical depMreas…sion feelingRehnaepwpier SthUaBnS CthReI ByEdid[m
+[32m+[m
+[32m+[m[32mafter a walk in an environment with more concrete, and improved their[m
+[32m+[m[32mshort-term memory. Yet another study suggested that 90-minute nature[m
+[32m+[m[32mwalks could potentially help stave off depression.[m
+[32m+[m
+[32m+[m[32mEarly exposure to the natural world can have profound effects on children,[m
+[32m+[m[32madds Luis Villa, the executive director of Latino Outdoors. The streets of[m
+[32m+[m[32mhis childhood neighborhood in Los Angeles were lined with fruit trees that[m
+[32m+[m[32mbirds fluttered around, and his family spent Sunday mornings at a nearby[m
+[32m+[m[32mpark. Even those small glimpses of the natural world influenced him[m
+[32m+[m[32mprofoundly, leading him toward conservation and environmental issues as[m
+[32m+[m[32ma career path.[m
+[32m+[m
+[32m+[m[32mFamilies with children live in areas[m
+[32m+[m[32mmore deprived of nature than the[m
+[32m+[m[32moverall population.[m
+[32m+[m
+[32m+[m[32mPercent living in an area with less[m
+[32m+[m[32mnatural land than the U.S. state median[m
+[32m+[m
+[32m+[m[32mWithout        36%[m
+[32m+[m[32mchildren[m
+[32m+[m
+[32m+[m[32mWith children             65[m
+[32m+[m
+[32m+[m[32mWhite          39[m
+[32m+[m[32mwith children[m
+[32m+[m
+[32m+[m[32mNon-white with children       75[m
+[32m+[m
+[32m+[m[32mLow income with children  66[m
+[32m+[m[32m                             71[m
+[32m+[m[32mNon-white,[m
+[32m+[m[32mlow income with children[m
+[32m+[m
+[32m+[m[32mDIANA MARQUES AND IRENE BERMAN-VAPORIS, NG STAFF[m
+[32m+[m[32mSOURCE: JENNY ROWLAND, “THE NATURE GAP,”[m
+[32m+[m[32mCENTER FOR AMERICAN PROGRESS[m
+[32m+[m
+[32m+[m[32m          ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                                             5/14[m
+[32m+[m[32m10/25/21, 3:06 PM  People of color 3x more likely to live in ‘nature deprived’ U.S. neighborhoods[m
+[32m+[m
+[32m+[m[32m                   Ma…  Renew                                                                                       SUBSCRIBE  MENU[m
+[32m+[m
+[32m+[m[32mSome researchers have even put a dollar value on how much nature calms[m
+[32m+[m[32mour minds and protects our bodies. One team found that urban trees in 55[m
+[32m+[m[32mcities across the U.S. help avoid $4 billion in health care costs each year[m
+[32m+[m[32mbecause they clean the air around them, keeping people’s lungs healthier.[m
+[32m+[m[32mThe Trust for Public Land estimated that the health benefits of natural[m
+[32m+[m[32mspaces in just 10 U.S. cities combined could be valued as high as $69[m
+[32m+[m[32mmillion each year.[m
+[32m+[m
+[32m+[m[32mBut in many communities across the U.S., being close to nature—and all of[m
+[32m+[m[32mthe benefits that come from it—is not a given. The report authors pulled[m
+[32m+[m[32mtogether countrywide data about where humans had actively modified the[m
+[32m+[m[32mland around them, from building roads to suburban development to[m
+[32m+[m[32mbuilding out oil and gas infrastructure or more. If a neighborhood had[m
+[32m+[m[32mmore human disturbance than the state average, they considered it “nature[m
+[32m+[m[32mdeprived.” Then, they looked at who lived there.[m
+[32m+[m
+[32m+[m[32mIn nearly every state in the nation, white neighborhoods are located[m
+[32m+[m[32msomewhere that has less industrial development, agriculture, or oil and gas[m
+[32m+[m[32minfrastructure, and fewer roads. Within some states, the disparities are[m
+[32m+[m[32meven more drastic: In Connecticut, Kentucky, Massachusetts, and New[m
+[32m+[m[32mYork, well over 90 percent of people of color live in heavily modified,[m
+[32m+[m[32mnature-poor neighborhoods, the new report finds. Less than 15 percent of[m
+[32m+[m[32mprimarily white communities are so heavily nature deprived.[m
+[32m+[m
+[32m+[m[32mAcross the country, 75 percent of all non-white families with children live[m
+[32m+[m[32min a census tract—essentially, a neighborhood—with less natural land than[m
+[32m+[m[32mthe state average.[m
+[32m+[m
+[32m+[m[32mIt’s no accident[m
+[32m+[m
+[32m+[m[32mAn old truism says that someone’s zip code is a better predictor of their[m
+[32m+[m
+[32m+[m[32mhealth than anything else. And where people live has been shaped by a[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                   6/14[m
+[32m+[m[32m10/2h5/e21a, 3l:t0h6 PMthan anything else. AndPeowplehofecroleor 3pxemooreplilkeelyltiovlivee ihn ‘anasturbe deeperinved’sUh.Sa. npeieghdborbhoyodsa  MENU[m
+[32m+[m[32m  long history of racial discrimination,Mbao…th explicit RaenndewimpliScUitB. S C R I B E[m
+[32m+[m[32m  Starting in the early 20th century, in communities across the country,[m
+[32m+[m[32m  many property owners attached racially restricted “covenants” to their[m
+[32m+[m[32m  deeds, ensuring that the properties could only be sold to white buyers.[m
+[32m+[m[32m  Such covenants, as well as less formalized discrimination, drove racial[m
+[32m+[m[32m  segregation in cities and towns nationwide.[m
+[32m+[m
+[32m+[m[32m                                                                  ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mBy the 1930s, the federal government joined in explicitly segregating[m
+[32m+[m[32mcommunities with the development of “redlining” maps of city[m
+[32m+[m[32mneighborhoods that were used to decide where to grant federally backed[m
+[32m+[m[32mhousing loans. Areas graded “A”—and outlined in green on the maps—were[m
+[32m+[m[32mdeemed suitable for investment. They almost always encompassed[m
+[32m+[m[32mprimarily white communities, and families there could build wealth via[m
+[32m+[m[32mproperty ownership. Areas graded “D” and outlined in red were considered[m
+[32m+[m[32mrisky, and were almost always filled with communities of color.[m
+[32m+[m
+[32m+[m[32mCities often invested heavily in improving the “A” neighborhoods—planting[m
+[32m+[m[32mtrees, building parks, beautifying—and neglected the redlined areas.[m
+[32m+[m
+[32m+[m[32mThe nature gap, says Villa, “is directly correlated to the wealth gap.”[m
+[32m+[m
+[32m+[m[32mThe effects are clearly visible today, he says. For example, residents of[m
+[32m+[m[32mBlack neighborhoods across the country breathe, on average, about 20[m
+[32m+[m[32mpercent more harmful particles than residents of white communities do,[m
+[32m+[m[32mthough they bear less responsibility for causing the problem by driving,[m
+[32m+[m[32mconsuming goods, or other actions that contribute to air pollution. Their[m
+[32m+[m[32mlungs absorb a “pollution burden” far disproportionate to their impact on[m
+[32m+[m[32mthe planet.[m
+[32m+[m
+[32m+[m[32mPart of the cause for the extra exposure the new study suggests is that the[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                                          7/14[m
+[32m+[m[32m10/2P5/a21r, 3t:0o6 PfMthe cause for the extra Peeoxplpe oof scoulorr3ex,motrhe leikenly teowlivesint‘unadturye despurivgedg’ Ue.Ss.tnsei,ghibsorhtohodas t the[m
+[32m+[m[32m  kinds of landscapes that lead to cleanMear…air are genReernaelwly oneSsUfBuSllC oR fI BtrEees M E N U[m
+[32m+[m[32m  and plants and far from industrial sites or highways, yet these amenities[m
+[32m+[m[32m  and natural spaces are concentrated within primarily white, affluent[m
+[32m+[m[32m  neighborhoods.[m
+[32m+[m
+[32m+[m[32m A summer when everyone could use some nature[m
+[32m+[m
+[32m+[m[32m  The need for nearby nature is particularly acute this summer. As COVID-[m
+[32m+[m[32m  19 has severely limited mobility and activity, local parks and natural areas[m
+[32m+[m[32m  have become some of the only places people can spend time outdoors, and[m
+[32m+[m[32m  they provide an emotional and physical lifeline for many.[m
+[32m+[m
+[32m+[m[32m  “As human beings, we’re hardwired to be connected to natural spaces. For[m
+[32m+[m[32m  all of our evolutionary history, we were out there, in close contact with[m
+[32m+[m[32m  nature,” says Villa. “The greatest evidence of that has come during the[m
+[32m+[m[32m  pandemic. Look how we’ve responded: One of the biggest things we’ve[m
+[32m+[m[32m  seen is this longing to be outdoors,” he says. According to Google data,[m
+[32m+[m[32m  park visits have increased by 54 percent compared to the first few weeks of[m
+[32m+[m[32m  2020.[m
+[32m+[m
+[32m+[m[32m                                                                  ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32mSimultaneously, inequalities and injustices in the way people experience[m
+[32m+[m[32mpublic spaces have been highlighted, with tragic consequences. Ahmaud[m
+[32m+[m[32mArbery, a Black runner in Georgia, was killed while jogging on a[m
+[32m+[m[32mneighborhood street in February. Christian Cooper, a Black birdwatcher in[m
+[32m+[m[32mNew York City’s Central Park, was threatened by a white woman in May[m
+[32m+[m[32mwhen he asked her to obey the rules and leash her dog.[m
+[32m+[m
+[32m+[m[32mEveryone needs and deserves to feel safe in natural spaces, says South, and[m
+[32m+[m
+[32m+[m[32meveryone deserves to have those spaces close by, welcoming, and[m
+[32m+[m
+[32m+[m[32maccessible.[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                                               8/14[m
+[32m+[m[32m10/25/21, 3:06 PM         People of color 3x more likely to live in ‘nature deprived’ U.S. neighborhoods[m
+[32m+[m
+[32m+[m[32m                          Ma…    Renew                                                                              SUBSCRIBE  MENU[m
+[32m+[m
+[32m+[m[32m“Nature: It’s not just a nice-to-have amenity,” she says. “It’s a vital aspect[m
+[32m+[m[32mof creating a healthy community. If we want to deal with, to reckon with[m
+[32m+[m[32msystemic racism and the health disparities that come from that, well,[m
+[32m+[m[32mnature, broadly defined, has to be a part of that.”[m
+[32m+[m
+[32m+[m[32m                   SHARE  TWEET                                                                                     EMAIL[m
+[32m+[m
+[32m+[m[32mREAD THIS NEXT[m
+[32m+[m
+[32m+[m[32mSCIENCE[m
+[32m+[m
+[32m+[m[32mSigns of an extreme planet found in another galaxy[m
+[32m+[m
+[32m+[m[32mAn odd x-ray signal hints that a Saturn-size world could be the first known[m
+[32m+[m[32mplanet lurking in the Whirlpool Galaxy 28 million light-years away.[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                   9/14[m
+[32m+[m[32m10/25/21, 3:06 PM  People of color 3x more likely to live in ‘nature deprived’ U.S. neighborhoods[m
+[32m+[m
+[32m+[m[32m                   E N V I R O N M E N T P ML Aa…N E T P O S S I B LReEnew                                          SUBSCRIBE  MENU[m
+[32m+[m
+[32m+[m[32m                   Timber salvaged from New York City buildings reveals ancient[m
+[32m+[m[32m                   climate[m
+[32m+[m
+[32m+[m[32m                   FA M I LY C O RO N AV I RU S C OV E R AG E[m
+[32m+[m
+[32m+[m[32m                   Helping kids overcome a fear of shots[m
+[32m+[m
+[32m+[m[32m                   MAGAZINE PLANET POSSIBLE[m
+[32m+[m
+[32m+[m[32m                   An icy world is in meltdown, amid penguin population shifts[m
+[32m+[m
+[32m+[m[32m                   ADVERTISEMENT[m
+[32m+[m
+[32m+[m[32m                   GO FURTHER[m
+[32m+[m
+[32m+[m[32m                   ANIMALS[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                   10/14[m
+[32m+[m[32m10/25/21, 3:06 PM  People of color 3x more likely to live in ‘nature deprived’ U.S. neighborhoods[m
+[32m+[m
+[32m+[m[32m                                    Ma…  Renew                                                                      SUBSCRIBE  MENU[m
+[32m+[m
+[32m+[m[32mANIMALS                                  ANIMALS                                                                               AN[m
+[32m+[m
+[32m+[m[32mLemurs sing in unique human-like         Africa’s only penguins face an uncertain                                              Dom[m
+[32m+[m[32mrhythms                                  future                                                                                fina[m
+[32m+[m
+[32m+[m[32m                   ENVIRONMENT[m
+[32m+[m
+[32m+[m[32mENVIRONMENT PLANET POSSIBLE              ENVIRONMENT                                                                           ENV[m
+[32m+[m
+[32m+[m[32mTimber salvaged from New York City       A rising sea is eating away this Brazilian                                            How[m
+[32m+[m[32mbuildings reveals ancient climate        town[m
+[32m+[m
+[32m+[m[32m                   HISTORY & CULTURE[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                   11/14[m
+[32m+[m[32m10/25/21, 3:06 PM  People of color 3x more likely to live in ‘nature deprived’ U.S. neighborhoods[m
+[32m+[m
+[32m+[m[32m                                  Ma…                Renew                                                          SUBSCRIBE  MENU[m
+[32m+[m
+[32m+[m[32mHISTORY MAGAZINE                         HISTORY & CULTURE                                                                     HIS[m
+[32m+[m
+[32m+[m[32mDid a 'werewolf' really terrorize 1700s  Ancient solar storm pinpoints Viking                                                  Fro[m
+[32m+[m[32mFrance?                                  settlement in Americas                                                                reco[m
+[32m+[m
+[32m+[m[32m                                         SCIENCE[m
+[32m+[m
+[32m+[m[32mSCIENCE                                  SCIENCE                                                                                     PA[m
+[32m+[m
+[32m+[m[32mDeepest earthquake ever detected         Signs of an extreme planet found in                                                   UA[m
+[32m+[m
+[32m+[m[32mstruck 467 miles beneath Japan           another galaxy[m
+[32m+[m
+[32m+[m[32m                                         T R AV E L[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                   12/14[m
+[32m+[m[32m10/25/21, 3:06 PM            People of color 3x more likely to live in ‘nature deprived’ U.S. neighborhoods[m
+[32m+[m
+[32m+[m[32mTRAVEL WORLD HERITAGE               Ma…                   Renew                                                     SUBSCRIBE           MENU[m
+[32m+[m
+[32m+[m[32m                                            T R AV E L                                                                                                PA[m
+[32m+[m
+[32m+[m[32mCan UNESCO status save the world’s          Inspire young minds with these winter A y[m
+[32m+[m[32moldest mummies?                             getaways[m
+[32m+[m
+[32m+[m[32m                   SUBSCRIBER EXCLUSIVE CONTENT[m
+[32m+[m
+[32m+[m[32m                                                                 MAGAZINE[m
+[32m+[m
+[32m+[m[32m                                            MAGAZINE                                                                           ANIMALS[m
+[32m+[m
+[32m+[m[32m                   MAGAZINE                           How viruses shape our[m
+[32m+[m
+[32m+[m[32m                             Why are people so                                                                      worldThe era        of  greyho[m
+[32m+[m[32m                   See how NASA’sdnaenwg obsessed with                                                                                  in  thSeeeUh.So[m
+[32m+[m[32m                   Mars rover will explore                                                                                      racing[m
+[32m+[m[32m                         the red planet                                                                                   coming toimanatgheirnno[m
+[32m+[m[32m                                            Mars?[m
+[32m+[m
+[32m+[m[32m                   EXPLORE[m
+[32m+[m
+[32m+[m[32m                                            READ                                                                                        READ[m
+[32m+[m
+[32m+[m[32m                                                                                                                    READ[m
+[32m+[m
+[32m+[m[32m                                                                                   SEE MORE                                                   13/14[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color[m
+[32m+[m[32m10/25/21, 3:06 PM          People of color 3x more likely to live in ‘nature deprived’ U.S. neighborhoods[m
+[32m+[m
+[32m+[m[32m                           Ma…                              Renew                                                   SUBSCRIBE  MENU[m
+[32m+[m
+[32m+[m[32mLEGAL                      OUR SITES               JOIN US                                                          FOLLOW US[m
+[32m+[m
+[32m+[m[32mTerms of Use               Nat Geo Home            Subscribe                                                        United States (Change)[m
+[32m+[m[32mPrivacy Policy             Attend a Live Event     Customer Service[m
+[32m+[m[32mYour California Privacy    Book a Trip             Renew Subscription[m
+[32m+[m[32mRights                     Buy Maps                Manage Your Subscription[m
+[32m+[m[32mChildren's Online Privacy  Inspire Your Kids       Work at Nat Geo[m
+[32m+[m[32mPolicy                     Shop Nat Geo            Sign up for Our Newsletters[m
+[32m+[m[32mInterest-Based Ads         Visit the D.C. Museum   Contribute to Protect the[m
+[32m+[m[32mAbout Nielsen              Watch TV                Planet[m
+[32m+[m[32mMeasurement                Learn About Our Impact  Pitch a Story[m
+[32m+[m[32mDo Not Sell My Personal    Support our Mission[m
+[32m+[m[32mInformation                Nat Geo Partners[m
+[32m+[m[32m                           Masthead[m
+[32m+[m[32m                           Press Room[m
+[32m+[m[32m                           Advertise With Us[m
+[32m+[m
+[32m+[m[32m                   Copyright © 1996-2015 National Geographic Society  Copyright © 2015-2021 National[m
+[32m+[m[32m                   Geographic Partners, LLC. All rights reserved[m
+[32m+[m
+[32m+[m[32mhttps://www.nationalgeographic.com/science/article/how-nature-deprived-neighborhoods-impact-health-people-of-color                          14/14[m
+[32m+[m[32m[m
+\ No newline at end of file[m
+[1mdiff --git a/background_sources/acs_general_handbook_2020.pdf b/background_sources/acs_general_handbook_2020.pdf[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8944651[m
+[1m--- /dev/null[m
+[1m+++ b/background_sources/acs_general_handbook_2020.pdf[m
+[36m@@ -0,0 +1,3661 @@[m
+[32m+[m[32mUnderstanding and Using[m
+[32m+[m[32mAmerican Community Survey Data[m
+[32m+[m
+[32m+[m[32mWhat All Data Users Need to Know[m
+[32m+[m
+[32m+[m[32mIssued September 2020[m
+[32m+[m[32mAcknowledgments  Linda A. Jacobsen, Vice President, U.S. Programs, Population Reference[m
+[32m+[m[32m                 Bureau (PRB), and Mark Mather, Associate Vice President, U.S. Programs,[m
+[32m+[m[32m                 PRB, drafted this handbook in partnership with the U.S. Census Bureau’s[m
+[32m+[m[32m                 American Community Survey Office. Other PRB staff who assisted in[m
+[32m+[m[32m                 drafting and reviewing the handbook include: Beth Jarosz, Lillian Kilduff,[m
+[32m+[m[32m                 Kelvin Pollard, Paola Scommegna, and Marissa Slowey.[m
+[32m+[m
+[32m+[m[32m                 American Community Survey data users who provided feedback and case[m
+[32m+[m[32m                 studies for this handbook include: Joel Alvarez, Mike Carnathan, Clifford[m
+[32m+[m[32m                 Cook, Kenneth Hodges, Lisa Neidert, Joseph Salvo, Jim Skinner, Taylor[m
+[32m+[m[32m                 Tyger, Keith Wiley, and Oliver Wise.[m
+[32m+[m
+[32m+[m[32m                 Nicole Scanniello and Gretchen Gooding, Census Bureau, contributed to the[m
+[32m+[m[32m                 planning and review of the handbook series.[m
+[32m+[m
+[32m+[m[32m                 The American Community Survey program is under the direction of[m
+[32m+[m[32m                 Albert E. Fontenot Jr., Associate Director for Decennial Census Programs,[m
+[32m+[m[32m                 Deborah M. Stempowski, Assistant Director for Decennial Census Programs,[m
+[32m+[m[32m                 and Donna M. Daily, Chief, American Community Survey Office.[m
+[32m+[m
+[32m+[m[32m                 Other individuals from the Census Bureau who contributed to the review and[m
+[32m+[m[32m                 release of these handbooks include:[m
+[32m+[m
+[32m+[m[32m                 Mark Asiala, Karen Battle, Judy Belton, Jennifer Berkley, Patrick Cantwell,[m
+[32m+[m[32m                 Gary Chappell, Eunha Choi, Barbara Downs, Sirius Fuller, Colleen Keating,[m
+[32m+[m[32m                 Justin Keller, Amelia Kermis, Karen King, Maria Olmedo-Malagon,[m
+[32m+[m[32m                 Leanna Mellott, Jennifer Ortman, Nathan Ramsey, KaNin Reese, Jennifer[m
+[32m+[m[32m                 Reichert, Jonathan Rothbaum, Michael Starsinic, Janice Valdisera, David[m
+[32m+[m[32m                 Waddington, and Kai Wu.[m
+[32m+[m
+[32m+[m[32m                 Faye Brock, Linda Chen, and Christine Geter provided publication[m
+[32m+[m[32m                 management, graphic design and composition, and editorial review for print[m
+[32m+[m[32m                 and electronic media under the direction of Janet Sweeney, Chief of the[m
+[32m+[m[32m                 Graphic and Editorial Services Branch, Public Information Office.[m
+[32m+[m[32mUnderstanding and Using                                 Issued September 2020[m
+[32m+[m[32mAmerican Community Survey Data[m
+[32m+[m
+[32m+[m[32mWhat All Data Users Need to Know[m
+[32m+[m
+[32m+[m[32mU.S. Department of Commerce[m
+[32m+[m[32m                           Wilbur Ross,[m
+[32m+[m[32m                                Secretary[m
+[32m+[m
+[32m+[m[32m                 Karen Dunn Kelley,[m
+[32m+[m[32m                    Deputy Secretary[m
+[32m+[m
+[32m+[m[32m                        U.S. CENSUS BUREAU[m
+[32m+[m[32m                              Steven Dillingham,[m
+[32m+[m[32m                                              Director[m
+[32m+[m[32m          Suggested Citation[m
+[32m+[m
+[32m+[m[32m                      U.S. Census Bureau,[m
+[32m+[m[32m              Understanding and Using[m
+[32m+[m[32m        American Community Survey[m
+[32m+[m[32mData: What All Data Users Need to[m
+[32m+[m[32mKnow, U.S. Government Publishing[m
+[32m+[m[32m      Office, Washington, DC, 2020.[m
+[32m+[m
+[32m+[m[32m                                                              U.S. CENSUS BUREAU[m
+[32m+[m[32m                                                                      Steven Dillingham,[m
+[32m+[m[32m                                                                      Director[m
+[32m+[m[32m                                                                      Ron Jarmin,[m
+[32m+[m[32m                                                                      Deputy Director and Chief Operating Officer[m
+[32m+[m[32m                                                                      Albert E. Fontenot, Jr.,[m
+[32m+[m[32m                                                                      Associate Director for Decennial Census Programs[m
+[32m+[m[32m                                                                      Deborah M. Stempowski,[m
+[32m+[m[32m                                                                      Assistant Director for Decennial Census Programs[m
+[32m+[m[32m                                                                      Donna M. Daily,[m
+[32m+[m[32m                                                                      Chief, American Community Survey Office[m
+[32m+[m[32m                    Contents  1. Understanding the ACS: The Basics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1[m
+[32m+[m[32m                              2. Geographic Areas Covered in the ACS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8[m
+[32m+[m[32m                              3. Understanding and Using ACS Single-Year and Multiyear Estimates. . . . . . . 13[m
+[32m+[m[32m                              4. Making Comparisons With ACS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17[m
+[32m+[m[32m                              5. Accessing ACS Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20[m
+[32m+[m[32m                              6. Case Studies Using ACS Data. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31[m
+[32m+[m[32m                              7. Understanding Error and Determining Statistical Significance . . . . . . . . . . . . 53[m
+[32m+[m[32m                              8. Calculating Measures of Error for Derived Estimates . . . . . . . . . . . . . . . . . . . . 59[m
+[32m+[m[32m                              9. Differences Between the ACS and the Decennial Census . . . . . . . . . . . . . . . . 68[m
+[32m+[m[32m                              10. Using Dollar-Denominated Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72[m
+[32m+[m[32m                              11. Measures of Nonsampling Error. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75[m
+[32m+[m[32m                              12. Glossary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78[m
+[32m+[m
+[32m+[m[32mU.S. Census Bureau            Understanding and Using American Community Survey Data iii[m
+[32m+[m[32m                                                                                            What All Data Users Need to Know iii[m
+[32m+[m[32mThis page is intentionally blank.[m
+[32m+[m[32mUNDERSTANDING AND USING AMERICAN[m
+[32m+[m[32mCOMMUNITY SURVEY DATA:[m
+[32m+[m[32mWHAT ALL DATA USERS NEED TO KNOW[m
+[32m+[m
+[32m+[m[32mHave you ever thought about how, or why, new roads,        detailed portrait of the social, economic, housing, and[m
+[32m+[m[32mschools, after-school programs, or hospitals are placed    demographic characteristics of America’s communities.[m
+[32m+[m[32min communities? What makes communities attractive[m
+[32m+[m[32mto new businesses or tourists? Why there is no ATM or      This handbook provides an overview of the ACS to[m
+[32m+[m[32mbike-share kiosk on a street corner? The answers often     help data users understand the basics of the survey,[m
+[32m+[m[32mlie in the numbers—numbers that reflect what our com-      how the data can be used, how to judge the accuracy[m
+[32m+[m[32mmunities look like, how our communities have changed,      of ACS estimates, and how to access ACS data on the[m
+[32m+[m[32mand how those changes impact our daily lives.              Census Bureau’s Web site. It also includes some recent[m
+[32m+[m[32m                                                           case studies that show how ACS data are being used[m
+[32m+[m[32mThe U.S. Census Bureau’s American Community Survey         to help address important policy and program issues.[m
+[32m+[m[32m(ACS) is designed to answer these types of questions       Links to additional ACS resources, including technical[m
+[32m+[m[32mand to meet the needs of policymakers, business lead-      documentation for more advanced users, are included[m
+[32m+[m[32mers, planners, and others nationwide who need good         throughout the handbook.[m
+[32m+[m[32mdata to make informed decisions. The ACS provides a[m
+[32m+[m
+[32m+[m[32m1. UNDERSTANDING THE ACS: THE BASICS[m
+[32m+[m
+[32m+[m[32mWhat Is the ACS?                                           residents. These 5-year estimates represent data col-[m
+[32m+[m[32m                                                           lected over a period of 60 months.1[m
+[32m+[m[32mThe American Community Survey (ACS) is a nation-[m
+[32m+[m[32mwide survey designed to provide communities with           Because the ACS is based on a sample, rather than all[m
+[32m+[m[32mreliable and timely social, economic, housing, and         housing units and people, ACS estimates have a degree[m
+[32m+[m[32mdemographic data every year. A separate annual sur-        of uncertainty associated with them, called sampling[m
+[32m+[m[32mvey, called the Puerto Rico Community Survey (PRCS),       error. In general, the larger the sample, the smaller the[m
+[32m+[m[32mcollects similar data about the population and housing     level of sampling error. To help users understand the[m
+[32m+[m[32munits in Puerto Rico. The Census Bureau uses data col-     impact of sampling error on data reliability, the Census[m
+[32m+[m[32mlected in the ACS and the PRCS to provide estimates        Bureau provides a “margin of error” for each published[m
+[32m+[m[32mon a broad range of population, housing unit, and          ACS estimate. The margin of error, combined with the[m
+[32m+[m[32mhousehold characteristics for states, counties, cities,    ACS estimate, give users a range of values within which[m
+[32m+[m[32mschool districts, congressional districts, census tracts,  the actual “real-world” value is likely to fall.[m
+[32m+[m[32mblock groups, and many other geographic areas.[m
+[32m+[m[32m                                                            TIP: In general, data users should be careful in draw-[m
+[32m+[m[32mThe ACS has an annual sample size of about 3.5 million      ing conclusions about small differences between two[m
+[32m+[m[32maddresses, with survey information collected nearly         ACS estimates because they may not be statistically[m
+[32m+[m[32mevery day of the year. Data are pooled across a calen-      different.[m
+[32m+[m[32mdar year to produce estimates for that year. As a result,[m
+[32m+[m[32mACS estimates reflect data that have been collected        The ACS provides vital information on a yearly basis[m
+[32m+[m[32mover a period of time rather than for a single point in    about our nation and its people, helping local officials,[m
+[32m+[m[32mtime as in the decennial census, which is conducted        community leaders, businesses, and the public plan[m
+[32m+[m[32mevery 10 years and provides population counts as of        and make decisions based on the changes taking place[m
+[32m+[m[32mApril 1 of the census year.                                in their communities. Through the ACS, we know more[m
+[32m+[m[32m                                                           about demographic trends, jobs and occupations,[m
+[32m+[m[32mACS 1-year estimates are data that have been col-          educational attainment, veterans, homeownership, and[m
+[32m+[m[32mlected over a 12-month period and are available for        many other topics. Because data collection is ongoing,[m
+[32m+[m[32mgeographic areas with at least 65,000 people. Starting     the ACS also provides essential, up-to-date informa-[m
+[32m+[m[32mwith the 2014 ACS, the Census Bureau is also produc-       tion about population and housing characteristics[m
+[32m+[m[32ming “1-year Supplemental Estimates”—simplified ver-        both before and after natural disasters like Superstorm[m
+[32m+[m[32msions of popular ACS tables—for geographic areas with[m
+[32m+[m[32mat least 20,000 people. The Census Bureau combines              1 The Census Bureau previously released 3-year estimates based on[m
+[32m+[m[32m5 consecutive years of ACS data to produce multiyear       36 months of data collection. In 2015, the 3-year products were discon-[m
+[32m+[m[32mestimates for geographic areas with fewer than 65,000      tinued. The 2011–2013 ACS 3-year estimates, released in 2014, are the[m
+[32m+[m[32m                                                           last release of this product.[m
+[32m+[m
+[32m+[m[32mU.S. Census Bureau  Understanding and Using American Community Survey Data 1[m
+[32m+[m[32m                                                                                  What All Data Users Need to Know 1[m
+[32m+[m[32mTable 1.1. Population and Housing Data Included in American Community Survey Data Products[m
+[32m+[m
+[32m+[m[32mSocial Characteristics          Economic Characteristics           Plumbing Facilities6[m
+[32m+[m[32mAncestry                        Class of Worker                    Rent[m
+[32m+[m[32mCitizenship Status              Commuting (Journey to Work)        Rooms/Bedrooms[m
+[32m+[m[32mCitizen Voting-Age Population   Employment Status                  Selected Monthly Owner Costs[m
+[32m+[m[32mDisability Status1              Food Stamps/Supplemental           Telephone Service Available[m
+[32m+[m[32mEducational Attainment                                             Tenure (Owner/Renter)[m
+[32m+[m[32mFertility                          Nutrition Assistance Program    Units in Structure[m
+[32m+[m[32mGrandparents as Caregivers         (SNAP)4                         Value of Home[m
+[32m+[m[32mLanguage Spoken at Home         Health Insurance Coverage2         Vehicles Available[m
+[32m+[m[32mMarital History2                Income and Earnings                Year Householder Moved Into[m
+[32m+[m[32mMarital Status                  Industry and Occupation[m
+[32m+[m[32mMigration/Residence 1 Year Ago  Place of Work                         Unit[m
+[32m+[m[32mPeriod of Military Service      Poverty Status                     Year Structure Built[m
+[32m+[m[32mPlace of Birth                  Work Status Last Year[m
+[32m+[m[32mSchool Enrollment                                                  Demographic Characteristics[m
+[32m+[m[32mUndergraduate Field of          Housing Characteristics            Age and Sex[m
+[32m+[m[32m                                Computer and Internet Use5         Group Quarters Population[m
+[32m+[m[32m   Degree3                      House Heating Fuel                 Hispanic or Latino Origin[m
+[32m+[m[32mVeteran Status2                 Kitchen Facilities                 Race[m
+[32m+[m[32mYear of Entry                   Occupancy/Vacancy Status           Relationship to Householder[m
+[32m+[m[32m                                Occupants Per Room                 Total Population[m
+[32m+[m
+[32m+[m[32m1 Questions on Disability Status were significantly revised in the 2008 survey to cause a break in series.[m
+[32m+[m[32m2 Marital History, Veterans’ Service-Connected Disability Status and Ratings, and Health Insurance Coverage were added in the 2008 survey.[m
+[32m+[m[32m3 Undergraduate Field of Degree was added in the 2009 survey.[m
+[32m+[m[32m4 Food Stamp Benefit amount was removed in 2008.[m
+[32m+[m[32m5 Computer and Internet Use was added to the 2013 survey.[m
+[32m+[m[32m6 One of the components of Plumbing Facilities, flush toilet, and Business or Medical Office on Property questions were removed in 2016.[m
+[32m+[m[32mSource: U.S. Census Bureau.[m
+[32m+[m
+[32m+[m[32mSandy, economic crises like the Great Recession of                 ACS content is designed to meet the needs of federal[m
+[32m+[m[32m2007 to 2009, and public health emergencies like the               government agencies, and every question in the ACS is[m
+[32m+[m[32mCOVID-19 pandemic.                                                 asked for a reason. For example, questions about how[m
+[32m+[m[32m                                                                   people get to work, when they leave, and the length[m
+[32m+[m[32m TIP: The ACS was designed to provide estimates of                 of their commutes are used for planning improve-[m
+[32m+[m[32m the characteristics of the population, not to provide             ments to roads, highways, rail lines, and bus routes,[m
+[32m+[m[32m counts of the population in different geographic                  and for planning emergency response routes. Because[m
+[32m+[m[32m areas or population subgroups. For basic counts of                participation in the ACS is mandatory, the Office of[m
+[32m+[m[32m the U.S. population by age, sex, race, and Hispanic               Management and Budget (OMB) will only approve nec-[m
+[32m+[m[32m origin, visit the Census Bureau’s Population and                  essary questions for inclusion in the ACS. The OMB’s[m
+[32m+[m[32m Housing Unit Estimates Web page.2                                 responsibility under the Paperwork Reduction Act[m
+[32m+[m[32m                                                                   requires that new questions demonstrate the practical[m
+[32m+[m[32mThe content collected through the ACS can be                       utility of the data and minimize “respondent burden.”[m
+[32m+[m[32mgrouped into four main types of characteristics: social,           Respondent burden can be defined in different ways,[m
+[32m+[m[32meconomic, housing, and demographic, as shown in                    but is often related to the length of the interview or[m
+[32m+[m[32mTable 1.1. Various tables in the ACS have different                questionnaire, or the extent to which questions are[m
+[32m+[m[32m“universes,” or base reference totals against which all            viewed as being intrusive or too personal.[m
+[32m+[m[32mother characteristics are compared. Some tables cover[m
+[32m+[m[32mpopulation characteristics, while others cover housing             Some people are reluctant to respond to the ACS[m
+[32m+[m[32mcharacteristics. Among the population tables, some                 because of concerns about the confidentiality of the[m
+[32m+[m[32mcover the entire population (such as tables of the                 data. However, strict confidentiality laws protect all[m
+[32m+[m[32mpopulation by age), while some cover only a subset of              ACS information that could be used to identify indi-[m
+[32m+[m[32mthe population (such as tables of employment status,               viduals or households under Title 13 of the U.S. Code.3[m
+[32m+[m[32mwhich include data only for the population aged 16 and             This is true even for interagency communication: other[m
+[32m+[m[32molder).[m
+[32m+[m
+[32m+[m[32m     2 U.S. Census Bureau, Population and Housing Unit Estimates,       3 U.S. Census Bureau, Title 13, U.S. Code, <www.census.gov/history[m
+[32m+[m[32m<www.census.gov/programs-surveys/popest.html>.                     /www/reference/privacy_confidentiality/title_13_us_code.html>.[m
+[32m+[m
+[32m+[m[32m2 Understanding and Using American Community Survey Data                                    U.S. Census Bureau[m
+[32m+[m[32m2 What All Data Users Need to Know[m
+[32m+[m[32mgovernment agencies do not have the legal right to                students, and the public (see Box 1.1). Businesses use[m
+[32m+[m[32maccess individuals’ confidential information.                     ACS data to better understand their current or poten-[m
+[32m+[m[32m                                                                  tial customers. The federal government uses ACS infor-[m
+[32m+[m[32mWho Uses the ACS and Why?                                         mation to evaluate the need for federal programs and[m
+[32m+[m[32m                                                                  to run those programs effectively. Nongovernmental[m
+[32m+[m[32mThe ACS puts up-to-date information about impor-                  organizations use the ACS in a variety of ways to mon-[m
+[32m+[m[32mtant social issues at the fingertips of people who need           itor trends among important subgroups of the popu-[m
+[32m+[m[32mit, including policymakers, researchers, businesses,              lation. Journalists use ACS data to report on new or[m
+[32m+[m[32mnongovernmental organizations, journalists, teachers,             emerging social trends or to put a piece of anecdotal[m
+[32m+[m
+[32m+[m[32mBox 1.1. How Different Data-User Communities Use ACS Data[m
+[32m+[m
+[32m+[m[32mFederal agencies: ACS data help determine how                     Journalists: Journalists regularly report ACS data[m
+[32m+[m[32mmore than $675 billion in federal funds are distrib-              to keep the public informed about emerging social,[m
+[32m+[m[32muted to state and local areas each year.1 Federal                 economic, housing, and demographic trends.[m
+[32m+[m[32magencies rely on the ACS to help them make opera-                 For example, the New York Times used ACS data[m
+[32m+[m[32mtional decisions, including managing and evaluating               to map poverty rates and men’s employment in[m
+[32m+[m[32mprograms, determining eligibility for programs, and               America.3 The Wall Street Journal reported on the[m
+[32m+[m[32mbenchmarking other statistics. For example, the                   cities with the fastest-growing median household[m
+[32m+[m[32mU.S. Department of Veterans Affairs uses ACS data                 incomes, based on ACS data.4 The Durango Herald[m
+[32m+[m[32mon the characteristics of veterans to evaluate the                (Durango, Colorado) used ACS 5-year data to show[m
+[32m+[m[32mneed for educational, employment, and health care                 that many of Colorado’s newest residents are arriv-[m
+[32m+[m[32mprograms to assist those who have served in the                   ing from California and Texas.5[m
+[32m+[m[32mmilitary. The Special Supplemental Food Program[m
+[32m+[m[32mfor Women, Infants, and Children (WIC) uses                       State and local governments: Information from[m
+[32m+[m[32mincome data from the ACS to determine the poten-                  the ACS is critical for state and local policymakers[m
+[32m+[m[32mtial demand for food assistance across states and                 and planners who need up-to-date information[m
+[32m+[m[32mcounties. The Appalachian Regional Commission                     about their communities to evaluate the need for[m
+[32m+[m[32m(ARC) uses ACS data to assess the status of com-                  new roads, hospitals, schools, senior centers, and[m
+[32m+[m[32mmunities in the Appalachian Region on a host                      other basic services. For example, the Council on[m
+[32m+[m[32mof social and economic measures, which in turn                    Virginia’s Future, which advises the Governor and[m
+[32m+[m[32menables ARC to develop strategies to improve                      the Virginia General Assembly, relies on ACS data[m
+[32m+[m[32mconditions in Appalachia. For more information                    to monitor annual trends in travel time to work.[m
+[32m+[m[32mabout how federal agencies use ACS data, visit                    New York City’s Department of City Planning used[m
+[32m+[m[32mthe Census Bureau’s American Community Survey                     ACS data to identify the need for bilingual voting[m
+[32m+[m[32mHandbook of Questions and Current Federal Uses.2                  materials in certain New York neighborhoods.6[m
+[32m+[m
+[32m+[m[32mNongovernmental organizations: The Lucile                         Businesses: Businesses use information from the[m
+[32m+[m[32mPackard Foundation for Children’s Health uses ACS                 ACS to understand their customers, make location[m
+[32m+[m[32mdata to track annual changes in the well-being                    or relocation decisions, and provide background[m
+[32m+[m[32mof children in California, including measures of                  information in loan applications. For example, ACS[m
+[32m+[m[32mchild poverty, family structure, school enrollment,               data are a key component of Zillow’s database of[m
+[32m+[m[32mand employment status of parents. The Migration                   more than 110 million U.S. homes, helping home-[m
+[32m+[m[32mPolicy Institute uses ACS data to present detailed,               owners and potential buyers learn more about their[m
+[32m+[m[32mstate-level information about the 42.4 million[m
+[32m+[m[32mcurrent U.S. residents who were born outside                           3 Gregor Aisch, Josh Katz, and David Leonhardt, “Where Men[m
+[32m+[m[32mthe United States. The State Health Access Data                   Aren’t Working,” Dec. 11, 2014, <www.nytimes.com/interactive[m
+[32m+[m[32mAssistance Center uses ACS data to monitor trends                 /2014/12/12/upshot/where-men-arent-working-map.html?_r=0#>.[m
+[32m+[m[32min health insurance coverage.[m
+[32m+[m[32m                                                                       4 Josh Zumbrun, “For Cities Getting Richer the Fastest, Look to[m
+[32m+[m[32m     1 U.S. Census Bureau, Uses of Census Bureau Data in Federal  the South,” Sept. 15, 2016, <http://blogs.wsj.com/economics[m
+[32m+[m[32mFunds Distribution, 2017, <https://www2.census.gov/programs       /2016/09/15/for-cities-getting-richer-the-fastest-look-to-the[m
+[32m+[m[32m-surveys/decennial/2020/program-management/working-papers         -south/>.[m
+[32m+[m[32m/Uses-of-Census-Bureau-Data-in-Federal-Funds-Distribution.pdf>.[m
+[32m+[m[32m                                                                       5 Jessica Pace, “Texas, California Sending Many New Residents[m
+[32m+[m[32m     2 U.S. Census Bureau, American Community Survey Handbook     to Colorado,” Dec. 2, 2016, <https://durangoherald.com/articles[m
+[32m+[m[32mof Questions and Current Federal Uses, 2014, <www.census.gov      /118903-texas-california-sending-many-new-residents-to-colorado>.[m
+[32m+[m[32m/programs-surveys/acs/operations-and-administration/2014[m
+[32m+[m[32m-content-review/federal-uses.html>.                                    6 National Research Council, “Chapter 7: Legal and Social[m
+[32m+[m[32m                                                                  Equity Uses of ACS Data,” in Benefits, Burdens, and Prospects of[m
+[32m+[m[32m                                                                  the American Community Survey: Summary of a Workshop, Daniel[m
+[32m+[m[32m                                                                  L. Cork, rapporteur, Committee on National Statistics, Division of[m
+[32m+[m[32m                                                                  Behavioral and Social Sciences and Education, Washington, DC:[m
+[32m+[m[32m                                                                  The National Academies Press, 2013, <www.nap.edu/read/18259[m
+[32m+[m[32m                                                                  /chapter/8>.[m
+[32m+[m
+[32m+[m[32mU.S. Census Bureau  Understanding and Using American Community Survey Data 3[m
+[32m+[m[32m                                                                                  What All Data Users Need to Know 3[m
+[32m+[m[32mBox 1.1. How Different Data-User Communities Use ACS Data—Con.[m
+[32m+[m
+[32m+[m[32mcommunities.7 Many data vendors, such as Esri and          health professionals combat the spread of the[m
+[32m+[m[32mNielsen, also incorporate ACS data either directly         coronavirus.9[m
+[32m+[m[32mor indirectly into their commercial data products,[m
+[32m+[m[32mwhich businesses use for market segmentation, site         Disaster response and recovery: The[m
+[32m+[m[32mselection, and marketing strategies.8                      American Red Cross uses ACS data to help identify[m
+[32m+[m[32m                                                           vulnerable populations—before a disaster strikes—[m
+[32m+[m[32mResearchers: Researchers both inside and out-              and to monitor the impacts of a disaster during the[m
+[32m+[m[32mside of academia regularly use ACS data to test            response and recovery phases.10 In the aftermath[m
+[32m+[m[32mhypotheses, analyze data patterns across differ-           of Hurricane Katrina in 2005, up-to-date, before-[m
+[32m+[m[32ment geographic areas, and to investigate trends            and-after snapshots of community characteristics[m
+[32m+[m[32mover time. For example, researchers at the Pew             helped first and subsequent responders to bet-[m
+[32m+[m[32mResearch Center use ACS data—often in combina-             ter target preparedness, response, and recovery[m
+[32m+[m[32mtion with decennial census data—to monitor long-           efforts.11[m
+[32m+[m[32mterm trends in U.S. education, income, employ-[m
+[32m+[m[32mment, marriage, and family patterns. Staff at Wilder            9 Minnesota Compass, Social Determinants of Health,[m
+[32m+[m[32mResearch used ACS data to investigate the social           <www.mncompass.org/covid-19/social-determinants-of[m
+[32m+[m[32mdeterminants of health in Minnesota to help public         -health#1-14021-g>.[m
+[32m+[m
+[32m+[m[32m     7 U.S. Census Bureau, Stats in Action: Zillow, 2015,       10 National Research Council, “Chapter 3: Planning Social[m
+[32m+[m[32m<www.census.gov/library/video/sia-zillow.html>.            Services and Responding to Disasters,” in Benefits, Burdens, and[m
+[32m+[m[32m                                                           Prospects of the American Community Survey: Summary of a[m
+[32m+[m[32m     8 For more information, see <www.commerce.gov/news    Workshop. Daniel L. Cork, rapporteur, Committee on National[m
+[32m+[m[32m/reports/2015/05/value-american-community-survey-smart     Statistics, Division of Behavioral and Social Sciences and[m
+[32m+[m[32m-government-competitive-businesses-and>.                   Education, Washington, DC: The National Academies Press, 2013,[m
+[32m+[m[32m                                                           <www.nap.edu/read/18259/chapter/4#51>.[m
+[32m+[m
+[32m+[m[32m                                                                11 Kin Koerber, Migration Patterns and Mover Characteristics[m
+[32m+[m[32m                                                           from the 2005 ACS Gulf Coast Area Special Products, 2006,[m
+[32m+[m[32m                                                           <www.census.gov/library/working-papers/2006/demo/koerber-01[m
+[32m+[m[32m                                                           .html>.[m
+[32m+[m
+[32m+[m[32mevidence into a broader context. State and local gov-      detailed questions about social, economic, and hous-[m
+[32m+[m[32mernments are using ACS information to keep track of        ing characteristics.[m
+[32m+[m[32myear-to-year changes in their jurisdictions so they 
