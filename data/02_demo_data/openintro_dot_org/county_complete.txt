@@ -1,5 +1,6 @@
 Source of the data:
 https://www.openintro.org/data/?data=county_complete
+<<<<<<< HEAD
 
 Dataframe with 3142 observations on 188 variables.
 Source
@@ -24,3 +25,5 @@ Census Bureau.
 The original data table was prepared by USDA, Economic Research Service.
 
 Tim Parker (tparker at ers.usda.gov) is the contact for much of the new data incorporated into this data set.
+=======
+>>>>>>> e00255dfaa5c85158e9029c21d84fc57bc315d81
