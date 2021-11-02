@@ -1,0 +1,1366 @@
+measure_id,measure_name,location_id,location_name,FIPS,cause_id,cause_name,sex_id,sex,age_id,age_name,year_id,metric,mx,upper,lower
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1980,Rate,662.144648960818,671.363573503206,652.873790854265
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1981,Rate,646.49825066694,655.074513275976,637.482548959515
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1982,Rate,629.364296925145,638.162645671515,620.326135368146
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1983,Rate,619.907128806997,628.366475971648,611.087440140585
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1984,Rate,609.991182902365,618.470830141482,601.306362101622
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1985,Rate,602.884918845615,611.159839311674,594.413531381818
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1986,Rate,589.779262606874,598.205997235911,581.36272923268
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1987,Rate,574.456175217919,582.687116567845,566.314119689749
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1988,Rate,562.063863581894,570.425149812165,553.786505589102
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1989,Rate,541.039853329404,550.182931568999,532.949644710976
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1990,Rate,521.54311578769,530.492317208043,513.673521798761
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1991,Rate,507.903977232562,516.756219511758,500.029025596159
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1992,Rate,494.4020198776,503.217626152714,486.885354947212
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1993,Rate,493.189795096715,502.13791521528,485.926764464899
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1994,Rate,484.438578777715,493.239277004224,477.140914662959
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1995,Rate,478.320121364322,487.391404093524,471.022048264249
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1996,Rate,461.928666581698,470.247644697497,454.755651794431
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1997,Rate,445.256324780628,453.123010116783,438.251613855605
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1998,Rate,434.388869002163,442.278815501953,427.471263710847
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,1999,Rate,428.953309849643,436.43356163793,421.923553108424
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2000,Rate,418.561421363704,425.552580422429,411.414848790039
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2001,Rate,407.543330335673,414.30277170654,400.596556015178
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2002,Rate,396.234160105993,402.613935645284,389.581169892425
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2003,Rate,381.323665292362,387.584338694013,374.696689004447
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2004,Rate,361.972580541571,367.830939858333,355.525742713752
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2005,Rate,352.599815860127,358.276689349915,346.096944637807
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2006,Rate,340.510406663634,346.301929089116,334.388782157784
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2007,Rate,327.093393067561,332.8589827675,320.980595998132
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2008,Rate,318.830926336334,324.560309360303,312.600172289667
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2009,Rate,309.473890544867,315.234713947307,303.275095098255
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2010,Rate,302.139597018043,307.828159810765,295.908804399775
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2011,Rate,298.847359078717,304.525041863359,292.672662879343
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2012,Rate,294.721881578683,300.406354898188,288.653536681859
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2013,Rate,293.325076546458,299.015286622941,287.279517737941
+1,Deaths,102,United States,,491,Cardiovascular diseases,1,Male,27,Age-standardized,2014,Rate,295.661173053424,301.339918364603,289.487092616352
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1980,Rate,396.689217747992,404.511314203576,388.339718909745
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1981,Rate,388.953948888031,396.578954242321,380.933504493201
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1982,Rate,380.103712964437,387.550226962842,372.459075088987
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1983,Rate,380.622810479136,387.842837477824,372.903429661494
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1984,Rate,376.165415516314,383.400608976604,368.483293064473
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1985,Rate,372.822840824715,379.832134059503,365.262932206707
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1986,Rate,366.680247135534,373.650362349914,359.403887845332
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1987,Rate,360.752353671721,367.748533320256,353.24625290629
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1988,Rate,356.177449442535,363.2417505783,348.792782746187
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1989,Rate,342.496769777488,349.571867415898,335.23006748287
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1990,Rate,331.241369931171,338.183344890131,324.091856033634
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1991,Rate,324.356924130281,331.27894625572,317.319703950619
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1992,Rate,316.824656986318,323.676796430305,309.894054131354
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1993,Rate,318.766481680657,325.858904001029,311.898559719907
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1994,Rate,316.204260035664,323.173629281725,309.28065450077
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1995,Rate,315.108703486458,322.115689340138,308.148604320451
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1996,Rate,310.076040342737,317.135992368163,303.136705918829
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1997,Rate,304.294581113127,311.310458190075,297.40793006892
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1998,Rate,300.450865573261,307.262445262562,293.536924309101
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,1999,Rate,300.717573467144,307.635103003687,293.960648271294
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2000,Rate,296.874440042936,303.747275031379,289.968125067709
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2001,Rate,291.803609675827,298.749463950936,285.275406020158
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2002,Rate,284.910999321331,291.716481948536,278.468191361476
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2003,Rate,275.678719567014,282.298391758496,269.337512475983
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2004,Rate,262.167595609478,268.652288203838,255.970570189607
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2005,Rate,254.293663016704,260.672094529035,248.361628261517
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2006,Rate,245.675442634939,251.82053990878,239.893335010669
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2007,Rate,236.240242265302,242.293331840218,230.554560983219
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2008,Rate,230.687854210535,236.709708787735,224.996345324696
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2009,Rate,225.344393777625,231.385087628175,219.657426787276
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2010,Rate,219.520426901541,225.58681699601,213.807126505454
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2011,Rate,218.635322325067,224.620750550241,212.959551108223
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2012,Rate,215.227288479483,221.233265240686,209.516302201161
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2013,Rate,214.990112739033,221.178552386122,209.044113427251
+1,Deaths,102,United States,,491,Cardiovascular diseases,2,Female,27,Age-standardized,2014,Rate,216.00353138924,222.462350063352,209.956821453875
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1980,Rate,507.374953939558,514.897314982459,499.597302866536
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1981,Rate,496.077064776372,503.474092129369,488.419683442327
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1982,Rate,483.502657963933,490.76814417384,475.99920171035
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1983,Rate,479.851296673533,486.906678619697,472.266869147451
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1984,Rate,473.055306970276,480.251649616399,465.676109587535
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1985,Rate,468.098490739895,475.169349547757,460.736625981541
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1986,Rate,459.132164108883,466.095789697861,452.019131101085
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1987,Rate,449.391381482009,456.197745108814,442.212507317193
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1988,Rate,441.709777692011,448.492012335624,434.518415175384
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1989,Rate,425.030820935724,432.093091994543,418.27928484125
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1990,Rate,410.431386726686,417.325591957155,403.722280456527
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1991,Rate,400.884451597369,407.995146582982,394.006778204283
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1992,Rate,390.979764703054,397.877466496808,384.25058079925
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1993,Rate,391.892272938521,398.642856981763,385.255044317625
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1994,Rate,387.009915886019,393.521128415621,380.33813810381
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1995,Rate,384.08670709127,390.911153897833,377.406979284646
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1996,Rate,374.560743812801,381.217851358546,368.016346262684
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1997,Rate,364.518175316718,371.032470719224,357.951146454072
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1998,Rate,357.958218062959,364.266883110688,351.417263917607
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,1999,Rate,356.067438554376,362.502849314358,349.784521232221
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2000,Rate,349.745042474443,356.257433204324,343.459833779574
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2001,Rate,342.488036758364,348.979258317638,336.4648039277
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2002,Rate,333.932793378764,340.225206371318,327.95462547749
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2003,Rate,322.521265258307,328.70772069449,316.831612469759
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2004,Rate,306.649263106156,312.716597320298,300.993002618474
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2005,Rate,298.306843909609,304.053124632815,292.809566340062
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2006,Rate,288.3564626412,293.991796782309,283.09638337202
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2007,Rate,277.301424671698,282.766930922152,272.102057815299
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2008,Rate,270.664332013625,276.127072827561,265.511148783312
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2009,Rate,263.687412356798,269.048251359947,258.433744653953
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2010,Rate,257.231460175695,262.701250031943,251.8215804952
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2011,Rate,255.422553893302,260.788146889405,250.126830533784
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2012,Rate,251.767767354853,256.983887434808,246.383899439521
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2013,Rate,251.099997719739,256.508645620317,245.635841068394
+1,Deaths,102,United States,,491,Cardiovascular diseases,3,Both,27,Age-standardized,2014,Rate,252.696325868431,258.269308896189,247.122989198779
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1980,Rate,6.38814662098304,6.720658181072,6.05941774164003
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1981,Rate,6.17143906039506,6.47660219248399,5.87481479216146
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1982,Rate,5.97436880644142,6.24665313817785,5.69881803746281
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1983,Rate,5.88228369450324,6.13586091125082,5.62606949049965
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1984,Rate,5.82468732884418,6.05964637245344,5.57626842021626
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1985,Rate,5.76947924797966,5.99083061327727,5.53282999225845
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1986,Rate,5.66975902370122,5.88056522939953,5.44458555314596
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1987,Rate,5.51485755586166,5.71674697237036,5.30096648899904
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1988,Rate,5.41595770642952,5.62368963030903,5.20687340470045
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1989,Rate,5.18967007798761,5.38303556941768,5.00331686305182
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1990,Rate,4.98463257280751,5.16835356221646,4.80901361992329
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1991,Rate,4.85830623819054,5.03207820920945,4.69575364505302
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1992,Rate,4.74177025811346,4.9160950928098,4.57680385851613
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1993,Rate,4.76564390547527,4.94570746771274,4.59488210172807
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1994,Rate,4.67145282871032,4.86204781937687,4.49623883631489
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1995,Rate,4.61128456122482,4.803697684647,4.43323139593213
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1996,Rate,4.48359820140469,4.67096921999761,4.31035937420773
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1997,Rate,4.383356538571,4.56530509269873,4.2074449334967
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1998,Rate,4.31345287347344,4.49187251898041,4.14256295504103
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,1999,Rate,4.29065279150929,4.46355412376963,4.11654978028671
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2000,Rate,4.26050017937574,4.42828443407462,4.09068153934418
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2001,Rate,4.23378170327415,4.39968110126757,4.07137698154926
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2002,Rate,4.21374248078908,4.37781377311336,4.05897909283948
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2003,Rate,4.16060167263226,4.32727163649247,4.01284299660057
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2004,Rate,4.0324707777121,4.19709338666014,3.88468345712589
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2005,Rate,4.0189414884734,4.18287879110525,3.87495003290442
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2006,Rate,3.96748717364958,4.1277923489581,3.8123579017821
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2007,Rate,3.87152006201643,4.03284404172674,3.71203676547282
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2008,Rate,3.82427137031682,3.98863306144718,3.66935016523409
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2009,Rate,3.76142582776499,3.9254078828313,3.60804032281545
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2010,Rate,3.70234267988796,3.86489381014952,3.54289944828015
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2011,Rate,3.67624443914394,3.84553512480521,3.51061586639529
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2012,Rate,3.6330921682296,3.81217899828761,3.46421556113323
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2013,Rate,3.61885155462326,3.81218612827111,3.44191833093597
+1,Deaths,102,United States,,492,Rheumatic heart disease,1,Male,27,Age-standardized,2014,Rate,3.53777175702751,3.75990895146634,3.33646318421067
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1980,Rate,5.70103419236515,6.0018790181972,5.41968739534288
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1981,Rate,5.48989178315229,5.77627845628809,5.2232744320948
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1982,Rate,5.29343808530773,5.55526041759205,5.05142542427935
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1983,Rate,5.22839741618812,5.46836892631852,5.00520254333311
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1984,Rate,5.11179618023967,5.33923421699964,4.90328658373972
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1985,Rate,5.01123003213532,5.22288216218855,4.81510630009349
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1986,Rate,4.89144098718313,5.09414552799014,4.70834802143667
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1987,Rate,4.78758867941753,4.978847387937,4.60660902584823
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1988,Rate,4.69249983935651,4.8755378906283,4.50696513218811
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1989,Rate,4.45715697988023,4.62850927882036,4.27879049670003
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1990,Rate,4.28694430201442,4.46012064785012,4.12046350290157
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1991,Rate,4.15504330065327,4.31917223567171,3.98809446253971
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1992,Rate,3.98975766156078,4.14596705632153,3.83507970051885
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1993,Rate,3.93218602379696,4.08365526452819,3.78397687726654
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1994,Rate,3.80836800063766,3.96074894525936,3.66206138778307
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1995,Rate,3.71190534080911,3.86169986900578,3.56441302966748
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1996,Rate,3.58211728828143,3.73786618958338,3.43387217906151
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1997,Rate,3.45323762587646,3.60428378584716,3.30436539316032
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1998,Rate,3.32436806183066,3.47155685182987,3.18497315756823
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,1999,Rate,3.18263094041445,3.32312276180902,3.04580562063243
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2000,Rate,3.09931058222579,3.23835624783906,2.96359294969822
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2001,Rate,3.03679072371315,3.16910289631509,2.90846847207454
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2002,Rate,2.98863041540784,3.11670402334381,2.86653620320188
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2003,Rate,2.92196893432065,3.04354068010027,2.80304065624812
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2004,Rate,2.80362954147739,2.92092304795219,2.69552687249299
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2005,Rate,2.76312325923651,2.87694045225167,2.65257942385063
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2006,Rate,2.71423166756399,2.82901717286638,2.60743864044225
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2007,Rate,2.63208145380949,2.74852287326027,2.52335689917405
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2008,Rate,2.59603634039621,2.71553034574887,2.48265326949747
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2009,Rate,2.56655428762139,2.69280335478533,2.45032314281426
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2010,Rate,2.49620801773307,2.61982259506913,2.37999116397201
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2011,Rate,2.4925691944346,2.62045225119325,2.3734968766858
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2012,Rate,2.44412124977285,2.5783418973837,2.3170356447524
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2013,Rate,2.43019624090742,2.56804700020564,2.29442692856008
+1,Deaths,102,United States,,492,Rheumatic heart disease,2,Female,27,Age-standardized,2014,Rate,2.36687387155786,2.50980178635136,2.22727401096874
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1980,Rate,5.89040926397793,6.10335568280722,5.68474620685019
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1981,Rate,5.67549933032904,5.87467098492191,5.49374332508413
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1982,Rate,5.4792484305776,5.6572674705743,5.31115308416225
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1983,Rate,5.39927867217719,5.56589885034921,5.23550252050235
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1984,Rate,5.30581340005983,5.46488658642255,5.14870552034571
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1985,Rate,5.2225852580817,5.37246917940508,5.06990552103575
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1986,Rate,5.11136953492803,5.25183091194187,4.97018691297037
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1987,Rate,4.98732329725136,5.12941394455611,4.84775204512155
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1988,Rate,4.8915092470307,5.02787192208913,4.75523386514558
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1989,Rate,4.66392522094828,4.79892588397587,4.53436572860085
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1990,Rate,4.48279600675906,4.61120440036541,4.35506125371955
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1991,Rate,4.35293304364673,4.48111431876949,4.22998842637627
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1992,Rate,4.2084596227777,4.32629801895297,4.0839894392445
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1993,Rate,4.18255687564499,4.29733187030431,4.0545129249464
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1994,Rate,4.07217682800528,4.19143655219514,3.94713080635484
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1995,Rate,3.99051060361752,4.11158253415244,3.86567548273136
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1996,Rate,3.86414622498918,3.98741548040222,3.73918934628844
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1997,Rate,3.75013855685391,3.86988290812349,3.62506047084059
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1998,Rate,3.64907324226134,3.76540193349386,3.52800966410626
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,1999,Rate,3.55790819684179,3.67115111378298,3.44329881606099
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2000,Rate,3.50071417617202,3.61427636338934,3.3928181831
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2001,Rate,3.4588009021363,3.56686619578225,3.3566544733057
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2002,Rate,3.42736319071226,3.53249034690142,3.32870999016361
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2003,Rate,3.37194460157007,3.47124580358027,3.27532608353874
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2004,Rate,3.25610601282563,3.35350537486553,3.16375591893149
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2005,Rate,3.23239482459424,3.33390844876154,3.13843272540755
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2006,Rate,3.18830986629406,3.29362776028109,3.09193641213509
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2007,Rate,3.10558734637185,3.20673003438999,3.00792916316126
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2008,Rate,3.06893473242168,3.17022050694234,2.97387807316578
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2009,Rate,3.02978343196799,3.13539143204433,2.93371613259513
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2010,Rate,2.96814213596822,3.07371095297955,2.86890719837278
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2011,Rate,2.95863915196443,3.06819162850416,2.84943464140242
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2012,Rate,2.91584135901706,3.0284455775737,2.80307030005867
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2013,Rate,2.90471759171495,3.02165580612358,2.78791873026028
+1,Deaths,102,United States,,492,Rheumatic heart disease,3,Both,27,Age-standardized,2014,Rate,2.83580613729427,2.95952651535471,2.71273322394134
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1980,Rate,491.109486314174,499.502916542698,482.652604922608
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1981,Rate,479.172080187725,487.118874141899,471.206176913102
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1982,Rate,465.841629390447,473.397746633467,458.409371947151
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1983,Rate,457.627478821032,465.033761436615,450.196268948344
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1984,Rate,448.692992173293,455.579593822665,441.438679749874
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1985,Rate,441.607228452139,448.386147226023,434.476679890292
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1986,Rate,429.897831418514,436.558480218218,423.203049970551
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1987,Rate,416.475810622096,422.972133818336,409.714662885299
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1988,Rate,405.186953618651,411.66546309994,398.550206537598
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1989,Rate,387.804366435698,394.415329936663,381.484786234918
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1990,Rate,371.688816492797,378.526298395011,365.426257782482
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1991,Rate,360.071753819909,366.851785670832,354.075328957351
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1992,Rate,348.58135623528,355.350525589008,342.8043735536
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1993,Rate,345.844405746846,352.507319912252,340.03333465411
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1994,Rate,337.770960316593,344.55078723163,332.042088749163
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1995,Rate,331.495168318253,338.47225708315,325.816364684851
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1996,Rate,317.971140749949,324.471455788353,312.479779325224
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1997,Rate,304.518260268476,310.718990807368,299.352835139569
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1998,Rate,295.780864339472,301.747048389893,290.720723359968
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,1999,Rate,291.92339295712,297.286030311256,286.675514696304
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2000,Rate,283.521459011968,288.68018283312,278.35780070031
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2001,Rate,274.918399788493,279.899229440086,269.835846588875
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2002,Rate,265.998189710865,270.816744363905,260.974777924294
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2003,Rate,254.764567044318,259.585045865286,249.830636798864
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2004,Rate,240.663470006342,245.355748117335,235.931667882813
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2005,Rate,233.523582395996,238.11674957521,228.717355402115
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2006,Rate,224.643005795329,229.218169576556,219.782528876905
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2007,Rate,214.706671723591,219.087187296097,209.97133854295
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2008,Rate,208.693603320545,213.048765418949,204.202379129423
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2009,Rate,201.884622410595,206.164972983748,197.524987426839
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2010,Rate,196.436475957689,200.73633313861,191.829084438152
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2011,Rate,193.833055617384,198.046969232126,189.346688438134
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2012,Rate,190.845658352502,195.148397114566,186.3170704122
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2013,Rate,189.738866954455,194.207592901566,184.894251223415
+1,Deaths,102,United States,,493,Ischemic heart disease,1,Male,27,Age-standardized,2014,Rate,191.465557072885,196.198733037577,185.871271023962
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1980,Rate,264.420959852968,270.60448747834,258.177984839489
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1981,Rate,259.294370358941,265.368021553586,253.197809237794
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1982,Rate,253.356798285402,259.209916573107,247.244326235426
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1983,Rate,253.719120059465,259.409452306662,248.205498530796
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1984,Rate,250.171916109366,255.813616042161,244.523742636519
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1985,Rate,247.199339289992,252.889474700889,241.669243384149
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1986,Rate,242.298047900292,247.953449976673,236.691282758101
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1987,Rate,237.307576409836,242.916619797273,231.754836656666
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1988,Rate,233.191194029149,238.597261435467,227.730687266209
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1989,Rate,222.887082206268,228.208801630494,217.705275148838
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1990,Rate,214.383822764124,219.196391670651,209.176994631113
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1991,Rate,208.829613541282,213.499580212023,203.670262226152
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1992,Rate,202.868869189362,207.50233535205,198.00440552352
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1993,Rate,203.029612462485,207.796332122049,198.199960197611
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1994,Rate,200.146058277525,204.911745551731,195.162743252659
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1995,Rate,198.048279479902,202.872882710345,193.176486757463
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1996,Rate,193.348343169797,197.981202213119,188.457668915856
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1997,Rate,188.298360660707,193.160209371948,183.540332766154
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1998,Rate,184.947875344707,189.601284373465,180.109498814228
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,1999,Rate,184.904198789369,189.564663626371,180.171971715847
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2000,Rate,181.560143500551,186.467815244383,176.78411752691
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2001,Rate,177.376768762799,182.248228951461,172.736332401109
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2002,Rate,172.099686550674,176.585068497426,167.514898490208
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2003,Rate,165.491226751914,169.837418275622,161.1491915271
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2004,Rate,156.437524161075,160.704884069037,152.345895331904
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2005,Rate,150.836776557446,155.213222142519,147.006923760531
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2006,Rate,144.870174932799,149.165236173556,141.057015792125
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2007,Rate,138.383457372067,142.420864755088,134.702740646952
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2008,Rate,134.560513881051,138.510990966399,130.80892283256
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2009,Rate,130.783132418546,134.582194864966,127.045561056233
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2010,Rate,126.865207590107,130.778783892261,123.154753033434
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2011,Rate,126.03935522185,129.980662448496,122.253619945636
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2012,Rate,123.85226500983,127.908004129912,120.137749348708
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2013,Rate,123.795364487735,127.952476300249,119.592113023041
+1,Deaths,102,United States,,493,Ischemic heart disease,2,Female,27,Age-standardized,2014,Rate,124.897833611442,129.300613056327,120.309964692632
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1980,Rate,358.775432624908,364.728565330288,352.618202298276
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1981,Rate,350.578460417394,356.385785736006,344.769349238036
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1982,Rate,341.323411921476,346.988263828902,335.688480882384
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1983,Rate,338.077225158806,343.4347018805,332.275727934559
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1984,Rate,332.210405598208,337.511382928695,326.558237724374
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1985,Rate,327.465348007909,332.719819222305,321.911966186136
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1986,Rate,319.788615368047,325.076049202434,314.284997157136
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1987,Rate,311.355976197986,316.631981914906,306.100635645512
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1988,Rate,304.356432251131,309.375687495315,299.086552419837
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1989,Rate,291.163467333067,296.25188940697,286.180558181951
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1990,Rate,279.577161737042,284.437750809724,274.741226250436
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1991,Rate,271.619204315311,276.40065870695,266.827720114448
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1992,Rate,263.447120865343,268.140688458733,258.843018414957
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1993,Rate,262.603654916322,267.374322971685,257.957832201496
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1994,Rate,257.742952555547,262.448668696911,253.03117729024
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1995,Rate,254.087175962187,258.942102741852,249.305996644442
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1996,Rate,245.880903435006,250.476375985483,241.299202070137
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1997,Rate,237.532269985582,242.201141574184,233.108881191538
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1998,Rate,232.081886191346,236.441449054235,227.756642723481
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,1999,Rate,230.631974099159,235.023603361652,226.353573874382
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2000,Rate,225.367760858419,229.740792553715,221.034227919371
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2001,Rate,219.556666527124,223.783521445102,215.292576662578
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2002,Rate,212.89138082352,216.958482004279,208.834787552926
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2003,Rate,204.493268164718,208.416575518265,200.479165200852
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2004,Rate,193.398687712507,197.209486798965,189.554014099409
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2005,Rate,187.266400875224,190.916396009778,183.515821795919
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2006,Rate,180.17270606218,183.794599683405,176.395402350878
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2007,Rate,172.281571393474,175.806078724061,168.579332549946
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2008,Rate,167.588189750644,170.971347092447,164.000761898744
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2009,Rate,162.584461581267,166.075904278493,159.125179175594
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2010,Rate,158.035510183135,161.471933659669,154.591724764516
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2011,Rate,156.530328660401,160.058884690536,152.94279658552
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2012,Rate,154.059568153081,157.606378125141,150.444317754613
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2013,Rate,153.620968554501,157.432275212584,149.662014510584
+1,Deaths,102,United States,,493,Ischemic heart disease,3,Both,27,Age-standardized,2014,Rate,155.043207161808,159.076211582347,150.698877717668
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1980,Rate,100.416172879315,104.346024430631,96.6760413802339
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1981,Rate,97.4872574245916,100.874151203191,94.0424574245347
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1982,Rate,94.2259099202434,97.3235089205098,91.1694906682368
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1983,Rate,92.3504787320148,95.0864905650137,89.4406331945084
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1984,Rate,90.5350101319668,93.130320626787,87.8698794218454
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1985,Rate,89.2275742952723,91.7583166764842,86.7055420000442
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1986,Rate,87.1491123802158,89.5786564710146,84.898563607242
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1987,Rate,84.9115103812209,87.3332768366787,82.7794929741952
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1988,Rate,83.2475726983169,85.5024946326493,81.1669365915398
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1989,Rate,80.1667627796739,82.3388649451644,78.0793423279699
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1990,Rate,77.4721949737625,79.6509581309559,75.4233790152645
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1991,Rate,75.7540149237569,77.8923005811084,73.7831439493857
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1992,Rate,74.1936690915441,76.4176956899951,72.2258434401785
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1993,Rate,74.7125236056349,76.9800051884038,72.6410975026517
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1994,Rate,74.3221133858253,76.5511656868269,72.1867224118588
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1995,Rate,74.3242957886793,76.5453965763661,72.0729379179934
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1996,Rate,72.8161745234145,75.0343068099048,70.6281733092841
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1997,Rate,71.2058633021978,73.4045957518341,69.0594829546441
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1998,Rate,70.3280986086524,72.4639660641811,68.2149392436764
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,1999,Rate,70.7014685430875,72.7799497440244,68.6535034556214
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2000,Rate,69.7418733442036,71.8288020075801,67.781662743732
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2001,Rate,68.2010605044798,70.265027769029,66.2709527702348
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2002,Rate,66.4707625306005,68.40103138653,64.5820337804209
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2003,Rate,63.9614130085592,65.8029707614906,62.1746220764202
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2004,Rate,60.6598934364478,62.4483736580065,58.8415750233559
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2005,Rate,58.8274206631908,60.6945839798881,57.0230908732285
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2006,Rate,56.6865385429658,58.5142644771431,54.9199845136268
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2007,Rate,54.4553602361728,56.3206507543626,52.6850450191485
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2008,Rate,52.9653517321422,54.8165682731675,51.2163152722939
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2009,Rate,51.3056202456602,53.1674318619975,49.5777275109228
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2010,Rate,50.1585264858559,52.0427957060661,48.4509921925237
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2011,Rate,49.5705232321347,51.4633812740267,47.8398737598929
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2012,Rate,48.8299838758992,50.7421734674963,47.0120758542165
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2013,Rate,48.5243521181256,50.5222386906803,46.5674969324966
+1,Deaths,102,United States,,494,Cerebrovascular disease,1,Male,27,Age-standardized,2014,Rate,48.7794213652915,51.2509586292074,46.6120473044923
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1980,Rate,85.8814563183166,88.7370627766916,82.8656418863736
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1981,Rate,83.7314343771973,86.3246514599926,81.0191080286098
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1982,Rate,81.1189334706149,83.6301952710265,78.6640864628997
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1983,Rate,80.5579442646569,82.8821277067926,78.1946286978872
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1984,Rate,79.2098152748378,81.5663460747289,76.9099899904186
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1985,Rate,78.1123626963357,80.3830578129936,75.8792351816688
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1986,Rate,76.44712316802,78.6690148779741,74.29954592856
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1987,Rate,75.0027752742574,77.1225863923351,72.8693307517083
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1988,Rate,73.8939288246647,76.0150932030759,71.6442538827494
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1989,Rate,70.9427638952641,72.9734565041329,68.7957673224136
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1990,Rate,68.3806172591806,70.4933090482889,66.0605811309801
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1991,Rate,66.940371685933,68.9445412055505,64.7478540548009
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1992,Rate,65.5542801202491,67.4517092934165,63.4604460834235
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1993,Rate,66.3089560338811,68.3397509662444,64.2099270730724
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1994,Rate,66.3351163782168,68.4029908832255,64.2193510235263
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1995,Rate,66.7741850069126,68.8254293146182,64.6753558842847
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1996,Rate,66.3785335270435,68.4807255330994,64.3107392002241
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1997,Rate,65.7925971040059,67.9717636801585,63.7065060806087
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1998,Rate,65.6316391548227,67.7396649826005,63.5303929848493
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,1999,Rate,66.4573869824106,68.5743824350687,64.2491999079494
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2000,Rate,66.1866229769338,68.2821385186945,64.0235682532326
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2001,Rate,65.2780433161041,67.3314659726304,63.2723198625579
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2002,Rate,63.9400406693468,65.9663125571063,61.9620075202518
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2003,Rate,61.8392729847138,63.8338852447945,59.8130466369158
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2004,Rate,58.6741842048914,60.6396675647019,56.8128865583038
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2005,Rate,56.7434652314261,58.7253710454649,54.950929868426
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2006,Rate,54.7705992908162,56.7435793078254,53.0094908972169
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2007,Rate,52.7235467692362,54.6462636301197,50.9553501379235
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2008,Rate,51.4408361109553,53.3080756542729,49.6725296504632
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2009,Rate,50.1610280505319,51.9748676809553,48.3335824671366
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2010,Rate,48.846630604178,50.6698197022336,47.0265584338281
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2011,Rate,48.6442121845209,50.4973248839173,46.7763748466246
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2012,Rate,47.7349043779537,49.7274117352128,45.8073775465909
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2013,Rate,47.4813827894319,49.5442144756219,45.4170893996168
+1,Deaths,102,United States,,494,Cerebrovascular disease,2,Female,27,Age-standardized,2014,Rate,47.406500868327,49.5693649058166,45.210213370389
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1980,Rate,91.952941073369,94.4397221187376,89.3568289989573
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1981,Rate,89.4756353841719,91.8098757725928,87.1765170917975
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1982,Rate,86.5827531057354,88.8317322735735,84.385357740071
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1983,Rate,85.5078480968392,87.6173579040343,83.5028592783441
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1984,Rate,83.984627687217,85.9240226304262,82.006502705598
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1985,Rate,82.8120308074414,84.6412038048418,80.906422030078
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1986,Rate,80.9868598333732,82.766220802203,79.1320709633993
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1987,Rate,79.2440370437502,81.0338806802828,77.465659921797
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1988,Rate,77.9308166824802,79.7195400928796,76.224238714633
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1989,Rate,74.9190569672877,76.6810689545285,73.2134685202701
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1990,Rate,72.2951960357768,74.0648904672799,70.490652201379
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1991,Rate,70.7464273756954,72.5087649262536,68.9121448012513
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1992,Rate,69.2896770191973,71.002474524874,67.4833738331201
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1993,Rate,69.9874850139486,71.717906827779,68.1378539488273
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1994,Rate,69.8750220187808,71.6075489042159,68.0198048038934
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1995,Rate,70.1725114769948,72.014580683757,68.2715170027081
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1996,Rate,69.3561410864419,71.1920832049261,67.5276094975584
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1997,Rate,68.3861593254776,70.2232083935837,66.5432043136921
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1998,Rate,67.9682005734937,69.7838114256471,66.116485565469
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,1999,Rate,68.6325797676063,70.4302038923415,66.7182667351887
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2000,Rate,68.1080858579333,69.9029220201043,66.2833981622713
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2001,Rate,66.9689751943947,68.6111737278752,65.2075592063796
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2002,Rate,65.4778315600638,67.0825528062368,63.7586213463208
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2003,Rate,63.2181317103878,64.8592160351585,61.5397836180808
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2004,Rate,59.9824115323897,61.6005238879955,58.4819029679378
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2005,Rate,58.0964155325634,59.6943961690977,56.6336113795608
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2006,Rate,56.0561416846555,57.652385940979,54.6475792914196
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2007,Rate,53.9271049414022,55.4910671725745,52.5597310493094
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2008,Rate,52.5504115801585,54.046047153576,51.2141765060893
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2009,Rate,51.1057727858616,52.5888660792181,49.7070279962374
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2010,Rate,49.8502013592141,51.3632870864968,48.4310226425851
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2011,Rate,49.4887627508265,51.0192740960978,47.9951585338704
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2012,Rate,48.645022715883,50.2342464543586,47.0748121487764
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2013,Rate,48.3620488718713,49.9775631129877,46.6854440021605
+1,Deaths,102,United States,,494,Cerebrovascular disease,3,Both,27,Age-standardized,2014,Rate,48.4031496987644,50.2677328926839,46.6218140244584
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1980,Rate,72.5422714249056,75.3839794870701,69.6346620260198
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1981,Rate,70.331803948498,72.8260363090741,67.7710361711047
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1982,Rate,67.8485911151349,70.138906329592,65.4676707455221
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1983,Rate,66.3481797104482,68.5473860550569,64.1147095771405
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1984,Rate,64.8112152785755,66.8866253826538,62.6778121435536
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1985,Rate,63.6036988558411,65.5551848090986,61.6903738662796
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1986,Rate,61.8587862883433,63.7249740862208,60.0603192809688
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1987,Rate,60.0469846924436,61.8489166793901,58.3889455726174
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1988,Rate,58.6064199936513,60.3697782274649,57.007423088612
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1989,Rate,56.1711143454231,57.8315864959027,54.6224799273253
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1990,Rate,54.0756624465686,55.7282674555884,52.5731715249027
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1991,Rate,52.7119955084295,54.3861804247897,51.2624810169525
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1992,Rate,51.5178016680771,53.2089016635701,50.0119467542532
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1993,Rate,51.8475160310826,53.58877806253,50.2921751935
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1994,Rate,51.5765855474532,53.3118429861051,50.0071468342781
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1995,Rate,51.5760869796764,53.3475458166131,49.9674147214094
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1996,Rate,50.570489867093,52.3201915841169,48.9412062811605
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1997,Rate,49.4517322879279,51.2088766512184,47.8456648111408
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1998,Rate,48.9540050118853,50.7077435466328,47.3602424345525
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,1999,Rate,49.6187182817111,51.367604221671,48.0288274904745
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2000,Rate,48.9254560594655,50.5918350439179,47.4615311281589
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2001,Rate,47.7163060620343,49.2767722405851,46.2472095429855
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2002,Rate,46.3232468775205,47.8045689785378,44.9200180438951
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2003,Rate,44.3223945715673,45.7295678849753,42.9603524819232
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2004,Rate,41.7568771637838,43.1280635207316,40.4239117916353
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2005,Rate,40.1703368877428,41.5656735838604,38.8182057999879
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2006,Rate,38.4472424192513,39.8299107853368,37.1559751329336
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2007,Rate,36.7581528520545,38.1229101533235,35.5039834142195
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2008,Rate,35.5891932998668,36.9175865672741,34.2944254700515
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2009,Rate,34.2943559237543,35.6251851034543,33.012780176578
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2010,Rate,33.5111405819935,34.7987134119392,32.2630310020891
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2011,Rate,33.056633521856,34.351670814383,31.7521350322902
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2012,Rate,32.5295461928319,33.9171407031411,31.1913206734975
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2013,Rate,32.2994253442857,33.7481028828727,30.8950007037489
+1,Deaths,102,United States,,495,Ischemic stroke,1,Male,27,Age-standardized,2014,Rate,32.5204245950886,34.3151534189952,30.9390569037014
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1980,Rate,60.7155514771644,62.9278369991946,58.4818061313802
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1981,Rate,59.1836806123491,61.227822941016,57.1809234983725
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1982,Rate,57.2841049876136,59.2570037931936,55.3413011303735
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1983,Rate,56.8163574969195,58.7568008301329,54.9530575052806
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1984,Rate,55.7191740588621,57.5755689665927,53.9822471798712
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1985,Rate,54.7895164138122,56.6083555185753,53.1232315248669
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1986,Rate,53.4186938714029,55.2030163536317,51.752359688044
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1987,Rate,52.2194425982484,53.9623998856354,50.5249113376268
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1988,Rate,51.2428490884018,52.924309559845,49.5056118696966
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1989,Rate,48.973427936882,50.6354957253052,47.1964812255917
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1990,Rate,46.9371248125035,48.6210450664076,45.151740439359
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1991,Rate,45.7983364144937,47.4493731188668,44.0287899035187
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1992,Rate,44.7822074908661,46.3751918275155,43.0790071883208
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1993,Rate,45.3225687724784,46.9607549478051,43.6669504751983
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1994,Rate,45.3230695823638,46.96440908595,43.7382967400814
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1995,Rate,45.5890005736873,47.2350964398697,43.9875826594256
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1996,Rate,45.2890253816623,46.9279360190269,43.6734197425197
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1997,Rate,44.84443480606,46.4936346327333,43.2093709726844
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1998,Rate,44.9001106145328,46.5186553480873,43.2775631556849
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,1999,Rate,45.8742488094409,47.542975216157,44.1736344685687
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2000,Rate,45.7678828532813,47.4382342233966,44.0765196671829
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2001,Rate,45.1710507677287,46.7566401860441,43.5287157465006
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2002,Rate,44.2216707564824,45.7861035120082,42.6011415561859
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2003,Rate,42.6836759320721,44.2176503373203,41.1558563893816
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2004,Rate,40.3526699077468,41.9359535940829,38.8941335237437
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2005,Rate,38.8878922003186,40.427333643226,37.5072765437777
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2006,Rate,37.4068842583239,38.9095306079027,36.0587771393238
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2007,Rate,35.9705726253825,37.4427753638484,34.6620681514247
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2008,Rate,35.0543909234793,36.4844002630579,33.7380731016138
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2009,Rate,34.1164139216052,35.5271657418328,32.7475649182777
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2010,Rate,33.2714573724426,34.6896850933537,31.8609181895613
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2011,Rate,33.1406987859855,34.6020551269362,31.6624772118594
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2012,Rate,32.5112379856914,34.0479523974093,31.0046980868478
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2013,Rate,32.3411963306099,33.9348672703186,30.7487940774607
+1,Deaths,102,United States,,495,Ischemic stroke,2,Female,27,Age-standardized,2014,Rate,32.3100392992214,34.0499281790487,30.6699675721457
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1980,Rate,65.6533842061112,67.5903178494485,63.6687981486137
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1981,Rate,63.8443747296474,65.6983725642408,62.0095554903836
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1982,Rate,61.6985124002253,63.4553975952625,59.9371434652973
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1983,Rate,60.8373467178466,62.5438275992142,59.1916337242862
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1984,Rate,59.5733109576204,61.2155670670803,57.967914339394
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1985,Rate,58.5348694474737,60.0888185399291,56.9612838150058
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1986,Rate,57.0147311351112,58.5426352767983,55.5216664773628
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1987,Rate,55.5880257635357,57.0746776596779,54.1167023557252
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1988,Rate,54.4363962590231,55.9207940099854,53.0120649762085
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1989,Rate,52.0890111396066,53.4795333583877,50.6301912583356
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1990,Rate,50.0163829193082,51.4386637662091,48.53639608581
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1991,Rate,48.7877063721246,50.1157428197487,47.3249418203205
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1992,Rate,47.6918567022911,49.042926414935,46.2128469502278
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1993,Rate,48.1711725162654,49.5456209496137,46.6912020383446
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1994,Rate,48.0781357380287,49.4616789559619,46.614379433114
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1995,Rate,48.2557233414119,49.6576767636617,46.7893394210559
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1996,Rate,47.6918454413434,49.1079000197759,46.2572329244412
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1997,Rate,46.9947371225525,48.3739977466932,45.5941571398059
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1998,Rate,46.852415021828,48.2431136524067,45.4459853675037
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,1999,Rate,47.7271177694115,49.1217616352329,46.3148108663977
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2000,Rate,47.4051814305555,48.8429394574433,46.0436801486969
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2001,Rate,46.587788229624,47.9764043677729,45.2482802390567
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2002,Rate,45.4653646870385,46.8261135472597,44.2024904512933
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2003,Rate,43.7483926831119,45.0433034875648,42.511239500872
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2004,Rate,41.3095323533554,42.5547554726527,40.123413227239
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2005,Rate,39.7954332346768,41.0334601102524,38.6779900498233
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2006,Rate,38.2140296812753,39.4320825744171,37.1380151397037
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2007,Rate,36.6661599417275,37.8867896720826,35.5899426920816
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2008,Rate,35.6394294003985,36.7889913598648,34.5944863079264
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2009,Rate,34.5498609539769,35.6740012709211,33.4651924228574
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2010,Rate,33.7189562273791,34.834802740774,32.6056323121195
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2011,Rate,33.4541843627519,34.5923114214906,32.333547464632
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2012,Rate,32.8604743732459,34.0342883021791,31.6774703658921
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2013,Rate,32.6572739771635,33.8562804646195,31.4523778340298
+1,Deaths,102,United States,,495,Ischemic stroke,3,Both,27,Age-standardized,2014,Rate,32.7128642481381,34.0050258109718,31.4106872816934
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1980,Rate,27.8739014544096,29.3460585978101,26.6699529438576
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1981,Rate,27.1554534760937,28.4823021309622,26.02145120127
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1982,Rate,26.3773188051085,27.5407933519529,25.3191473648876
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1983,Rate,26.0022990215666,27.0659791413257,25.032246918982
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1984,Rate,25.7237948533913,26.7445616575635,24.7903861207598
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1985,Rate,25.6238754394311,26.6169060051957,24.7410306676838
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1986,Rate,25.2903260918725,26.2214833988763,24.4810856838265
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1987,Rate,24.8645256887773,25.7728202638575,24.07156100591
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1988,Rate,24.6411527046656,25.5685453407667,23.8768308326035
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1989,Rate,23.9956484342509,24.8766510501729,23.2435659225989
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1990,Rate,23.3965325271939,24.2013113362558,22.6599175156475
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1991,Rate,23.0420194153274,23.8239071316434,22.3397881783912
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1992,Rate,22.6758674234671,23.4522470591219,21.9625328393626
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1993,Rate,22.8650075745523,23.6710733132024,22.0750307216161
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1994,Rate,22.7455278383722,23.6082830197168,21.9563339404709
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1995,Rate,22.7482088090028,23.6347439938134,21.9472407950789
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1996,Rate,22.2456846563215,23.1466574172579,21.4613427441501
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1997,Rate,21.7541310142698,22.6280554814919,20.9725144882953
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1998,Rate,21.3740935967671,22.2536908643629,20.616661689385
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,1999,Rate,21.0827502613764,21.9295578242991,20.3383974404729
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2000,Rate,20.8164172847381,21.6284535792454,20.1190637036316
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2001,Rate,20.4847544424455,21.2482383921157,19.7983750073574
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2002,Rate,20.14751565308,20.8622167482417,19.4890706000447
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2003,Rate,19.6390184369919,20.3112112176674,18.9719684744341
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2004,Rate,18.903016272664,19.5479417459757,18.2331426283341
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2005,Rate,18.657083775448,19.3022995050683,17.988170648448
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2006,Rate,18.2392961237145,18.9102290200116,17.5779915360441
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2007,Rate,17.6972073841183,18.3930075524082,17.0600762977015
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2008,Rate,17.3761584322754,18.0859237995035,16.7616930522825
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2009,Rate,17.0112643219059,17.6963188450223,16.4160229420217
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2010,Rate,16.6473859038624,17.3361478343109,16.0291326157808
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2011,Rate,16.5138897102786,17.2362094866337,15.8736456501216
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2012,Rate,16.3004376830673,17.056737915726,15.6042607820097
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2013,Rate,16.2249267738398,17.0092541832073,15.4910723246611
+1,Deaths,102,United States,,496,Hemorrhagic stroke,1,Male,27,Age-standardized,2014,Rate,16.258996770203,17.1660109945808,15.408071426779
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1980,Rate,25.1659048411522,26.3068515028501,24.0196650705883
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1981,Rate,24.5477537648482,25.5663833358229,23.5151856180315
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1982,Rate,23.8348284830014,24.7378483916654,22.8880069115876
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1983,Rate,23.7415867677374,24.5963829505697,22.8798248215444
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1984,Rate,23.4906412159756,24.3138858274506,22.6984663792377
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1985,Rate,23.3228462825235,24.1454116815728,22.5775379335913
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1986,Rate,23.028429296617,23.8249931683502,22.3507055104607
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1987,Rate,22.783332676009,23.5236043324601,22.1036166619182
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1988,Rate,22.651079736263,23.3869633894259,21.9812707958451
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1989,Rate,21.969335958382,22.6751928962368,21.3077983406132
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1990,Rate,21.443492446677,22.1465515878189,20.7541284493953
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1991,Rate,21.1420352714394,21.8485550811108,20.4518104724657
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1992,Rate,20.772072629383,21.4575627764215,20.0941203706246
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1993,Rate,20.9863872614027,21.6759939588059,20.3024443758926
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1994,Rate,21.012046795853,21.7530465128635,20.2827374085315
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1995,Rate,21.1851844332253,21.9617169742866,20.4092333680234
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1996,Rate,21.0895081453812,21.8367716663106,20.3063260620219
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1997,Rate,20.9481622979459,21.7210524028368,20.1549576908726
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1998,Rate,20.7315285402899,21.4937608903149,19.9331231859842
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,1999,Rate,20.5831381729697,21.3239823844971,19.8011694463802
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2000,Rate,20.4187401236525,21.168954210585,19.6603536092811
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2001,Rate,20.1069925483754,20.8377587144495,19.3890106330473
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2002,Rate,19.7183699128645,20.4013803308874,19.0242050972768
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2003,Rate,19.1555970526417,19.8036181137958,18.514212775938
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2004,Rate,18.3215142971446,18.9783415203898,17.6984712221729
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2005,Rate,17.8555730311075,18.5227077584599,17.2373086325537
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2006,Rate,17.3637150324923,18.0139299873524,16.7266610970018
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2007,Rate,16.7529741438536,17.40221009008,16.1321299448641
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2008,Rate,16.386445187476,17.0136731165736,15.7753960400318
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2009,Rate,16.0446141289267,16.6742512738487,15.4318541462619
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2010,Rate,15.5751732317354,16.2434124171194,14.9337757448791
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2011,Rate,15.5035133985354,16.1863800532248,14.8169093148051
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2012,Rate,15.2236663922623,15.9410052219494,14.5015048196366
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2013,Rate,15.140186458822,15.8960040743589,14.3832065485934
+1,Deaths,102,United States,,496,Hemorrhagic stroke,2,Female,27,Age-standardized,2014,Rate,15.0964615691056,15.9411048177761,14.2780169230756
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1980,Rate,26.2995568672578,27.1811906130376,25.3948093939309
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1981,Rate,25.6312606545245,26.4115828457842,24.8230744659935
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1982,Rate,24.8842407055101,25.5962374234813,24.1845270655583
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1983,Rate,24.6705013789927,25.3390101396158,24.0100618961318
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1984,Rate,24.4113167295966,25.0409007901295,23.8078537315104
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1985,Rate,24.2771613599677,24.8813289837152,23.6983853264481
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1986,Rate,23.9721286982621,24.5680386056306,23.4052068391083
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1987,Rate,23.6560112802146,24.2297878466467,23.1089102997476
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1988,Rate,23.4944204234571,24.0592979679671,22.9509900702847
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1989,Rate,22.830045827681,23.3787292694127,22.2801416330929
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1990,Rate,22.2788131164687,22.8530784847132,21.7459019233617
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1991,Rate,21.9587210035708,22.5214974429712,21.4179151987962
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1992,Rate,21.5978203169062,22.1242406841057,21.0526962911603
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1993,Rate,21.8163124976833,22.3673452300241,21.2441026908523
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1994,Rate,21.7968862807521,22.3610979457362,21.2160587393125
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1995,Rate,21.9167881355829,22.4968390490793,21.3058411879812
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1996,Rate,21.6642956450985,22.2570358030134,21.054798961871
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1997,Rate,21.3914222029252,22.0043003302027,20.7748055881147
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1998,Rate,21.1157855516657,21.7155248108128,20.5065765677092
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,1999,Rate,20.9054619981948,21.4764464407333,20.3274883970317
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2000,Rate,20.7029044273778,21.262052919783,20.1583149474822
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2001,Rate,20.3811869647707,20.9222000707296,19.8652763651245
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2002,Rate,20.0124668730253,20.5461462398063,19.507608038151
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2003,Rate,19.469739027276,19.9944814525251,18.9811333140746
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2004,Rate,18.6728791790343,19.1693231223972,18.2135613070264
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2005,Rate,18.3009822978866,18.8015649784553,17.8490793893661
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2006,Rate,17.8421120033802,18.3196390859926,17.3842886502651
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2007,Rate,17.2609449996747,17.7326818151635,16.7990166415997
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2008,Rate,16.91098217976,17.3952590093451,16.462307281059
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2009,Rate,16.5559118318847,17.0208865955075,16.0888383410527
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2010,Rate,16.1312451318351,16.6322848229731,15.6310632256026
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2011,Rate,16.0345783880745,16.5595320269172,15.5062961682502
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2012,Rate,15.7845483426371,16.3398939759015,15.2181504837183
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2013,Rate,15.7047748947079,16.2949374831122,15.1093429569454
+1,Deaths,102,United States,,496,Hemorrhagic stroke,3,Both,27,Age-standardized,2014,Rate,15.6902854506263,16.4196754740488,15.0346938423169
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1980,Rate,13.2171123217295,14.1969643313111,10.7652643830059
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1981,Rate,12.9974657947717,13.9043396546739,10.7215330855504
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1982,Rate,12.766161211989,13.6404254809109,10.6974418129095
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1983,Rate,12.6873017571297,13.5198072662002,10.8389891624442
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1984,Rate,12.6228718003184,13.4017348856777,10.7989920325243
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1985,Rate,12.6550270940305,13.403159216083,10.8823390160632
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1986,Rate,12.5413338092553,13.2614502497634,11.093477527107
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1987,Rate,12.4455329548462,13.1313035440697,11.2719890210479
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1988,Rate,12.3919661417592,13.0490712425303,11.5854193711908
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1989,Rate,12.225706176445,12.8692010323492,11.5640324916265
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1990,Rate,12.0208756218254,12.6645798348925,11.3683616312885
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1991,Rate,11.9579124643169,12.6140395601627,11.3811729193171
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1992,Rate,11.9113233026147,12.5660438504536,11.2818571370786
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1993,Rate,12.1852400965382,12.8796359541848,11.5336727795545
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1994,Rate,12.2799919965473,12.9808321141404,11.6030151071154
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1995,Rate,12.4339024505416,13.132899709531,11.7658166843234
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1996,Rate,12.239801585044,12.9672116919293,11.5537303901485
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1997,Rate,11.9279133492522,12.6037045173792,11.2448866885082
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1998,Rate,11.6700206425142,12.3525203127449,11.0154754177146
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,1999,Rate,11.032474307942,11.7000997443524,10.4370300288073
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2000,Rate,10.9804619738143,11.6299225701034,10.3867960437951
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2001,Rate,11.1106428173352,11.7260593040466,10.5695016503699
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2002,Rate,11.3154840124065,11.8956658219105,10.7497834542036
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2003,Rate,11.4550191169381,12.0568313649143,10.878735152875
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2004,Rate,11.392043604715,11.9858745696121,10.8220783281945
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2005,Rate,11.588097665774,12.1914530844454,10.9474768248756
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2006,Rate,11.6831450625819,12.2992639754487,11.0414488147813
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2007,Rate,11.6680445293016,12.2911140667774,10.88722845617
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2008,Rate,11.7900978972725,12.4094513384159,10.8707200492766
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2009,Rate,11.8312897209139,12.5028048573195,10.6820681774663
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2010,Rate,11.7767578135869,12.4883576078195,10.3727401775429
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2011,Rate,11.8590472526983,12.6234290714712,10.258188699053
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2012,Rate,11.9053731684103,12.7214305552415,10.1107678036229
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2013,Rate,11.955347480949,12.7848990961507,10.071214188801
+1,Deaths,102,United States,,498,Hypertensive heart disease,1,Male,27,Age-standardized,2014,Rate,11.7639142045009,12.6737327412732,10.0663262095549
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1980,Rate,12.3866520805892,13.1442310586622,11.6676654057321
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1981,Rate,12.1823319005717,12.8719124334056,11.5147135132367
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1982,Rate,11.9706959944644,12.6764499232008,11.3531132306687
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1983,Rate,12.0328806944047,12.6629217419479,11.4233090415127
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1984,Rate,11.9697470916191,12.5662377845333,11.3728946199385
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1985,Rate,11.965105969264,12.5284479739594,11.4118473607585
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1986,Rate,11.8790446082669,12.4154023801261,11.3328075301002
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1987,Rate,11.8080044263781,12.3538054407461,11.270991494306
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1988,Rate,11.7991498744288,12.3330303397717,11.2797349084831
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1989,Rate,11.5330386835129,12.0534565925959,11.0335801383614
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1990,Rate,11.3583071531658,11.9120606397564,10.8409170861401
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1991,Rate,11.2443316628648,11.8109990612748,10.7288675445169
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1992,Rate,11.1253567201507,11.7030710034157,10.6129273626967
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1993,Rate,11.3371762133925,11.9556427726219,10.8066844295222
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1994,Rate,11.4193612157737,12.0484169135233,10.8755668133277
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1995,Rate,11.5114208146881,12.1635438737432,10.9335665276304
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1996,Rate,11.4527768752326,12.1102049503009,10.883587536976
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1997,Rate,11.2909742372884,11.9561302996022,10.7236340619462
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1998,Rate,11.126775916779,11.7580968238211,10.5551073137388
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,1999,Rate,10.6886748639864,11.2905751309332,10.1666772628608
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2000,Rate,10.61172561768,11.187852030197,10.0970028628416
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2001,Rate,10.6731633364524,11.2679169772739,10.1573749343506
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2002,Rate,10.7121872390208,11.3036924512246,10.2090843985872
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2003,Rate,10.7296707760533,11.3150803773872,10.219884859696
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2004,Rate,10.5088342895853,11.0771040445607,9.99479530341637
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2005,Rate,10.5061009325486,11.0491152294042,10.0049036664395
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2006,Rate,10.4698986798045,11.0183322788504,9.97443025833006
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2007,Rate,10.3634745182108,10.9051677105275,9.86277338247372
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2008,Rate,10.3947679302755,10.9308452557098,9.87762686910408
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2009,Rate,10.3811674092378,10.954816820664,9.84640557532351
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2010,Rate,10.2783659239008,10.8736403819069,9.72024240900932
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2011,Rate,10.3430390800962,10.9770134408249,9.75016621317708
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2012,Rate,10.3051687098518,10.9804040565861,9.63971045823057
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2013,Rate,10.3676528232478,11.1178358175364,9.65204487494141
+1,Deaths,102,United States,,498,Hypertensive heart disease,2,Female,27,Age-standardized,2014,Rate,10.2343130300329,11.0164974358569,9.47341611555939
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1980,Rate,13.0342830398695,13.637016741943,11.9872789281415
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1981,Rate,12.8213052551031,13.4183713511602,11.8057464310111
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1982,Rate,12.5980306524714,13.1631117814863,11.6169024923965
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1983,Rate,12.6106793822053,13.1398649946103,11.6957074356922
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1984,Rate,12.5509567276641,13.0553013630541,11.790167270894
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1985,Rate,12.5676335392817,13.0337816069788,11.8173839286509
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1986,Rate,12.4768379956242,12.9396166430428,11.8024370229915
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1987,Rate,12.3971337711076,12.8656570101704,11.8023705099648
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1988,Rate,12.3749384297247,12.8264107948332,11.8369804221612
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1989,Rate,12.1485895288066,12.6042249332516,11.6661047485005
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1990,Rate,11.9562725172312,12.458095973392,11.5007801304802
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1991,Rate,11.8652398338245,12.3610013075618,11.4115005198595
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1992,Rate,11.7780205705813,12.2660142338916,11.3319487396296
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1993,Rate,12.0294602710342,12.5485107593716,11.5641430244811
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1994,Rate,12.1268660433074,12.6652802522295,11.6641293725149
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1995,Rate,12.2537020587719,12.8079172917379,11.7709600363759
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1996,Rate,12.140503220762,12.7091626746469,11.6393777461486
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1997,Rate,11.9163857041917,12.4657898057548,11.428618034411
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1998,Rate,11.7101237661769,12.2499978809954,11.2225551679031
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,1999,Rate,11.169174808259,11.6835654180425,10.7069710281023
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2000,Rate,11.1016542199675,11.6045744804178,10.6547920304841
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2001,Rate,11.1924583703473,11.6986107392004,10.7461895464654
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2002,Rate,11.3015840616813,11.7849096817871,10.852662791313
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2003,Rate,11.3690339681753,11.8451715752186,10.9177452420867
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2004,Rate,11.2088399402385,11.6669150592444,10.7590595541289
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2005,Rate,11.2925767039961,11.7677786320026,10.7866934670463
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2006,Rate,11.3089472598591,11.7802400840238,10.7378422041988
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2007,Rate,11.235487405021,11.7091698474696,10.6693357546537
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2008,Rate,11.3008287080685,11.765640338898,10.7707036444464
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2009,Rate,11.3048614981901,11.7943097209858,10.7205508153833
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2010,Rate,11.2161083106626,11.6982351505755,10.5480818755378
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2011,Rate,11.2875525112808,11.7912907264333,10.5370650048858
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2012,Rate,11.2810608718886,11.8163344568905,10.4841719010866
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2013,Rate,11.3323346739278,11.899692993695,10.520438784243
+1,Deaths,102,United States,,498,Hypertensive heart disease,3,Both,27,Age-standardized,2014,Rate,11.1652124236708,11.7696677966238,10.3051581293403
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1980,Rate,12.8235959911288,13.5199054429626,12.1481663680492
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1981,Rate,12.861294549035,13.5117922486376,12.2247656335337
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1982,Rate,13.0889794777312,13.7006326576066,12.5192797321472
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1983,Rate,13.6358514778261,14.2153117177653,13.0791965484178
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1984,Rate,14.3246457935261,14.8829092700313,13.7626925181715
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1985,Rate,15.2094163624254,15.7739435768387,14.6695430410263
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1986,Rate,15.9918705758147,16.5484608293683,15.4674397375875
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1987,Rate,16.6516627117628,17.2185010617458,16.1081132569237
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1988,Rate,17.351938262243,17.9363578559709,16.775276203029
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1989,Rate,17.6946508950327,18.3048592188743,17.0932025773286
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1990,Rate,17.9404134437763,18.582243227675,17.3368411401612
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1991,Rate,18.2851442695616,18.9751217680243,17.6633498562043
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1992,Rate,18.4997917733158,19.1972784490775,17.8668063405839
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1993,Rate,19.0721324817865,19.7705417381867,18.4022017772453
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1994,Rate,19.1811556236401,19.8916401528518,18.5327540119036
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1995,Rate,19.356972344139,20.0779497457884,18.7074627441217
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1996,Rate,18.921510159292,19.6298536852539,18.2469030169841
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1997,Rate,18.3655280503357,19.0739842261808,17.6947437963594
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1998,Rate,17.7670485342554,18.4517880203255,17.1237635997833
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,1999,Rate,16.6875943710514,17.326614887781,16.0890634568145
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2000,Rate,16.0582081361115,16.6709704948219,15.4701383788128
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2001,Rate,15.5321087639578,16.1185116326608,14.9529654066282
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2002,Rate,15.1228672430924,15.6915809214034,14.5474193382721
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2003,Rate,14.5121924184185,15.0956235890586,13.960403658205
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2004,Rate,13.7762738969825,14.318990300376,13.2476438466578
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2005,Rate,13.4703820906078,14.0061482977299,12.9520793196089
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2006,Rate,13.0335236601144,13.5730174497676,12.5187310926694
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2007,Rate,12.5697111891995,13.0883567611763,12.0749405028776
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2008,Rate,12.271478257804,12.8109741514258,11.7836301446462
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2009,Rate,11.9346544390861,12.4716968066109,11.4456496812898
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2010,Rate,11.6352950657452,12.1583977786267,11.1291380656576
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2011,Rate,11.4972314180384,12.0638926849542,10.9486067616613
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2012,Rate,11.314991376931,11.8954309061651,10.768425745425
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2013,Rate,11.2631926037814,11.8861000799573,10.6668145194702
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,1,Male,27,Age-standardized,2014,Rate,11.4883947950055,12.2492858842112,10.8255062378633
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1980,Rate,6.15389626147871,6.44783043931394,5.88232364690762
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1981,Rate,6.17320477500626,6.44622970756356,5.90884944013147
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1982,Rate,6.29413175906017,6.57020583001937,6.04269765558498
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1983,Rate,6.59822030323963,6.87345825247929,6.34978556887308
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1984,Rate,6.878202681917,7.14897922093022,6.62436878252857
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1985,Rate,7.24525203901503,7.51608656696161,6.98014369150188
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1986,Rate,7.57189981621147,7.83971262926171,7.3011486281014
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1987,Rate,7.90721614143615,8.18244734520662,7.64055848551832
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1988,Rate,8.28421924903059,8.56436825741898,7.99582176416383
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1989,Rate,8.44235290500498,8.7427829962302,8.15508413693282
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1990,Rate,8.51887561431293,8.85913234292072,8.21157644540163
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1991,Rate,8.73603281127635,9.08682213007224,8.41654679365955
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1992,Rate,8.87562251118904,9.23529365582617,8.54090903657888
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1993,Rate,9.22309830049535,9.58835956017248,8.89144937782419
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1994,Rate,9.35704010178442,9.72511391855211,8.99917278574865
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1995,Rate,9.49055135366592,9.8648071112712,9.11944783179425
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1996,Rate,9.4706702226234,9.85131875884134,9.10367924889168
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1997,Rate,9.36101914400139,9.74067517600642,8.99277894282233
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1998,Rate,9.0993651577027,9.47744819120763,8.73601301913332
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,1999,Rate,8.64477542677106,9.00050876776774,8.30551668081614
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2000,Rate,8.38684702310688,8.74050325597051,8.05277683488103
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2001,Rate,8.16240574843617,8.47387771017442,7.85872935993134
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2002,Rate,7.92676201684452,8.2197058203097,7.62755979149843
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2003,Rate,7.62878993380172,7.92199456953528,7.35102842701947
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2004,Rate,7.22045364683853,7.49685739388592,6.95564559074337
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2005,Rate,6.99071902984647,7.2664361719873,6.73276548713726
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2006,Rate,6.75014496308713,7.02700542662632,6.50162860727495
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2007,Rate,6.47093174749835,6.72948670054196,6.22615821085121
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2008,Rate,6.30502241485648,6.56274152289451,6.05374816810829
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2009,Rate,6.18554829208751,6.44785298661938,5.92164884198198
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2010,Rate,5.99511998478791,6.26918244332365,5.71783314278902
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2011,Rate,5.94434578684653,6.23575888294677,5.66107278590432
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2012,Rate,5.85217031389616,6.16144102110958,5.54836132967704
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2013,Rate,5.84209402104795,6.15873821485925,5.53425584813584
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,2,Female,27,Age-standardized,2014,Rate,5.9354775891708,6.28457132793408,5.59903719094575
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1980,Rate,9.09238963330082,9.44324060989477,8.7772819944317
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1981,Rate,9.11139296282332,9.43359135536625,8.81961537045715
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1982,Rate,9.26734456908923,9.56748683888713,8.98268344223882
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1983,Rate,9.66823548100266,9.95512131952599,9.38887052130166
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1984,Rate,10.1142205742625,10.38904351601,9.83867118460965
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1985,Rate,10.694733495768,10.9635493364158,10.4328643358671
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1986,Rate,11.2089767110516,11.4890522981801,10.9355377437061
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1987,Rate,11.667864340277,11.9630589199649,11.3790826378077
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1988,Rate,12.1773213787219,12.4876835066225,11.8826528788223
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1989,Rate,12.4034313467288,12.7298659882394,12.0978380741585
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1990,Rate,12.5427403107066,12.8815317195116,12.2140464995745
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1991,Rate,12.8109072169958,13.1633210578617,12.470085069322
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1992,Rate,12.9805003882866,13.3424448891004,12.6373965057689
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1993,Rate,13.4246772916088,13.8011284845705,13.0626828149236
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1994,Rate,13.547303892004,13.9240373093125,13.1745530104014
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1995,Rate,13.6977722774163,14.0916732020612,13.3152649886927
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1996,Rate,13.4967920002353,13.886609517388,13.1085506893664
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1997,Rate,13.1972634772117,13.5900845495396,12.8153589116523
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1998,Rate,12.791043366816,13.1757727740787,12.4317890624939
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,1999,Rate,12.0676456005139,12.4124094267591,11.7329579753669
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2000,Rate,11.6538338875577,11.9945585040041,11.342359332018
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2001,Rate,11.310460312867,11.6394915860968,11.0080748904715
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2002,Rate,11.0104760240176,11.3317167274989,10.7018451103623
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2003,Rate,10.5906475047703,10.9020514916007,10.3096610464482
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2004,Rate,10.0524006166975,10.3506220845392,9.7835544879961
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2005,Rate,9.80298574264197,10.1001869102756,9.54168339445867
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2006,Rate,9.48999195436595,9.77415334355011,9.23920349308912
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2007,Rate,9.13900732490564,9.41464187028078,8.89407977589717
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2008,Rate,8.92265887887973,9.19166050770289,8.67735046751842
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2009,Rate,8.71577791990643,8.98454794968183,8.47256698190521
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2010,Rate,8.48139209241905,8.75075833346767,8.23336243025201
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2011,Rate,8.40022339842635,8.6863831228753,8.12737462458153
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2012,Rate,8.27534000496306,8.57304313443122,7.98740537464807
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2013,Rate,8.25446662809987,8.57898339586297,7.94967984665696
+1,Deaths,102,United States,,499,Cardiomyopathy and myocarditis,3,Both,27,Age-standardized,2014,Rate,8.40821382058809,8.76726282130456,8.06645296347291
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1980,Rate,5.40776006560852,6.32206340590412,4.61268770975046
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1981,Rate,5.41551378827811,6.33560662881566,4.62433219500971
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1982,Rate,5.43179126594815,6.35740110116699,4.63568533383961
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1983,Rate,5.44790271975351,6.39394832464996,4.66279654444753
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1984,Rate,5.46854429449847,6.42978576244322,4.68643352969003
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1985,Rate,5.48703758597498,6.44701332575578,4.70509935321685
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1986,Rate,5.49732028163444,6.47335383869317,4.70461381266369
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1987,Rate,5.51064153428155,6.47941501917248,4.70765953791194
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1988,Rate,5.52245146691415,6.47137248632827,4.71694954698854
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1989,Rate,5.51380492004192,6.46212075546386,4.71839051878852
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1990,Rate,5.51677028282189,6.46381288261944,4.71767032245664
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1991,Rate,5.3978516809746,6.31116530491791,4.61031738635784
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1992,Rate,5.28014930007408,6.16962716153557,4.50910055683858
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1993,Rate,5.17893322015823,6.05236990440255,4.42871118428864
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1994,Rate,5.06950132345991,5.91095271003114,4.34043403918079
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1995,Rate,4.96600324366845,5.7886157569464,4.24611306399881
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1996,Rate,5.06287493674188,5.87326516656244,4.33047227382711
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1997,Rate,5.16425506443492,5.97499463989124,4.41941731710299
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1998,Rate,5.27496787128426,6.07936711289934,4.51390767277166
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,1999,Rate,5.41302292781836,6.24387177834488,4.63641104086125
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2000,Rate,5.53725514230083,6.37874066891802,4.7485025518875
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2001,Rate,5.65515769369205,6.51447802809651,4.85308870279468
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2002,Rate,5.77365061333742,6.66945682164504,4.95784574143767
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2003,Rate,5.88358322399253,6.78156051605205,5.06121794088179
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2004,Rate,5.99576553987583,6.91827787504041,5.15829647403934
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2005,Rate,6.12376587431766,7.06477713571545,5.27934994655955
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2006,Rate,6.13740911645822,7.09102225024215,5.28551281367952
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2007,Rate,6.14345014057065,7.10730338698934,5.28156905291431
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2008,Rate,6.16286625264309,7.12317042512385,5.29042061596665
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2009,Rate,6.1593059508708,7.13068464716721,5.28309151647778
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2010,Rate,6.18273943368268,7.15664642615407,5.29177740682935
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2011,Rate,6.19391348505322,7.18814194630925,5.29607601541212
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2012,Rate,6.2016309384685,7.20835808377559,5.2925526166252
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2013,Rate,6.21082237941325,7.22313494540171,5.31292027693514
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,1,Male,27,Age-standardized,2014,Rate,6.22097475327003,7.23355414040275,5.31837332081927
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1980,Rate,5.3336859975364,6.24543804091134,4.52144136867971
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1981,Rate,5.35192081415329,6.26712361373198,4.53698010903402
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1982,Rate,5.35974111331419,6.2965938225001,4.54868519829525
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1983,Rate,5.40609458398831,6.33961491892614,4.59959301474957
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1984,Rate,5.42948143830476,6.36372155745941,4.62592406274374
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1985,Rate,5.45689244530956,6.40324689846117,4.64971918257489
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1986,Rate,5.48266787645315,6.40924858316758,4.6648621245975
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1987,Rate,5.49633152665552,6.42173330882738,4.67789664660167
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1988,Rate,5.52450015310942,6.46211252963931,4.70080317775802
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1989,Rate,5.51617422006954,6.45829773018327,4.69747690101658
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1990,Rate,5.55152993381621,6.48999424260664,4.71460893937077
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1991,Rate,5.47767375771049,6.40204267362576,4.66244051069851
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1992,Rate,5.42181534703368,6.33403142277408,4.61194905494364
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1993,Rate,5.38873101468689,6.30894261627465,4.58193528098563
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1994,Rate,5.35180018820758,6.26361494855879,4.5484826109357
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1995,Rate,5.30466810614207,6.20449226087698,4.50064956228847
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1996,Rate,5.43511139309141,6.33876802303442,4.61252051953022
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1997,Rate,5.56184350645503,6.47152993106676,4.71655884390098
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1998,Rate,5.72548769791045,6.65336775397117,4.85334290677445
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,1999,Rate,5.89731392059644,6.86129951632274,5.00146728926676
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2000,Rate,6.07731997625692,7.05217684325707,5.145093392422
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2001,Rate,6.2122156339837,7.20691726156105,5.27588994157229
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2002,Rate,6.37169556242794,7.37435469034668,5.40680332075223
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2003,Rate,6.50627219839529,7.52639145993608,5.53444082582029
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2004,Rate,6.63194636278549,7.67323355734278,5.6472304141796
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2005,Rate,6.7671856331126,7.83615956610121,5.76168462838345
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2006,Rate,6.80601750208022,7.8849690064329,5.8063719580899
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2007,Rate,6.84341387173643,7.9355435243572,5.84216998076487
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2008,Rate,6.89312983986805,7.99162650929988,5.88703025034403
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2009,Rate,6.92239196240561,8.03551914151452,5.90961119772808
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2010,Rate,6.9546557390702,8.08035070489755,5.93044436633322
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2011,Rate,7.00592993425347,8.1397732455255,5.97666708669751
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2012,Rate,7.01899879118695,8.16468085095429,5.974359102589
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2013,Rate,7.07670528422733,8.25072228189586,6.03656287615658
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,2,Female,27,Age-standardized,2014,Rate,7.05165597076487,8.21791211587281,6.00879696540146
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1980,Rate,5.40618773648363,6.30860802031452,4.59348804841278
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1981,Rate,5.42179767057017,6.32503313052219,4.60979387174417
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1982,Rate,5.43331611822789,6.3363229296132,4.62034372166199
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1983,Rate,5.4698732668972,6.38275244221587,4.65038260901409
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1984,Rate,5.49327815686377,6.40371392471392,4.66832423574852
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1985,Rate,5.51845543495183,6.42383079158028,4.68774534028716
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1986,Rate,5.5398223101678,6.44180815410395,4.7083717030303
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1987,Rate,5.55407046475248,6.45151489644521,4.72893618556467
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1988,Rate,5.57722016795344,6.48125777268602,4.75304631402411
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1989,Rate,5.56901402939916,6.45831260074962,4.7407867682339
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1990,Rate,5.59334226119425,6.47761336616279,4.75492996463288
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1991,Rate,5.50448720638302,6.37151054379011,4.68320308973659
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1992,Rate,5.42712130289151,6.28720763833221,4.6187691292718
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1993,Rate,5.37091490850986,6.22624293306115,4.57120031176395
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1994,Rate,5.30832954978109,6.13297034310112,4.50512903283437
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1995,Rate,5.24115064776996,6.06318149215173,4.45091599746218
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1996,Rate,5.3601003082263,6.18012498875586,4.5625997765366
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1997,Rate,5.47878643791269,6.29513768572778,4.65853674182048
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1998,Rate,5.62364723574528,6.46603772020817,4.78622982066536
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,1999,Rate,5.78398879857345,6.64714388431259,4.92175192064403
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2000,Rate,5.94347296485246,6.8347283988482,5.051988218321
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2001,Rate,6.0710111122789,6.97343568970762,5.16048584119539
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2002,Rate,6.2134364862825,7.13471552598974,5.28533933392739
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2003,Rate,6.33712364737011,7.26601569853337,5.39132665049085
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2004,Rate,6.45581645018382,7.41252711607918,5.49729372478806
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2005,Rate,6.5868424159483,7.57860088667456,5.61473731626088
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2006,Rate,6.61388105358229,7.6215560714946,5.64762647391022
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2007,Rate,6.63630867803034,7.65407281470117,5.66117534369735
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2008,Rate,6.67168081661758,7.69470207696728,5.68323647606498
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2009,Rate,6.68559968990738,7.71447780091566,5.71181846631723
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2010,Rate,6.71186786407107,7.7541721300259,5.73386586323871
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2011,Rate,6.74473137955254,7.80059459184976,5.75700704584209
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2012,Rate,6.75338225130275,7.81563989685175,5.76506321254407
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2013,Rate,6.78901550580849,7.87049249831399,5.80350276796602
+1,Deaths,102,United States,,500,Atrial fibrillation and flutter,3,Both,27,Age-standardized,2014,Rate,6.77464112710334,7.85811774443559,5.78584935197198
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1980,Rate,13.485220302486,14.1722742768161,12.8138505387378
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1981,Rate,13.2579047706042,13.880153191435,12.6641863022001
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1982,Rate,13.0300907011038,13.5789427288468,12.4769174656137
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1983,Rate,13.0291472439887,13.5331163127052,12.5199084414922
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1984,Rate,13.0450006576727,13.5108561968661,12.5581654768436
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1985,Rate,13.0565040726981,13.5046245817346,12.6080139125491
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1986,Rate,12.9582598252603,13.3951986544368,12.5326011019924
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1987,Rate,12.8190316549499,13.246492130762,12.4128282299684
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1988,Rate,12.7037476573204,13.1248651207872,12.2945249559618
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1989,Rate,12.4229683925239,12.8528639743803,12.0233229931171
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1990,Rate,12.1178741724274,12.5454407156921,11.7237054454753
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1991,Rate,11.8616199069974,12.2824012797838,11.4781076832271
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1992,Rate,11.5495873851797,11.9594778090177,11.1749646466689
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1993,Rate,11.4991180169156,11.9015499067473,11.1288840717257
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1994,Rate,11.2183508215791,11.6173920661961,10.8471374720582
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1995,Rate,11.0412880668603,11.4543688073671,10.6636602068323
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1996,Rate,10.6080371497631,11.0259406839484,10.2426800214291
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1997,Rate,10.1886283241731,10.5913476420321,9.82154898480391
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1998,Rate,9.81767269098411,10.1938076421774,9.46316017709317
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,1999,Rate,9.50416225184468,9.87152038419693,9.16005631029284
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2000,Rate,9.1583144386157,9.50201389591231,8.82462191577415
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2001,Rate,8.75119722648115,9.07333649264545,8.43344466665076
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2002,Rate,8.37265815262231,8.66158437540321,8.07857638073346
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2003,Rate,7.93335062541533,8.19922473663826,7.65713060504195
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2004,Rate,7.37014803344884,7.62256914408485,7.12011469019332
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2005,Rate,7.06259811865836,7.31511850603839,6.8137293201358
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2006,Rate,6.68028288965962,6.92835748423013,6.43873590513098
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2007,Rate,6.28167846412447,6.50829696821679,6.0526504475703
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2008,Rate,5.92848724618748,6.15447454325217,5.70863801385361
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2009,Rate,5.62452417653268,5.8550485560369,5.40882639404997
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2010,Rate,5.39642122136857,5.6283905583315,5.18766443240995
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2011,Rate,5.27003544308001,5.50994203292931,5.05585646781892
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2012,Rate,5.13738178454393,5.37368271016633,4.91511495003603
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2013,Rate,5.11074096716135,5.36269085411248,4.87917540459394
+1,Deaths,102,United States,,501,Aortic aneurysm,1,Male,27,Age-standardized,2014,Rate,5.29272595123003,5.59512399616371,5.02798106367257
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1980,Rate,3.73404334295174,3.92619450910661,3.54978068641142
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1981,Rate,3.72615012348722,3.91552843327874,3.55114372794641
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1982,Rate,3.73936217436046,3.92368843904144,3.56199894157619
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1983,Rate,3.77392839308295,3.94092805050441,3.62069822607893
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1984,Rate,3.83934010578148,3.99249182897909,3.69538522831892
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1985,Rate,3.91253690594665,4.06072103231536,3.7676571717885
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1986,Rate,3.93731884962483,4.08214683958472,3.79756747230439
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1987,Rate,4.00129596328118,4.1480589199325,3.85929796183636
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1988,Rate,4.02947499620867,4.17928011283842,3.89048408004705
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1989,Rate,4.01720872240079,4.16470192172144,3.87077627080171
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1990,Rate,4.0030008711348,4.15848692758368,3.85410659172372
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1991,Rate,4.04829470250334,4.19784917184524,3.9013100325779
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1992,Rate,3.98508101141811,4.13009017406882,3.84691057591246
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1993,Rate,4.03685339561931,4.18247521733408,3.89521686686724
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1994,Rate,4.03571123859359,4.18580316288175,3.89413327355799
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1995,Rate,4.0895293235492,4.25147716617057,3.94068516349019
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1996,Rate,4.03984668511422,4.19970920436808,3.89521192840712
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1997,Rate,4.015166568942,4.17424912657839,3.86964154334638
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1998,Rate,3.89396480059648,4.05369612844122,3.74910756270771
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,1999,Rate,3.8808459929294,4.03112054427261,3.74773789253568
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2000,Rate,3.78995557549789,3.95221343695174,3.64882806204972
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2001,Rate,3.76406449856329,3.90234793906082,3.63688429019499
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2002,Rate,3.63750315086809,3.77921625875246,3.50675881828852
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2003,Rate,3.54601531119512,3.67895625289349,3.42243981110362
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2004,Rate,3.37869152766349,3.50762166825912,3.25645613593231
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2005,Rate,3.31747437636788,3.44032172122099,3.20258509247973
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2006,Rate,3.21060005367892,3.33550050112026,3.09793319702075
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2007,Rate,3.05869769018235,3.17752080338471,2.94687399393591
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2008,Rate,2.91518219254992,3.03498905882436,2.80307215465874
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2009,Rate,2.83576886274002,2.95741276187075,2.7212541745649
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2010,Rate,2.75159874536049,2.87381184363033,2.63134124906351
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2011,Rate,2.70310132704608,2.8258293515377,2.57969095888461
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2012,Rate,2.67268610400413,2.80166911051078,2.54255840433709
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2013,Rate,2.63897285280194,2.79653169315806,2.49034876362441
+1,Deaths,102,United States,,501,Aortic aneurysm,2,Female,27,Age-standardized,2014,Rate,2.70324939572083,2.87302637877743,2.54112443245064
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1980,Rate,7.5990267737426,7.90751770249245,7.29309088060812
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1981,Rate,7.48992980953519,7.76551672798067,7.21573674635706
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1982,Rate,7.39608559167065,7.64531434494128,7.14503341088055
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1983,Rate,7.40557975232854,7.62494002901471,7.18974767129916
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1984,Rate,7.44565299100063,7.64951378934184,7.24171525769038
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1985,Rate,7.49314535973681,7.68667146571719,7.29218480756026
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1986,Rate,7.46499899317467,7.65057847720715,7.2736531470551
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1987,Rate,7.44873316211164,7.63818337085004,7.26015041921167
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1988,Rate,7.42287610111547,7.61286273332523,7.24376032499467
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1989,Rate,7.31078461256216,7.50173754124465,7.13064449442152
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1990,Rate,7.18726431171721,7.37695385197006,6.99745331172108
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1991,Rate,7.12329047315271,7.30576221520852,6.93677053432143
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1992,Rate,6.96849582782874,7.15174668996144,6.78527951706145
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1993,Rate,6.98881328559674,7.16239543477419,6.80717740104565
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1994,Rate,6.88503830943495,7.06304738082571,6.70766032490631
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1995,Rate,6.86101967910392,7.0454031559908,6.68219989013152
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1996,Rate,6.66458076235837,6.84774332324537,6.47916873103024
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1997,Rate,6.48879383208536,6.67605544934487,6.30533508390216
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1998,Rate,6.2782668389854,6.4566934781979,6.09350807440438
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,1999,Rate,6.15669323368364,6.3343709689618,5.98343431016723
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2000,Rate,5.97443336779465,6.14729288488106,5.80525673520078
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2001,Rate,5.80946487384317,5.96724418451181,5.65103268506968
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2002,Rate,5.5928133752275,5.7462000844448,5.44619647160385
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2003,Rate,5.3708668119803,5.51780829499515,5.23416490548131
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2004,Rate,5.04956709649636,5.18655446010299,4.912969392485
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2005,Rate,4.89801263924444,5.03242754098943,4.76749412512142
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2006,Rate,4.68530437445261,4.81668635592458,4.56106859311635
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2007,Rate,4.43709518829193,4.56111307762014,4.318378096421
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2008,Rate,4.21036963059913,4.33310378014352,4.09373018900541
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2009,Rate,4.04226847533922,4.16354592044895,3.92517575357369
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2010,Rate,3.90115201029719,4.01998672303339,3.78507779186511
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2011,Rate,3.82421290396356,3.94967478365595,3.70496556757819
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2012,Rate,3.75382460026772,3.884513325523,3.63629985324788
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2013,Rate,3.72561280582809,3.87161890537575,3.59068671074727
+1,Deaths,102,United States,,501,Aortic aneurysm,3,Both,27,Age-standardized,2014,Rate,3.84161341633429,4.01742944671821,3.68968497178803
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1980,Rate,1.34581469136246,1.4752680801679,1.22718544552542
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1981,Rate,1.38994646932764,1.51509990200402,1.26939450072612
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1982,Rate,1.43066107803241,1.55170268641526,1.31366177188418
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1983,Rate,1.51469436842719,1.63163381158747,1.39762511778986
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1984,Rate,1.58742411129614,1.70717922455079,1.47385717339648
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1985,Rate,1.69805961831524,1.82738882482748,1.57805150513631
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1986,Rate,1.7882676705298,1.92429538975693,1.66687282009017
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1987,Rate,1.88340840735434,2.02662377480479,1.75515947330972
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1988,Rate,2.00305012012275,2.14788926862684,1.86524747446394
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1989,Rate,2.1304220973562,2.28173547718396,1.97893296032019
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1990,Rate,2.22830465591112,2.40010319870166,2.06384668018478
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1991,Rate,2.32492619344234,2.5069605937125,2.15300220153711
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1992,Rate,2.45174781863545,2.63614818568441,2.27190171158484
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1993,Rate,2.62563335915619,2.81269004264585,2.43415624040523
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1994,Rate,2.75798047785876,2.94718354742577,2.56699862692171
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1995,Rate,2.8710675306973,3.07140823651352,2.68903439928069
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1996,Rate,2.93786172416743,3.13764942708272,2.75131401599099
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1997,Rate,2.97220813183096,3.1760695736629,2.77792381052229
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1998,Rate,3.04363407163046,3.25476967141806,2.83965968475811
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,1999,Rate,3.06256927450397,3.28417138518789,2.85052698995258
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2000,Rate,3.08320110705321,3.31234057078148,2.86517773677512
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2001,Rate,3.05083096917264,3.2804458347477,2.83194016579952
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2002,Rate,3.02226816779164,3.24605366232324,2.80124466587555
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2003,Rate,2.94809054853229,3.17705205438754,2.7268614441662
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2004,Rate,2.84162336759356,3.05689463512125,2.63267641593057
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2005,Rate,2.80203597748566,3.00280775239973,2.60818729458876
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2006,Rate,2.72899128582972,2.91458356925869,2.54341673702791
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2007,Rate,2.64768337956777,2.83520573509591,2.47854508239659
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2008,Rate,2.61124060988545,2.80020537248409,2.44486614659182
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2009,Rate,2.57403349988398,2.76590924759411,2.40469850724717
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2010,Rate,2.5692981685218,2.76849870626193,2.3826985454736
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2011,Rate,2.59958081030429,2.81582124823022,2.39559899072918
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2012,Rate,2.56689966738417,2.79034500938885,2.35736267966761
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2013,Rate,2.56566252872922,2.80666493364629,2.34204777594682
+1,Deaths,102,United States,,502,Peripheral vascular disease,1,Male,27,Age-standardized,2014,Rate,2.66130219466343,2.94421639385695,2.40855664841145
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1980,Rate,0.81257296613081,0.909662945049645,0.719338394197528
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1981,Rate,0.829185167715095,0.919257873571114,0.739862906118525
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1982,Rate,0.870004103160287,0.959170228230732,0.778845381741272
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1983,Rate,0.915699925761204,1.0038174487992,0.825251989172294
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1984,Rate,0.979686053842196,1.06848404757761,0.890184934662248
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1985,Rate,1.06156824183389,1.15565325715565,0.96923338146899
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1986,Rate,1.13482657447075,1.23294837010111,1.03747847344322
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1987,Rate,1.23682052231509,1.34124163643227,1.13335702625083
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1988,Rate,1.33747544396424,1.45132410803441,1.22566926716709
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1989,Rate,1.44317286289472,1.56567598030392,1.31989040232468
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1990,Rate,1.53221319188968,1.6632066266,1.39371525308692
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1991,Rate,1.65874800188066,1.79816868077007,1.51567948220604
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1992,Rate,1.75848233143387,1.89726927951619,1.6110822308251
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1993,Rate,1.91801503334206,2.05958487026132,1.76197233635297
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1994,Rate,2.03813583259517,2.18442095475649,1.88282992582388
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1995,Rate,2.20421478953491,2.35062249573189,2.03988715909747
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1996,Rate,2.29657293246663,2.44557903317413,2.13801536049949
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1997,Rate,2.41729893944214,2.58300917969532,2.24448903495049
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1998,Rate,2.45745001472802,2.63602971425923,2.28453359653527
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,1999,Rate,2.55876290236088,2.75583881018963,2.38083554468942
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2000,Rate,2.56492838511702,2.77445919181269,2.3730230898794
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2001,Rate,2.6297442188533,2.83630576747454,2.4229018613019
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2002,Rate,2.59044449694012,2.80779787976767,2.37055912587472
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2003,Rate,2.56061752741396,2.78000828132996,2.33895051093671
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2004,Rate,2.47430583865603,2.6893468170369,2.25857345795814
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2005,Rate,2.45102147621978,2.64679423113368,2.24539621286849
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2006,Rate,2.38957769820951,2.57620777790252,2.18627041698408
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2007,Rate,2.30581443403678,2.48961433973297,2.12047404802026
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2008,Rate,2.26908833126429,2.45347256777078,2.08109032966055
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2009,Rate,2.25739902303794,2.44310279063321,2.06831489372744
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2010,Rate,2.24475972586834,2.44107103100255,2.05040688200649
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2011,Rate,2.26997387891175,2.48211331304709,2.05186475263136
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2012,Rate,2.25359697735884,2.48394702212331,2.01400277506642
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2013,Rate,2.21414524695469,2.45808187168321,1.97666284031207
+1,Deaths,102,United States,,502,Peripheral vascular disease,2,Female,27,Age-standardized,2014,Rate,2.26704228786694,2.54748238062816,1.99401044100205
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1980,Rate,1.0209871915538,1.10273213312289,0.945975897565198
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1981,Rate,1.04760083670247,1.12517372706599,0.975589934981441
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1982,Rate,1.08815117421581,1.15914127865518,1.01733058704917
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1983,Rate,1.14770648313739,1.21939057118183,1.07484880186175
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1984,Rate,1.21553046729424,1.28885135477879,1.14317258926477
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1985,Rate,1.30860299121444,1.3859598686542,1.23382911557803
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1986,Rate,1.38841705442681,1.46604647474853,1.30854415236124
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1987,Rate,1.48792976591557,1.56974679917939,1.40004690886853
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1988,Rate,1.59652810561638,1.68595289710425,1.50049198270102
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1989,Rate,1.71049394644207,1.81119102207047,1.60617001765373
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1990,Rate,1.80182572378816,1.91050549304527,1.68782646297188
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1991,Rate,1.91759645839738,2.03337705408768,1.79544545887192
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1992,Rate,2.02714770198144,2.14457938329391,1.90317443296557
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1993,Rate,2.19241992638443,2.31228055893966,2.06164891265712
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1994,Rate,2.31873496714221,2.44638444109442,2.18431383562566
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1995,Rate,2.46649494868204,2.59200038858127,2.33293298601219
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1996,Rate,2.55178273333714,2.67503736308809,2.41111039061488
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1997,Rate,2.64088972599188,2.7784149521178,2.49475749036327
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1998,Rate,2.69515134170781,2.8417291225384,2.54820692478354
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,1999,Rate,2.76893536057254,2.92277389862072,2.60735736810327
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2000,Rate,2.78131942231006,2.93825225045644,2.62072238173764
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2001,Rate,2.80988412981817,2.97802752937837,2.64282696453718
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2002,Rate,2.77599858873361,2.94317200618299,2.60952924141809
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2003,Rate,2.73137372574851,2.90374821649158,2.55565019531683
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2004,Rate,2.63778458707652,2.80916806213896,2.47218273790212
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2005,Rate,2.61041243672783,2.76439475542482,2.44912096803936
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2006,Rate,2.54519027781129,2.69406208229889,2.39470781584817
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2007,Rate,2.46308939426757,2.60676971088807,2.32383146732699
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2008,Rate,2.42719685911892,2.56484064785914,2.28483618181439
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2009,Rate,2.40610190109339,2.5456308589046,2.26410013853331
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2010,Rate,2.39692212314123,2.53430990228652,2.24582241824013
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2011,Rate,2.42582012408684,2.57802971285343,2.2617491713546
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2012,Rate,2.40333592316526,2.56535258693387,2.2275237945851
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2013,Rate,2.37905809692172,2.55263910113797,2.19349634786217
+1,Deaths,102,United States,,502,Peripheral vascular disease,3,Both,27,Age-standardized,2014,Rate,2.44961284069517,2.64390990054099,2.24707664865434
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1980,Rate,1.95619078658418,2.06813157873445,1.84971660075015
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1981,Rate,1.94671735821463,2.04725542681615,1.84587800156416
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1982,Rate,1.94977899995894,2.04500267276212,1.85468166245262
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1983,Rate,1.98820567973828,2.07725628451205,1.90016292426296
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1984,Rate,2.03000134277785,2.12214035642114,1.93842387958256
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1985,Rate,2.09920202051735,2.19212183819598,2.00751410507299
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1986,Rate,2.15115626683884,2.24305747656017,2.05952120628431
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1987,Rate,2.19384163490209,2.28773576629694,2.09888933403315
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1988,Rate,2.25683522074901,2.35199045257888,2.16126844991626
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1989,Rate,2.29127387932474,2.38348388585667,2.19003689542032
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1990,Rate,2.31657419286037,2.41429514505955,2.21464683674417
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1991,Rate,2.34713815614114,2.44574519534002,2.2465927986319
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1992,Rate,2.37601158943926,2.47833060226616,2.27549824849311
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1993,Rate,2.43893729675233,2.54607420139355,2.337037948463
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1994,Rate,2.48080693768068,2.59212098171741,2.37557500840148
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1995,Rate,2.5629724443143,2.68272120456764,2.45201735163402
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1996,Rate,2.56221308786148,2.67778603537616,2.45018988074706
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1997,Rate,2.56363075495712,2.68076522235345,2.45508714861728
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1998,Rate,2.62913511722812,2.74992235756818,2.51782770280149
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,1999,Rate,2.66910053011358,2.79094456474668,2.55157152395584
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2000,Rate,2.70838731859319,2.82764772707682,2.59373917550239
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2001,Rate,2.7441314984488,2.86343899299411,2.62952790437625
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2002,Rate,2.76237838442316,2.87614328882024,2.6443398210757
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2003,Rate,2.77339305474398,2.8902826339821,2.65140290389641
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2004,Rate,2.73126235064023,2.85281374964798,2.61298307583046
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2005,Rate,2.73669320053621,2.85951377623745,2.62295460308281
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2006,Rate,2.71300474211338,2.83854280850577,2.59690637373325
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2007,Rate,2.68884177709452,2.817300449372,2.57989785563122
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2008,Rate,2.65083461027596,2.77419791945887,2.54077245300693
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2009,Rate,2.62866750649557,2.75907125663855,2.50953442325517
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2010,Rate,2.58498917072202,2.71390626311446,2.47733822386289
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2011,Rate,2.58048205002146,2.70923236879463,2.46993522971628
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2012,Rate,2.5643463286853,2.69305321601848,2.44147660801715
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2013,Rate,2.55702542503053,2.69395241890857,2.42294592731375
+1,Deaths,102,United States,,503,Endocarditis,1,Male,27,Age-standardized,2014,Rate,2.59361792079691,2.74767749458761,2.44776882851892
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1980,Rate,1.4378406393541,1.51228552222832,1.3653365234899
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1981,Rate,1.44158785422505,1.51439908384227,1.37527424250809
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1982,Rate,1.44565456332741,1.51733862710005,1.37940910257096
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1983,Rate,1.4876492224235,1.55500675203352,1.42734597796851
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1984,Rate,1.53978938483611,1.60296661588621,1.48029725503778
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1985,Rate,1.60073902806829,1.66523080963356,1.53810794482868
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1986,Rate,1.64820692970793,1.71560849628415,1.58077773012169
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1987,Rate,1.71367046016253,1.77870095533245,1.64442730586702
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1988,Rate,1.79239693566999,1.86074605582526,1.72032692102221
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1989,Rate,1.82735200066479,1.8982655532467,1.7539920954095
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1990,Rate,1.84861595698595,1.92233761274908,1.77229324525368
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1991,Rate,1.90271095294341,1.97715051999662,1.82076136860913
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1992,Rate,1.94263246830159,2.01898917597779,1.8591140084543
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1993,Rate,2.03576561867711,2.11523001035831,1.94680605570049
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1994,Rate,2.08344729844426,2.16459570328259,1.99580978220918
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1995,Rate,2.15792279494205,2.24196900391797,2.06216932685371
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1996,Rate,2.20700013952466,2.29419783325163,2.11556047560505
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1997,Rate,2.25689873732113,2.34337839416136,2.16577032145455
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1998,Rate,2.29895085462517,2.38582497239422,2.20635839732272
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,1999,Rate,2.35724484928534,2.44320130556747,2.26955443552525
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2000,Rate,2.38925261089119,2.47788364143822,2.2989599964233
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2001,Rate,2.43024269628513,2.51757722129355,2.33788641789148
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2002,Rate,2.44770164070864,2.5401384632029,2.3493899474705
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2003,Rate,2.45909888926679,2.55217417555447,2.35976909975562
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2004,Rate,2.40459902376504,2.50529051519462,2.30630456627509
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2005,Rate,2.4124330747001,2.51266285775524,2.31986062095083
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2006,Rate,2.38758623917549,2.49097662092825,2.29314642898653
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2007,Rate,2.34641896580524,2.44695740736129,2.25224280682844
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2008,Rate,2.31752986648236,2.42449526610602,2.22451094302161
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2009,Rate,2.30760427367915,2.41518165271922,2.21223091769309
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2010,Rate,2.27571586718561,2.3828202538102,2.17697074029734
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2011,Rate,2.28465489472055,2.40149946591664,2.18436487476333
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2012,Rate,2.26296982958133,2.38166633258769,2.1603831234933
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2013,Rate,2.23534545944984,2.36980073426843,2.11096984551492
+1,Deaths,102,United States,,503,Endocarditis,2,Female,27,Age-standardized,2014,Rate,2.26389470540743,2.40613764876203,2.12890091047941
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1980,Rate,1.66592406132672,1.73094567801463,1.60500218713674
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1981,Rate,1.6640543976956,1.7246651064787,1.60580935266169
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1982,Rate,1.66759971275061,1.72766000081075,1.6115313945956
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1983,Rate,1.70845338110523,1.76726938410013,1.65197788180131
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1984,Rate,1.75662300201159,1.81513228309222,1.69980357747135
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1985,Rate,1.82127188985438,1.88128101329882,1.76121021664608
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1986,Rate,1.87067877701245,1.93365660644361,1.8085662054719
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1987,Rate,1.92837107858935,1.99147930509366,1.86647832475728
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1988,Rate,2.00176145022812,2.07086332104804,1.93374614478015
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1989,Rate,2.03549013979206,2.10015044241925,1.96900235260655
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1990,Rate,2.05770179563511,2.12074711440527,1.99008559606249
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1991,Rate,2.10241237258961,2.17235425237505,2.02723489994783
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1992,Rate,2.1381929553901,2.20936224246087,2.06408917754608
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1993,Rate,2.21897032180705,2.29518631007168,2.14258622705315
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1994,Rate,2.26432599389629,2.33911077239155,2.19021661237999
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1995,Rate,2.34304153027034,2.42506524562774,2.26426048361814
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1996,Rate,2.37341669249867,2.45150592662302,2.29699507259888
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1997,Rate,2.40287890737016,2.48537102517681,2.32171245035309
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1998,Rate,2.4555991350441,2.53469691728562,2.37169655378806
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,1999,Rate,2.50511857259827,2.58265643336885,2.42311483971868
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2000,Rate,2.53933404311909,2.62049786936293,2.46040810672432
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2001,Rate,2.57908054542213,2.65773919222704,2.50110496443608
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2002,Rate,2.59890477516126,2.67688813135432,2.5133996192487
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2003,Rate,2.61075197496502,2.68871286910777,2.52204619282262
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2004,Rate,2.56228710599163,2.64111493571894,2.47412969452492
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2005,Rate,2.571497048781,2.6543875980208,2.48314201320555
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2006,Rate,2.54840177513133,2.62974745974403,2.4644597789882
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2007,Rate,2.51394595939062,2.59398637881759,2.43694123445653
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2008,Rate,2.48154872628388,2.56196250367713,2.40320923273073
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2009,Rate,2.46593979520504,2.55169514277816,2.38593441544222
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2010,Rate,2.42972120547274,2.51491069105014,2.34584788608954
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2011,Rate,2.43342607724311,2.52139821132861,2.3449529851701
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2012,Rate,2.41459709980168,2.50983295666292,2.3208541158429
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2013,Rate,2.39547063971775,2.50033007280491,2.28978383995732
+1,Deaths,102,United States,,503,Endocarditis,3,Both,27,Age-standardized,2014,Rate,2.4270853754448,2.54010156379055,2.30541100657092
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1980,Rate,15.9951489874461,16.8327668008863,15.1827456702212
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1981,Rate,15.7986312639975,16.6010612707804,15.010936190734
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1982,Rate,15.6249260732498,16.3567232138229,14.9162775804772
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1983,Rate,15.743784312584,16.4409901294082,15.0752030343455
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1984,Rate,15.8600052681713,16.4868897691211,15.2204988201568
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1985,Rate,16.0753900962622,16.681137439766,15.4428119255098
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1986,Rate,16.1343513551093,16.7417542030859,15.5136205307465
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1987,Rate,16.0498777606433,16.636247625333,15.4379076521215
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1988,Rate,15.9833906893875,16.5728339930361,15.3722207028873
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1989,Rate,15.6002276753206,16.1827473037995,15.0033819675092
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1990,Rate,15.2566593787006,15.8322129606039,14.6678485314063
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1991,Rate,15.0453095792715,15.600300068867,14.4544325789692
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1992,Rate,14.8166131234038,15.4197231775866,14.2387476512747
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1993,Rate,14.8672273674524,15.4837611715355,14.2880009820165
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1994,Rate,14.6862650658209,15.3215288493951,14.0805288814182
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1995,Rate,14.6571666159438,15.2946768402005,14.0466607277751
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1996,Rate,14.3254544640605,14.9879703036967,13.7230964725409
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1997,Rate,13.9666809963985,14.6277484093262,13.3599087792489
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1998,Rate,13.7639742526679,14.3754737252022,13.1825170248465
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,1999,Rate,13.6688718946517,14.2264748710828,13.0853461490554
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2000,Rate,13.5117607116686,14.0473116489462,12.9397375648747
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2001,Rate,13.3460193703387,13.8455724690246,12.804875329696
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2002,Rate,13.1821588100647,13.6745767140298,12.6546470182532
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2003,Rate,12.9314545788115,13.4183563844461,12.4131711079263
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2004,Rate,12.5096295278129,13.0071917157649,11.9845828576888
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2005,Rate,12.4462983850875,12.939290338043,11.9341607871911
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2006,Rate,12.2370183949325,12.7256534904448,11.7498424974297
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2007,Rate,12.0604315659227,12.573205283525,11.5865310530277
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2008,Rate,11.9326950392615,12.4409144844717,11.4452406701201
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2009,Rate,11.7697467670635,12.3050741365215,11.276276440058
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2010,Rate,11.6967510209835,12.2451552602924,11.1864305804839
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2011,Rate,11.7672453308591,12.371593122905,11.1945852005761
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2012,Rate,11.722523917629,12.3845644420007,11.1368633997545
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2013,Rate,11.780214534189,12.5011394431289,11.1614443511293
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,1,Male,27,Age-standardized,2014,Rate,11.8574930387539,12.6543821450134,11.1765980636026
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1980,Rate,10.8270760963004,11.3883372702655,10.3229224267426
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1981,Rate,10.733871733581,11.2736102882668,10.2671548411102
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1982,Rate,10.6549534154255,11.1718752704647,10.2265906570987
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1983,Rate,10.9028756159265,11.3827021637441,10.4774094648989
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1984,Rate,11.0356411955697,11.4941346714138,10.6176655315665
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1985,Rate,11.2578141768139,11.7215834086732,10.827763454963
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1986,Rate,11.3896704253038,11.8634097176789,10.9531021505502
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1987,Rate,11.4910742679817,11.9578337086775,11.0385857260283
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1988,Rate,11.6326100969532,12.096363475887,11.1751728628006
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1989,Rate,11.4304673015277,11.8833486116708,11.0042612251925
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1990,Rate,11.3774428845462,11.864905183929,10.9487628896482
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1991,Rate,11.3641037132335,11.8416027217543,10.919253028984
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1992,Rate,11.3027596256196,11.7785559622245,10.847035602287
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1993,Rate,11.5560875842812,12.0633310140041,11.0797741281328
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1994,Rate,11.6292215038861,12.1432744117938,11.1543849312845
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1995,Rate,11.8160264763121,12.3234408522914,11.3178948634811
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1996,Rate,11.8650681095623,12.3845516381143,11.3648682367291
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1997,Rate,11.8471845890877,12.3549856662893,11.3552713096562
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1998,Rate,11.9449885695593,12.4509526746204,11.4524165940019
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,1999,Rate,12.1457387990201,12.6610245819098,11.6574311153213
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2000,Rate,12.2083337946758,12.7226892729999,11.7261617203543
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2001,Rate,12.2401707406376,12.7590762370901,11.7634446177678
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2002,Rate,12.1963475790928,12.7122080368401,11.7133337106913
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2003,Rate,11.9957862599394,12.4865079238028,11.5036046733015
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2004,Rate,11.6334270127404,12.1235090661912,11.1441380617835
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2005,Rate,11.5053634458,11.9997485150384,11.0105175027375
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2006,Rate,11.3066116077243,11.789074955707,10.83946146281
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2007,Rate,11.1124054427188,11.5941704044354,10.6398364875839
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2008,Rate,10.9957473028357,11.4667129702482,10.5161964153239
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2009,Rate,10.9437991977379,11.4388776539115,10.4609028737544
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2010,Rate,10.8121647033493,11.3448433141715,10.3367885558253
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2011,Rate,10.9081408223875,11.4845399613032,10.4146643297834
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2012,Rate,10.8304071160476,11.4212554731113,10.2958917620157
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2013,Rate,10.9082535332285,11.5093597107449,10.3348179422322
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,2,Female,27,Age-standardized,2014,Rate,10.8766900589497,11.5232728299871,10.2514734281696
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1980,Rate,12.9373725410269,13.4106336691976,12.4736300432513
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1981,Rate,12.7913887120467,13.2468887745477,12.3666111888935
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1982,Rate,12.6667166877176,13.0826439299171,12.2744882087318
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1983,Rate,12.8564169990342,13.2655064999949,12.4840024549299
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1984,Rate,12.9781983656937,13.3732248062304,12.6005650267417
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1985,Rate,13.1946839556556,13.5773805186028,12.8150130644496
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1986,Rate,13.2955875310773,13.6924639914809,12.9285931605528
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1987,Rate,13.319942360268,13.7236404609982,12.969170626683
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1988,Rate,13.3803738780096,13.7877511553038,13.019556963199
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1989,Rate,13.1065678106903,13.5024525018816,12.7340533760618
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1990,Rate,12.9370860268346,13.3523165294182,12.5529567038721
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1991,Rate,12.8419533013731,13.2418922821711,12.4472758385983
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1992,Rate,12.7150284487766,13.1008423034154,12.3170494934784
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1993,Rate,12.8933201276647,13.2914390388465,12.4679020786028
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1994,Rate,12.8691657281205,13.2712683756126,12.4347780897502
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1995,Rate,12.9733279064562,13.3776805153673,12.5241930296493
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1996,Rate,12.8723773489453,13.2862080634676,12.4400018063704
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1997,Rate,12.7246093640415,13.1371234851204,12.3032936122428
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1998,Rate,12.7052263713831,13.1307860708668,12.2908142845573
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,1999,Rate,12.793420116568,13.2182432101023,12.391207384458
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2000,Rate,12.7744336763166,13.1990348270007,12.3689069724835
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2001,Rate,12.7312347901325,13.1472359530793,12.3353291018116
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2002,Rate,12.6430044933635,13.0411633124304,12.2654550220288
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2003,Rate,12.4281231486212,12.8211934603428,12.0396857719682
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2004,Rate,12.0453620517494,12.4263406090151,11.6500492511158
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2005,Rate,11.9493056898876,12.3386174820979,11.5675930809671
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2006,Rate,11.7475883328676,12.1229907736021,11.3729556531651
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2007,Rate,11.5622270405424,11.9343779507069,11.2135109733943
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2008,Rate,11.4425123308332,11.8121950251443,11.0822050126221
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2009,Rate,11.3468452780604,11.7254970562406,10.9861025512681
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2010,Rate,11.240442891314,11.6496434754778,10.8714871603918
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2011,Rate,11.328856935557,11.7794953291842,10.9323656894781
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2012,Rate,11.2657943754833,11.7204096276605,10.8528547130724
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2013,Rate,11.3363043513481,11.8163323411608,10.9006346546508
+1,Deaths,102,United States,,507,Other cardiovascular and circulatory diseases,3,Both,27,Age-standardized,2014,Rate,11.3477838667282,11.8718270523575,10.8802427388108

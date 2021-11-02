@@ -1,0 +1,631 @@
+"measure_id","measure_name","location_id","location_name","FIPS","cause_id","cause_name","sex_id","sex","age_id","age_name","year_id","metric","mx","lower","upper"
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1980,"Rate",2.37124015852502,2.19236166099927,2.54768661122765
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1981,"Rate",2.23464217600316,2.08593793375249,2.38219687702498
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1982,"Rate",2.11180946347334,1.98598232781692,2.24221375365713
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1983,"Rate",2.02755836743106,1.91292014880195,2.14830866316321
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1984,"Rate",1.95069912609683,1.8372994496361,2.06213888344092
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1985,"Rate",1.89323140130512,1.78597483038492,1.99648347864298
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1986,"Rate",1.82752424002598,1.72437145803462,1.9263690223603
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1987,"Rate",1.75221129391221,1.65389483999869,1.85101842744664
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1988,"Rate",1.69281531542988,1.59845179750734,1.78749089674079
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1989,"Rate",1.60347423513838,1.51347634959918,1.69172771927703
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1990,"Rate",1.50379527307288,1.41717825477172,1.59757486161067
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1991,"Rate",1.40538864532487,1.32779378450465,1.48848856976382
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1992,"Rate",1.31604209176274,1.24377304795231,1.39509278319433
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1993,"Rate",1.25576652264528,1.18857026356208,1.3290608040723
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1994,"Rate",1.1694101142767,1.10687690286041,1.2397493852053
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1995,"Rate",1.09564084009965,1.03422884945086,1.16068555035457
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1996,"Rate",0.996529215312028,0.941976246774408,1.05805187535546
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1997,"Rate",0.900730931189472,0.849623805613471,0.957223320367857
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1998,"Rate",0.832853236327623,0.786417939132958,0.88442480001434
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",1999,"Rate",0.773487919292055,0.730077213079078,0.82128439519756
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2000,"Rate",0.688703052022715,0.649092934310828,0.731564562212419
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2001,"Rate",0.63789422268389,0.602043324945395,0.676855357684299
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2002,"Rate",0.594181236704846,0.561536529666269,0.630300935385513
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2003,"Rate",0.547202284630072,0.518475878188619,0.578004185880192
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2004,"Rate",0.503833891977654,0.477616315537566,0.53100135492387
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2005,"Rate",0.479392032126505,0.454889525768818,0.50516058654664
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2006,"Rate",0.457088588500426,0.432462937406799,0.481311557182245
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2007,"Rate",0.42707540518147,0.403284926556409,0.450919890483282
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2008,"Rate",0.40775020316347,0.384506461784688,0.431210196907619
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2009,"Rate",0.388662990776659,0.365934400591307,0.412323133259909
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2010,"Rate",0.373870153829919,0.352450195102426,0.397046422634434
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2011,"Rate",0.362252590519211,0.340205342944031,0.385061300113898
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2012,"Rate",0.352809081495373,0.330350448570582,0.376412795411041
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2013,"Rate",0.34957870632031,0.327414613825303,0.373735247643057
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",1,"Male",27,"Age-standardized",2014,"Rate",0.345553154644971,0.322934315123012,0.369887112871171
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1980,"Rate",0.931103619627637,0.868534428038259,1.00226706100286
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1981,"Rate",0.888849472267472,0.832717755033837,0.95550308254985
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1982,"Rate",0.861808015138094,0.811917651743067,0.921340125777874
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1983,"Rate",0.849886570560381,0.803477399367039,0.903955597056056
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1984,"Rate",0.828110493329372,0.784290966041211,0.875838167281471
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1985,"Rate",0.816449952934868,0.772748680527094,0.859840697581914
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1986,"Rate",0.797257284213083,0.754177005870917,0.840578684316912
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1987,"Rate",0.773967566406969,0.733319369551166,0.816194678093337
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1988,"Rate",0.768783766974161,0.726793762795186,0.812253904587276
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1989,"Rate",0.734487637369628,0.692004001427988,0.777681317095356
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1990,"Rate",0.697426211648932,0.655752394849213,0.73927851252144
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1991,"Rate",0.67038488784958,0.628169234291018,0.7103905127272
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1992,"Rate",0.633518774945307,0.594869080930876,0.670592411325904
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1993,"Rate",0.617616817089038,0.580692097046112,0.654522368889233
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1994,"Rate",0.589240366916024,0.556583160974565,0.622571147436976
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1995,"Rate",0.556239011810829,0.52625000411674,0.585759694075787
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1996,"Rate",0.519768506283775,0.491960462847137,0.548665765748847
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1997,"Rate",0.485901876282045,0.459270382764009,0.514360727592013
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1998,"Rate",0.445232972810842,0.420674183119659,0.472119657096514
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",1999,"Rate",0.402150901662054,0.380054655474527,0.428399352211645
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2000,"Rate",0.357668356923175,0.337195664616428,0.380399249377017
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2001,"Rate",0.335739948532018,0.316671143958821,0.357397618016279
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2002,"Rate",0.311583018190064,0.294419129426844,0.331733634376624
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2003,"Rate",0.283621385748962,0.267313748489052,0.30140742749002
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2004,"Rate",0.257129284656491,0.242635746535724,0.272779883311445
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2005,"Rate",0.241030132182944,0.227958710999311,0.255351240908049
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2006,"Rate",0.225386981639677,0.213524448461734,0.238926108635306
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2007,"Rate",0.212247680418311,0.200596530396697,0.225574625977572
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2008,"Rate",0.205531881890377,0.194791429471478,0.218252769365973
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2009,"Rate",0.19959397103089,0.188691546664602,0.211899120373168
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2010,"Rate",0.192502073237432,0.18245680260413,0.204521516960818
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2011,"Rate",0.189920913739999,0.179172110359618,0.201910417931192
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2012,"Rate",0.183949214094605,0.172848220783439,0.195927296818674
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2013,"Rate",0.182621957451931,0.171242227091126,0.195168965826947
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",2,"Female",27,"Age-standardized",2014,"Rate",0.180797516442187,0.168877883367195,0.194191857563181
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1980,"Rate",1.52328958223649,1.44255854304396,1.6081005035411
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1981,"Rate",1.44030221379843,1.36921741223221,1.51590491345607
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1982,"Rate",1.37320496907933,1.31254088526523,1.43675435747987
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1983,"Rate",1.33039036005254,1.27269544424164,1.38754268263848
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1984,"Rate",1.28624422863264,1.23145536897283,1.33901224648349
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1985,"Rate",1.25575206729059,1.20236082473946,1.3063549442749
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1986,"Rate",1.21848158734357,1.16504734362565,1.26751906770515
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1987,"Rate",1.17311453474087,1.12350797709685,1.22181562301299
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1988,"Rate",1.1468376138665,1.09971109610388,1.19495315458273
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1989,"Rate",1.09039909497669,1.04617679227471,1.13594224127582
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1990,"Rate",1.02729137305132,0.98302133193392,1.07327291263497
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1991,"Rate",0.971600535379013,0.929664755811472,1.0130131921331
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1992,"Rate",0.914053789588942,0.875982388633701,0.952971257571699
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1993,"Rate",0.880304623175268,0.84336294188773,0.916653909414403
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1994,"Rate",0.827550517198214,0.794296445321283,0.860830619439222
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1995,"Rate",0.777663713317612,0.747333486502062,0.808978167928347
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1996,"Rate",0.715696493828378,0.688092288674854,0.745952698493391
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1997,"Rate",0.656476732057744,0.630805584231417,0.684850829278957
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1998,"Rate",0.605320801514341,0.580450615784357,0.63235216700207
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",1999,"Rate",0.556840802663137,0.534217580215686,0.581751672770194
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2000,"Rate",0.496347960755343,0.476175856816205,0.518728264925837
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2001,"Rate",0.463706405572149,0.44528950455091,0.484450371793266
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2002,"Rate",0.43208255338915,0.415336191517179,0.451117293612486
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2003,"Rate",0.396931707186375,0.381566292574849,0.413969073564221
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2004,"Rate",0.363704028416777,0.349766544037042,0.379049114233775
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2005,"Rate",0.344590537766258,0.33183134610107,0.359657180262049
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2006,"Rate",0.326669584679786,0.313967954573483,0.341080714991793
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2007,"Rate",0.306465680768769,0.293912996752172,0.319299773066667
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2008,"Rate",0.294607041187181,0.282712634828649,0.307396312222379
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2009,"Rate",0.283092306207298,0.271451245707447,0.295356603329679
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2010,"Rate",0.272692092784741,0.26137717813434,0.284566931479288
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2011,"Rate",0.266374596731551,0.255291015038437,0.277401585008118
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2012,"Rate",0.258986470165433,0.247257660721165,0.270209831251416
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2013,"Rate",0.256897075443358,0.244883580943737,0.268424599275658
+1,"Deaths",102,"United States",NA,297,"Tuberculosis",3,"Both",27,"Age-standardized",2014,"Rate",0.254220813714282,0.241405045964363,0.266235567959601
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1980,"Rate",0,0,0
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1981,"Rate",0.262431019767512,0.258363800921729,0.266244818455194
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1982,"Rate",0.394961914095962,0.388358423302498,0.40142561856517
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1983,"Rate",0.890535168152289,0.87608561144864,0.906364487360036
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1984,"Rate",1.88189643589157,1.85035371162554,1.91219340131553
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1985,"Rate",3.45107396441452,3.40321410031507,3.50041311084619
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1986,"Rate",5.74738155172319,5.67412028895797,5.81745553535368
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1987,"Rate",10.7948240579457,10.6619420204034,10.9308708713548
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1988,"Rate",13.1610883886781,13.0106754193433,13.3045185057242
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1989,"Rate",17.0374183138431,16.8605041484573,17.2244071892595
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1990,"Rate",18.7611837337625,18.5597583940377,18.9603731552963
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1991,"Rate",21.4256749833877,21.2171334681987,21.64511205724
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1992,"Rate",23.5018033505387,23.2778021395538,23.7254084832718
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1993,"Rate",25.1977188680586,24.9657367996978,25.4239144013456
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1994,"Rate",27.2363356905628,26.962936266484,27.498019328559
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1995,"Rate",26.6931632606665,26.4408790898143,26.9337683482574
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1996,"Rate",19.1161903789065,18.9512802135879,19.3023696156265
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1997,"Rate",10.363944200528,10.2662184676594,10.4650878507085
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1998,"Rate",8.31897995046459,8.23964856193128,8.39874809929108
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",1999,"Rate",8.80383746832338,8.71479476699957,8.8896587905856
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2000,"Rate",8.31645594972517,8.23375214828321,8.3960276916328
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2001,"Rate",7.94346556292193,7.85970037509844,8.02509131745067
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2002,"Rate",7.77188897438545,7.69221881420159,7.84344029217422
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2003,"Rate",7.480911591041,7.40395247912668,7.56042054849806
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2004,"Rate",7.00073245244835,6.93080684424601,7.0688868775976
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2005,"Rate",6.69651656126861,6.63036461094845,6.76368789262637
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2006,"Rate",6.29912639038385,6.23796586805712,6.36260138606335
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2007,"Rate",5.83295354099358,5.77273310949737,5.893635214166
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2008,"Rate",5.30363798246866,5.24965851937671,5.35915751369197
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2009,"Rate",4.85012588054888,4.80172963600368,4.900276940044
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2010,"Rate",4.27615930420068,4.22939712851203,4.32183942181474
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2011,"Rate",3.8293236131374,3.78747835749313,3.87460085162293
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2012,"Rate",3.59413204379441,3.55397552293794,3.6389828419989
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2013,"Rate",3.44851617444014,3.40421553505138,3.49372257295379
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",1,"Male",27,"Age-standardized",2014,"Rate",3.50642423999594,3.45408908580057,3.56160115774151
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1980,"Rate",0,0,0
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1981,"Rate",0.123143294993903,0.121324124232352,0.124980522869336
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1982,"Rate",0.132781521150328,0.130773417251013,0.134864561810192
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1983,"Rate",0.182647780828977,0.179865873592818,0.185358319142035
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1984,"Rate",0.273950478880607,0.269364859694608,0.278736019631475
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1985,"Rate",0.42408425738225,0.416997429201234,0.43149409181572
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1986,"Rate",0.643402207022224,0.632134540115582,0.65535331129089
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1987,"Rate",1.25907258395588,1.2394918545708,1.27792778597247
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1988,"Rate",1.61484831864011,1.5907058492199,1.63935213670268
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1989,"Rate",2.03900931524349,2.0109954233482,2.07005406731464
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1990,"Rate",2.36560251795439,2.33399941154081,2.39749660363643
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1991,"Rate",2.90836005816654,2.86931999845868,2.94622699194534
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1992,"Rate",3.39493933337499,3.34734492059859,3.43963709821243
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1993,"Rate",4.05518222810592,4.00385835660722,4.105925048522
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1994,"Rate",4.83787168331459,4.77711677132721,4.89931773200191
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1995,"Rate",5.29135966570262,5.22534646355056,5.3576678652953
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1996,"Rate",4.39415589535305,4.34117760419405,4.44567701942157
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1997,"Rate",2.92055073861046,2.88721569180473,2.9562770282126
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1998,"Rate",2.5434833157677,2.51405447361866,2.57314773385391
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",1999,"Rate",2.87094720507834,2.83744338228602,2.90524814880229
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2000,"Rate",2.73445948057137,2.70269313175444,2.76692952184659
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2001,"Rate",2.67542225882037,2.64592434958723,2.70633001997136
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2002,"Rate",2.68293817421124,2.65257353536132,2.71217350858907
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2003,"Rate",2.63246450701057,2.60163415689635,2.66369269089168
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2004,"Rate",2.59974544228877,2.57112339117336,2.62920707788121
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2005,"Rate",2.44432220902587,2.41748658818414,2.47318897773555
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2006,"Rate",2.41637689522473,2.38691979310008,2.44428546659194
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2007,"Rate",2.28060506082186,2.25435077863842,2.30662561031267
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2008,"Rate",2.07139139740099,2.04821882621796,2.09486556480533
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2009,"Rate",1.89607155056381,1.87157138466109,1.91947218745543
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2010,"Rate",1.6326613147859,1.61391939861133,1.65301503953244
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2011,"Rate",1.54472263111271,1.52656938266864,1.56422449104108
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2012,"Rate",1.42416872326174,1.40644390352652,1.44168414894667
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2013,"Rate",1.31212180731691,1.29463808886864,1.32910662935532
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",2,"Female",27,"Age-standardized",2014,"Rate",1.34776580016128,1.32813052791073,1.36827820532434
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1980,"Rate",0,0,0
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1981,"Rate",0.190384819709057,0.188208293233902,0.192603480365558
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1982,"Rate",0.259857845986383,0.256398661539415,0.26302823459494
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1983,"Rate",0.528243202191083,0.520870820865559,0.536397572443444
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1984,"Rate",1.06122293745779,1.04504986335476,1.07658504316433
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1985,"Rate",1.90879257912893,1.8852072192494,1.93234980102572
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1986,"Rate",3.14984480187793,3.11175899821902,3.18473787494006
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1987,"Rate",5.93541945918648,5.86741376217816,6.00300735981542
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1988,"Rate",7.28068174241626,7.20344540651843,7.35631463753811
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1989,"Rate",9.40524554423659,9.31627221848805,9.50034508772056
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1990,"Rate",10.4259169463774,10.3259620510148,10.5232012783215
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1991,"Rate",12.0136663862893,11.910499225737,12.1237237973094
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1992,"Rate",13.2926424974952,13.1879712851784,13.4022571640625
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1993,"Rate",14.4691912753378,14.355312495354,14.592052885674
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1994,"Rate",15.8725127458659,15.7319067265983,16.0062903216221
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1995,"Rate",15.8343907263777,15.7013775817209,15.9591372608068
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1996,"Rate",11.6407486526797,11.558302366377,11.7319745623176
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1997,"Rate",6.5820833406733,6.53018645406348,6.63502597593591
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1998,"Rate",5.38085507777737,5.33956736903571,5.42500181169063
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",1999,"Rate",5.78015504424908,5.73440244140958,5.82706486655938
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2000,"Rate",5.47108268980993,5.43053942323194,5.51275666819068
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2001,"Rate",5.25721957676631,5.21140608612059,5.30349134138159
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2002,"Rate",5.1756679829247,5.13185980870443,5.21687157107351
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2003,"Rate",5.00402506007724,4.96599696217982,5.0434075076641
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2004,"Rate",4.75408934678846,4.71725998926395,4.79435021652423
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2005,"Rate",4.5243430752551,4.48710291635377,4.56007849524469
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2006,"Rate",4.31425654970289,4.2809436117706,4.34862760456486
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2007,"Rate",4.01578760135845,3.98218009683208,4.04905983785618
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2008,"Rate",3.64852512963991,3.61893438438406,3.67854912376135
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2009,"Rate",3.33771473467195,3.31137149357312,3.3637646020979
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2010,"Rate",2.92310039737844,2.89720307286182,2.94829142409131
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2011,"Rate",2.65828710109393,2.63510499289911,2.68322385087226
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2012,"Rate",2.48130452942803,2.45928399418351,2.50361873330338
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2013,"Rate",2.35359185298439,2.3299303959775,2.37642055737769
+1,"Deaths",102,"United States",NA,298,"HIV/AIDS",3,"Both",27,"Age-standardized",2014,"Rate",2.40161851390794,2.37525458726475,2.42995619280864
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1980,"Rate",0.487745675189299,0.383002870868119,1.28970795813861
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1981,"Rate",0.474163935354513,0.371447230728612,1.27163729887959
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1982,"Rate",0.453108756734229,0.35370079354627,1.23289300304399
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1983,"Rate",0.44830295873304,0.350273289016364,1.22690218394716
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1984,"Rate",0.442521385957733,0.347353818838449,1.20645115720327
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1985,"Rate",0.44271803953352,0.348459903050714,1.20597878629166
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1986,"Rate",0.44129506551998,0.347667259426983,1.19176152595412
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1987,"Rate",0.434976518220554,0.343450392539683,1.16800756233173
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1988,"Rate",0.435520251873086,0.344796229574557,1.15543247558639
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1989,"Rate",0.443390172841986,0.354817635530707,1.13341763399598
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1990,"Rate",0.446916884381632,0.359375159340709,1.1061166553358
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1991,"Rate",0.460033380075382,0.374744314255549,1.09669424219273
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1992,"Rate",0.47433574892369,0.390384023848636,1.09740069159196
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1993,"Rate",0.505198053659461,0.42214447127607,1.11605043985312
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1994,"Rate",0.532872614633795,0.451153360284055,1.12608275055145
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1995,"Rate",0.566336557941884,0.488234092821428,1.13307273567421
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1996,"Rate",0.597643954618116,0.52366717107229,1.10872281918235
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1997,"Rate",0.655110005027687,0.542431015509886,1.08087682680512
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1998,"Rate",0.740672811208581,0.545806448420713,1.08088872604688
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",1999,"Rate",0.901874789724824,0.55212388171264,1.07620018150879
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2000,"Rate",1.03510573606151,0.550835981839097,1.15211087171758
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2001,"Rate",1.1851648805427,0.55008444180038,1.30834526264454
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2002,"Rate",1.37757371841211,0.546464835653841,1.53931721023934
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2003,"Rate",1.5612222472319,0.546183359936504,1.75832301162664
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2004,"Rate",1.75207802434399,0.532173120264814,1.99181626823143
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2005,"Rate",1.97562350761156,0.532473431623978,2.26608574396214
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2006,"Rate",2.14394492123967,0.530570409517877,2.47420793251781
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2007,"Rate",2.25666364573792,0.530438181658809,2.61593858790163
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2008,"Rate",2.36026514192621,0.5167168618565,2.73943411900077
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2009,"Rate",2.39599101177453,0.509235982059344,2.79069418076486
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2010,"Rate",2.40947944150957,0.495021059994631,2.8061401743787
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2011,"Rate",2.4367676307302,0.48450260077717,2.85331911591584
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2012,"Rate",2.40573803556918,0.478639964371841,2.83051808877498
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2013,"Rate",2.36124303814658,0.471637275210843,2.7766740648921
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",1,"Male",27,"Age-standardized",2014,"Rate",2.25768308500013,0.462653036309301,2.65915759482377
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1980,"Rate",0.35760098993882,0.3184837604167,0.555043294859572
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1981,"Rate",0.344162408668295,0.306454280660085,0.544159053259737
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1982,"Rate",0.331049998836081,0.295691285725129,0.533968105164734
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1983,"Rate",0.326896828933578,0.29261750277824,0.521552647712795
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1984,"Rate",0.320755297954778,0.286984943457366,0.517824994003054
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1985,"Rate",0.32125363485734,0.287573926449502,0.519816452662877
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1986,"Rate",0.316255353425784,0.283278903858238,0.508455795705626
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1987,"Rate",0.319108059179795,0.285841479338879,0.511175552906165
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1988,"Rate",0.325036863871138,0.291533502332682,0.509519273882245
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1989,"Rate",0.32659599495338,0.293473396641409,0.50945113892093
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1990,"Rate",0.333148090315503,0.299431830700083,0.50367033261278
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1991,"Rate",0.342800141612365,0.308594380525184,0.513251265742984
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1992,"Rate",0.357185325379309,0.32269191397258,0.507552854271718
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1993,"Rate",0.389475008654099,0.354490156557044,0.521132090249688
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1994,"Rate",0.419379748611435,0.383294903043473,0.522793313109559
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1995,"Rate",0.459782195201473,0.421539272896613,0.538132248422195
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1996,"Rate",0.503558291976162,0.463079239350764,0.541663789562061
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1997,"Rate",0.573477631027298,0.529417955832039,0.613393770578669
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1998,"Rate",0.668888378698765,0.618126562716863,0.714282797718391
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",1999,"Rate",0.849746679133721,0.784522733024128,0.910623313721016
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2000,"Rate",1.00070185618471,0.918803062628641,1.07097102075627
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2001,"Rate",1.18252142429551,1.0406378518564,1.27298339931051
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2002,"Rate",1.39862825878125,1.02273278076004,1.50612803282119
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2003,"Rate",1.61982726557728,1.01468193213791,1.74901540713355
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2004,"Rate",1.8344574779714,0.987096830600001,1.9824838868583
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2005,"Rate",2.0655726562828,0.996039584680215,2.23146514116139
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2006,"Rate",2.26478642782455,0.993039520279348,2.45138964253701
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2007,"Rate",2.39589853621512,0.971572924107783,2.58973018856824
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2008,"Rate",2.52735775050131,0.961703691580707,2.72888542807622
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2009,"Rate",2.58373881289866,0.953099999197141,2.78634137672039
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2010,"Rate",2.60784879360349,0.942057009124103,2.81717784502063
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2011,"Rate",2.67965572432967,0.938858465913018,2.90465638667877
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2012,"Rate",2.65541688676894,0.939222828871912,2.88235342622363
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2013,"Rate",2.6270090924023,0.90958952826253,2.86212212965108
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",2,"Female",27,"Age-standardized",2014,"Rate",2.50337017410147,0.897599016098984,2.73967360192255
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1980,"Rate",0.412921119223266,0.355064104644001,0.84133974119091
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1981,"Rate",0.399074590424252,0.34327197132319,0.823333959312229
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1982,"Rate",0.382865442641673,0.328566923754531,0.802404264532357
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1983,"Rate",0.378335154756902,0.325792431977852,0.791000735103473
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1984,"Rate",0.372072968172719,0.320614907545006,0.782701180594148
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1985,"Rate",0.372296141659125,0.321303458000325,0.781612461288394
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1986,"Rate",0.368848833596066,0.318242232637034,0.768201902602488
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1987,"Rate",0.367696480463481,0.317310719575344,0.764686552471898
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1988,"Rate",0.371596181885342,0.321218734022363,0.760220969088768
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1989,"Rate",0.376104443851662,0.326284222897424,0.754132720878385
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1990,"Rate",0.381470765654693,0.332799305848042,0.740761655303476
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1991,"Rate",0.392683568552535,0.343877760102742,0.744375180547451
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1992,"Rate",0.407256058725975,0.358479573026334,0.752552053544446
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1993,"Rate",0.439618465852907,0.389959997677323,0.771771095111204
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1994,"Rate",0.469621089051196,0.420339732690011,0.775647221091138
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1995,"Rate",0.507932858429424,0.459409416149122,0.800027638415753
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1996,"Rate",0.547509509849664,0.497286189646495,0.813943359737154
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1997,"Rate",0.612788943722867,0.557930946651304,0.837080904387718
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1998,"Rate",0.704701156682556,0.623353426370429,0.880562737138235
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",1999,"Rate",0.879456950633596,0.711938086394441,0.959607905228198
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2000,"Rate",1.02389812110894,0.802680598125602,1.09236218127204
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2001,"Rate",1.19371514177777,0.905817307074662,1.27822766331909
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2002,"Rate",1.40094958711182,0.962551242309418,1.50693613825638
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2003,"Rate",1.6081402569437,0.9940799068826,1.74014821706553
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2004,"Rate",1.81347395582372,0.967178394628375,1.96840756406654
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2005,"Rate",2.04206701718024,0.969917795525517,2.22389723009921
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2006,"Rate",2.22901296983263,0.955964835786743,2.43652923653523
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2007,"Rate",2.3524257978923,0.939678672106998,2.57560628040469
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2008,"Rate",2.47133910140123,0.92354044488971,2.70687926580631
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2009,"Rate",2.51813125130466,0.902011486538564,2.76777711288789
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2010,"Rate",2.5379594745759,0.883197797827363,2.78652539453607
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2011,"Rate",2.59100998332417,0.877640122106784,2.85038190159182
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2012,"Rate",2.56358015039733,0.868745902390305,2.82710437715242
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2013,"Rate",2.52752978266825,0.863201071675929,2.79645293975286
+1,"Deaths",102,"United States",NA,302,"Diarrheal diseases",3,"Both",27,"Age-standardized",2014,"Rate",2.41130405488012,0.858913160278988,2.66762657324034
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1980,"Rate",48.9773292520465,46.4162219439142,51.4637338916518
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1981,"Rate",48.5799887941152,46.2348579904769,50.9274373481816
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1982,"Rate",47.7405425783333,45.4919063543637,49.9552909462825
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1983,"Rate",48.2485889089095,46.2412778111993,50.3183635245787
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1984,"Rate",48.5149263703654,46.5398400423448,50.6520792933298
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1985,"Rate",49.377971714019,47.3468597061067,51.4278999247494
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1986,"Rate",49.7484903875831,47.7846508182716,51.7758376789798
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1987,"Rate",49.5971716994516,47.5819022848773,51.7171374467638
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1988,"Rate",49.9293669678704,48.0364325096075,51.9160027079429
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1989,"Rate",49.8539505962406,48.0819848694767,51.5753943080899
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1990,"Rate",49.1951533184942,47.4319295425413,50.907603770011
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1991,"Rate",48.7112357480528,46.932959210808,50.4325222970351
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1992,"Rate",48.1065159108158,46.3740809800801,49.8404409779368
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1993,"Rate",48.4397976812658,46.6823848694342,50.2400017923284
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1994,"Rate",48.026602683038,46.1978176876845,49.9282153306676
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1995,"Rate",47.6717192125673,45.7953217448872,49.6061353209961
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1996,"Rate",46.0466370043011,44.1707387195399,47.9321967961572
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1997,"Rate",44.2732592366772,42.4173117921837,46.1145348224195
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1998,"Rate",43.2721995901489,41.3884848352518,45.1080163376239
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",1999,"Rate",41.9835121288018,40.1703179667378,44.0051792607294
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2000,"Rate",40.9598302939303,39.2211679350627,42.7951553450151
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2001,"Rate",39.8420106705418,38.193378062969,41.6041409871652
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2002,"Rate",38.996594708855,37.51982836759,40.5826414897093
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2003,"Rate",37.808382670496,36.4344587460526,39.3020821903312
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2004,"Rate",35.9574771470321,34.7290623218789,37.4033901694529
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2005,"Rate",35.2026965994148,33.954580079421,36.5120184915803
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2006,"Rate",34.2219553683823,32.9945025655405,35.4283060237711
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2007,"Rate",33.1641901030459,31.9840586213091,34.409301079585
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2008,"Rate",32.4768324721379,31.3098103336043,33.6844149614561
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2009,"Rate",31.9593850324164,30.5882471506081,33.3804438235777
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2010,"Rate",31.1695155039735,29.8800179782752,32.5585080791886
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2011,"Rate",30.9495133365816,29.6530904028587,32.3989765172862
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2012,"Rate",30.570230414733,29.2636795715095,32.0789419446621
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2013,"Rate",30.4167127696827,29.0168599661891,31.8901711427206
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",1,"Male",27,"Age-standardized",2014,"Rate",30.618224828396,29.1094699487936,32.259485836879
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1980,"Rate",28.589913236894,27.0937752246335,30.190712359611
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1981,"Rate",28.2086428131314,26.7883230682026,29.7318766808644
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1982,"Rate",27.9194030030533,26.6115507876315,29.345176584644
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1983,"Rate",28.4614078897848,27.1768144499979,29.839449897463
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1984,"Rate",28.9192707688255,27.6098829444104,30.2208450619673
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1985,"Rate",29.5443654062329,28.2525987541985,30.8712118994281
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1986,"Rate",29.9363428996159,28.6344056170343,31.2248075149086
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1987,"Rate",30.4041385271765,29.1544860504567,31.6705234983621
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1988,"Rate",30.9959069235836,29.732140432495,32.2861437543918
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1989,"Rate",30.7572763967138,29.5298140224828,32.0334544714911
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1990,"Rate",30.5492083559836,29.3870373092475,31.845382866268
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1991,"Rate",30.6036624194819,29.4113762686762,31.9979417697192
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1992,"Rate",30.4118896507169,29.2076404956093,31.7727546218957
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1993,"Rate",31.1544331851138,29.9475782991348,32.5098351306401
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1994,"Rate",31.3163784288605,30.0680922403593,32.6867164115497
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1995,"Rate",31.5981524180143,30.3014380568919,33.0320574138638
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1996,"Rate",31.3922745286685,30.1036486091338,32.8421442246703
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1997,"Rate",31.122209501759,29.8684762974955,32.5190073463764
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1998,"Rate",30.8290753793212,29.6213412586747,32.2318863663392
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",1999,"Rate",30.8170435027117,29.5760654402249,32.1766078894829
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2000,"Rate",30.4660003727277,29.2484872518166,31.7661443394637
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2001,"Rate",30.0880478660144,28.9385427049583,31.3206901896902
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2002,"Rate",29.5154360941821,28.3929272764189,30.7482329920908
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2003,"Rate",28.7586423260602,27.7041906508668,29.9777417962099
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2004,"Rate",27.5399115250396,26.5323966253589,28.7527662227342
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2005,"Rate",26.9844090862937,26.0050221784918,28.1123327141799
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2006,"Rate",26.3052069467241,25.3308480953137,27.4561082718534
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2007,"Rate",25.5049802801759,24.5400410435845,26.5755399160942
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2008,"Rate",25.0860932864287,24.1169648781335,26.1524529686789
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2009,"Rate",24.6324528799131,23.6588340828934,25.6983753018468
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2010,"Rate",24.1099529640634,23.1013657182626,25.1644499481664
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2011,"Rate",24.1750463343165,23.0992046508448,25.2995804330611
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2012,"Rate",23.9544847712482,22.7910836424501,25.2118146283521
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2013,"Rate",24.0271058560859,22.7631248784899,25.3373222984204
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",2,"Female",27,"Age-standardized",2014,"Rate",24.0621250547348,22.7167550637778,25.4838728711381
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1980,"Rate",36.2063157249701,34.8167804813073,37.639185344368
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1981,"Rate",35.7792752226423,34.4816423662772,37.1428669870203
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1982,"Rate",35.2763862189538,34.0278095509525,36.6340627174726
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1983,"Rate",35.781233089446,34.5904612208362,37.0275512468739
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1984,"Rate",36.1542243702489,34.979031265039,37.3977484712413
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1985,"Rate",36.8462707882859,35.6811922982949,38.0689689595342
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1986,"Rate",37.2247401516442,36.0191561953024,38.4465124272881
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1987,"Rate",37.4703769066008,36.294980306526,38.7018327751875
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1988,"Rate",37.9663282394952,36.7868725595522,39.1868140596059
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1989,"Rate",37.7958280008314,36.7097154650741,38.954359746789
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1990,"Rate",37.4256567330011,36.3048070231658,38.579006556671
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1991,"Rate",37.2923328022568,36.1591880348873,38.4519131267827
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1992,"Rate",36.9569575184356,35.7984389881894,38.1340810441179
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1993,"Rate",37.5668896446813,36.3732414673675,38.7382884063791
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1994,"Rate",37.5345929134841,36.3474060918001,38.7073665986238
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1995,"Rate",37.6062779437267,36.4187104150189,38.8536994588669
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1996,"Rate",36.8982202221922,35.7450674497702,38.146177818437
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1997,"Rate",36.0955852169943,34.9620106393271,37.3554647934477
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1998,"Rate",35.567571547243,34.454369970659,36.8809202883713
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",1999,"Rate",35.1038406040177,33.9856924967503,36.3833216404105
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2000,"Rate",34.526716706389,33.4255569288329,35.747256954049
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2001,"Rate",33.9039253965452,32.8821830061386,35.0552783248179
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2002,"Rate",33.2568967817862,32.2923649329349,34.3429453586235
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2003,"Rate",32.3610642170719,31.4352853541434,33.384040719274
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2004,"Rate",30.9212237845276,30.0648823665588,31.921551458108
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2005,"Rate",30.3149822435602,29.4610639682502,31.2829046963999
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2006,"Rate",29.5384244500489,28.7341428289864,30.4462135459281
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2007,"Rate",28.658535517679,27.8302698123207,29.52735325106
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2008,"Rate",28.1514157491848,27.3350526280495,29.0073173206054
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2009,"Rate",27.6823522126748,26.7732993566807,28.6085605247603
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2010,"Rate",27.0723770038578,26.1926820763101,27.9741720310091
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2011,"Rate",27.0367031569885,26.0620838783634,28.0006563440525
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2012,"Rate",26.7655972064604,25.7850535486437,27.827806222997
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2013,"Rate",26.754987129364,25.7374510655569,27.8584740892231
+1,"Deaths",102,"United States",NA,322,"Lower respiratory infections",3,"Both",27,"Age-standardized",2014,"Rate",26.8687256218752,25.7881664322896,28.0468915715938
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1980,"Rate",1.56295335630304,1.46654768123368,1.65945236710674
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1981,"Rate",1.516822980176,1.42398127258363,1.60342329158188
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1982,"Rate",1.45670768655533,1.37556508140807,1.53396312306718
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1983,"Rate",1.42008257932476,1.34288477832808,1.490309576417
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1984,"Rate",1.38950716480535,1.31889415857456,1.45727481067801
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1985,"Rate",1.37740708626256,1.30460651256254,1.44079991193121
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1986,"Rate",1.35989776196172,1.29128292603926,1.42455355397432
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1987,"Rate",1.31648373923303,1.2511865790297,1.3766567599765
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1988,"Rate",1.29060312195092,1.22517510616899,1.35172203816573
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1989,"Rate",1.24426391151186,1.18461969133129,1.30138825208285
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1990,"Rate",1.18334534228209,1.12412801781816,1.23789235309976
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1991,"Rate",1.11854912006062,1.06124848370556,1.17093985539651
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1992,"Rate",1.05944854383963,1.00633633854863,1.10904880011442
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1993,"Rate",1.04206325637967,0.991076365610267,1.08888928102082
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1994,"Rate",1.00880019585557,0.959314013688287,1.05430014682697
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1995,"Rate",0.978538669372045,0.927336636882167,1.02445356876775
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1996,"Rate",0.941879195558753,0.89220840436075,0.988982707515032
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1997,"Rate",0.897449871223328,0.84917714375555,0.943476598685907
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1998,"Rate",0.855513828080093,0.808795994207192,0.900368909590201
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",1999,"Rate",0.781673620369556,0.739938581550987,0.822113651065008
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2000,"Rate",0.741428859360549,0.703406314241947,0.778891049118555
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2001,"Rate",0.704435659833868,0.670662428849642,0.739035718002181
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2002,"Rate",0.6761012552015,0.645561116203189,0.708072700327533
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2003,"Rate",0.651230031892955,0.622903447038813,0.681404459177147
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2004,"Rate",0.614851417223941,0.588308904017404,0.643836410840399
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2005,"Rate",0.603362000334775,0.577275586525878,0.631794861016973
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2006,"Rate",0.585859400293159,0.560414900360937,0.613411979288119
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2007,"Rate",0.566469662605522,0.54206899909252,0.593834234886303
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2008,"Rate",0.549216264568412,0.525674391152037,0.576066331628569
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2009,"Rate",0.52953129137875,0.50669273828562,0.556460789715826
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2010,"Rate",0.503606577407141,0.481301832181757,0.528576906885288
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2011,"Rate",0.494725152981193,0.471204725088272,0.519286796534384
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2012,"Rate",0.4835824431223,0.459066528136549,0.508829151634323
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2013,"Rate",0.479109103538036,0.453033021016782,0.506800718702362
+1,"Deaths",102,"United States",NA,332,"Meningitis",1,"Male",27,"Age-standardized",2014,"Rate",0.476317916644576,0.449295785889853,0.507167109662187
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1980,"Rate",1.17865802767781,1.09884750907841,1.24855580476407
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1981,"Rate",1.14555026588126,1.07142522610296,1.21206582764327
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1982,"Rate",1.10205304549179,1.03251771332695,1.16241411432256
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1983,"Rate",1.08461980567567,1.01900355582298,1.14214367135257
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1984,"Rate",1.05774301220636,0.999857172313025,1.11030106135427
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1985,"Rate",1.04336009382385,0.990860999021977,1.09210202655174
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1986,"Rate",1.02048539270818,0.970046964751377,1.06767885187555
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1987,"Rate",0.997467255616763,0.947472721475416,1.04443400659044
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1988,"Rate",0.985022253152732,0.932452738470378,1.03423423581317
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1989,"Rate",0.947507395732155,0.89793895269792,0.994754842868996
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1990,"Rate",0.906915030071407,0.86121787897942,0.952275712301348
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1991,"Rate",0.873451406700038,0.832635067470076,0.915791773128417
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1992,"Rate",0.83358829567604,0.797590494104153,0.871162589850823
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1993,"Rate",0.817779438712615,0.783130508580574,0.854158612456516
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1994,"Rate",0.788948752516148,0.7538796171106,0.82493312910653
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1995,"Rate",0.763667959480757,0.72877468455576,0.799806589180698
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1996,"Rate",0.729598751481183,0.694806812231797,0.766173955131288
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1997,"Rate",0.707871908346031,0.672825160888192,0.745083796265925
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1998,"Rate",0.659307623203103,0.625780896366756,0.695129389619796
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",1999,"Rate",0.601689299784499,0.572326801591117,0.63489386592965
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2000,"Rate",0.564466269610404,0.538829420310463,0.595378532253764
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2001,"Rate",0.538476497965615,0.513944266918649,0.56774789305848
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2002,"Rate",0.514370543606755,0.492316018273663,0.541870025304378
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2003,"Rate",0.498249622667683,0.477598722014447,0.523766236771794
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2004,"Rate",0.469962181097237,0.450608144632595,0.492206523205585
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2005,"Rate",0.456210752471816,0.437496691807166,0.476611704288856
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2006,"Rate",0.441713248706098,0.422779642638902,0.460895253024551
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2007,"Rate",0.424510150095232,0.405502567302331,0.443864219615181
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2008,"Rate",0.412336964297406,0.393327163439885,0.431562001458531
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2009,"Rate",0.399156862571857,0.380106288590872,0.419745393612083
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2010,"Rate",0.381953288658499,0.364141184970023,0.402708309123487
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2011,"Rate",0.373510980367438,0.355012246416456,0.397891159239799
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2012,"Rate",0.361037672667696,0.342686500717075,0.385434462179504
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2013,"Rate",0.358238945587547,0.338098954420347,0.383794138545625
+1,"Deaths",102,"United States",NA,332,"Meningitis",2,"Female",27,"Age-standardized",2014,"Rate",0.356046312182834,0.334172083969037,0.383358270797142
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1980,"Rate",1.35534276132516,1.29585719597283,1.41766046678453
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1981,"Rate",1.31660903160774,1.26021921928338,1.37220200311546
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1982,"Rate",1.26443912409986,1.2099021488783,1.31762685584768
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1983,"Rate",1.23794451293565,1.18796228033925,1.28643282382981
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1984,"Rate",1.2090921113932,1.16147373315872,1.25580581416381
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1985,"Rate",1.19580462218814,1.15002453626169,1.24121383489512
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1986,"Rate",1.17565977362194,1.12888568147696,1.2182970717748
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1987,"Rate",1.14378575661871,1.09705292758519,1.18490132115584
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1988,"Rate",1.12545306414204,1.07620291314302,1.16525634832146
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1989,"Rate",1.08411413295219,1.03921343116374,1.12303240702775
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1990,"Rate",1.0337480465552,0.99298639774722,1.07105981652031
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1991,"Rate",0.985547817959754,0.947641604189156,1.02015108230765
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1992,"Rate",0.937162485929435,0.899301493517266,0.969650304196012
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1993,"Rate",0.921050207798512,0.886270081477029,0.951588717883279
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1994,"Rate",0.890558926947094,0.858464297087911,0.919525788849075
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1995,"Rate",0.863234174308362,0.830003622456225,0.892898052287485
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1996,"Rate",0.827628096592107,0.794663705402015,0.85704122635431
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1997,"Rate",0.795229115464428,0.765068830700577,0.826028348860656
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1998,"Rate",0.749643673444394,0.721608866081215,0.777415710741523
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",1999,"Rate",0.684529944690775,0.65999843654431,0.709882358588723
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2000,"Rate",0.645516608978999,0.62406155356629,0.668851436773998
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2001,"Rate",0.615044359730602,0.59541428771063,0.63632121354367
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2002,"Rate",0.589146383656281,0.570460956581052,0.608896387759022
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2003,"Rate",0.569152268077121,0.551318041521473,0.588684790764055
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2004,"Rate",0.537275292402341,0.521125092784268,0.555635692705659
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2005,"Rate",0.524636203795843,0.508535850462801,0.542114548936143
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2006,"Rate",0.508871744819307,0.493551078547753,0.527534510290366
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2007,"Rate",0.490743856321088,0.475728409295824,0.509778780641267
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2008,"Rate",0.47630540545297,0.461364840259483,0.494231840937932
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2009,"Rate",0.459929889333079,0.445347939870744,0.477394675121912
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2010,"Rate",0.438801775466743,0.424349200854949,0.457889669038177
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2011,"Rate",0.430381176105438,0.41558415519449,0.449472502798159
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2012,"Rate",0.418643440610796,0.403139097571189,0.438508347892026
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2013,"Rate",0.415230842893798,0.398748714374401,0.435923421718332
+1,"Deaths",102,"United States",NA,332,"Meningitis",3,"Both",27,"Age-standardized",2014,"Rate",0.412691741912764,0.395201766235954,0.434794157320767
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1980,"Rate",0.598351941981862,0.537036311411944,0.66120940129742
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1981,"Rate",0.586455020956433,0.530012344225227,0.643072973128425
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1982,"Rate",0.583337381361252,0.530133708434685,0.634959750451939
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1983,"Rate",0.601838513291392,0.552726249715967,0.649765826457352
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1984,"Rate",0.629379797032684,0.583079814745119,0.678177174265848
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1985,"Rate",0.676104376660293,0.629473011604268,0.725714492721799
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1986,"Rate",0.735311118820362,0.690133619858195,0.785869242430451
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1987,"Rate",0.792779423604932,0.746848318099605,0.845300191423017
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1988,"Rate",0.86611999276135,0.815698410961344,0.922828327367149
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1989,"Rate",0.947258958353036,0.890057149931714,1.00963872550767
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1990,"Rate",1.03318794227221,0.970020000157236,1.1037738856525
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1991,"Rate",1.14884721062033,1.07873101753744,1.22549333264317
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1992,"Rate",1.27472414677009,1.19822051191691,1.35969857458538
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1993,"Rate",1.4712591919019,1.38347236572348,1.56909498149173
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1994,"Rate",1.66447253207829,1.56257849366991,1.77732201436894
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1995,"Rate",1.88216754839876,1.76363041967288,2.01989748107983
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1996,"Rate",2.05899138151292,1.92594551332357,2.2218657959408
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1997,"Rate",2.24070668536382,2.09205538496651,2.41802237678547
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1998,"Rate",2.42060218447996,2.25806637909957,2.6123136708521
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",1999,"Rate",2.46631039024972,2.3020280037276,2.65635253044352
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2000,"Rate",2.49450379233513,2.33135791729789,2.68012239723887
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2001,"Rate",2.45199765442372,2.29084838903385,2.62916526812111
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2002,"Rate",2.30426208120277,2.15345972238033,2.4678554727255
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2003,"Rate",2.02595681394234,1.8950923902625,2.17523357250608
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2004,"Rate",1.63400548323206,1.5229115592077,1.75913391757438
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2005,"Rate",1.19101976916293,1.11086140064258,1.28691909517532
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2006,"Rate",0.847340716475778,0.786974914347329,0.917144713637661
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2007,"Rate",0.659719983590994,0.61213236416228,0.714375181466967
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2008,"Rate",0.542494692001859,0.503110006383209,0.586603344603707
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2009,"Rate",0.469728628908844,0.434735656066681,0.507700451364676
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2010,"Rate",0.419817218940567,0.385443968512478,0.454896836925976
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2011,"Rate",0.396473056077568,0.363222490311539,0.432530774510692
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2012,"Rate",0.384587724116451,0.345663418016234,0.429667534531862
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2013,"Rate",0.392865271950221,0.344703231137077,0.458789473079472
+1,"Deaths",102,"United States",NA,400,"Hepatitis",1,"Male",27,"Age-standardized",2014,"Rate",0.407450027285479,0.359611368635061,0.460814075196847
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1980,"Rate",0.410334650131467,0.370141799880536,0.454330734577536
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1981,"Rate",0.396150405222527,0.359052758502662,0.435214787485162
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1982,"Rate",0.390098347086299,0.356874674033434,0.427027572074764
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1983,"Rate",0.388257175302546,0.356910336824964,0.422198137087224
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1984,"Rate",0.394453459511229,0.364605606218889,0.425196410009216
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1985,"Rate",0.408643857212632,0.379008169715978,0.437976091703652
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1986,"Rate",0.419776450117808,0.390733851652126,0.450210535597757
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1987,"Rate",0.449480345576247,0.419325701046091,0.481321136209217
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1988,"Rate",0.487697118173912,0.454980639255586,0.52400614417627
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1989,"Rate",0.527431378517775,0.493355971718535,0.565421496021574
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1990,"Rate",0.568942693490772,0.533433519935797,0.609131372936893
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1991,"Rate",0.627239067838039,0.587172253522586,0.671244760476826
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1992,"Rate",0.685687063305487,0.641892143158782,0.732139909046111
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1993,"Rate",0.785079944481712,0.734997538538578,0.837428175907045
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1994,"Rate",0.893869893881487,0.836876583295361,0.952485957287772
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1995,"Rate",1.01018345698537,0.943139847613311,1.0794246217598
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1996,"Rate",1.11257799802575,1.0367784073076,1.19396061193069
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1997,"Rate",1.21182290522035,1.1236001797381,1.30551474382235
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1998,"Rate",1.27075209799872,1.17826532616625,1.36669943453469
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",1999,"Rate",1.2643895044233,1.17617556015283,1.35580871594805
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2000,"Rate",1.24075133341955,1.15791977396885,1.32397948040828
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2001,"Rate",1.19938313593793,1.12072619789836,1.27666327715653
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2002,"Rate",1.09463521255379,1.02642896161672,1.16583933570538
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2003,"Rate",0.952952368388286,0.892228693452852,1.01765448244727
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2004,"Rate",0.76699262078023,0.716312632277831,0.819346849707429
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2005,"Rate",0.551991239987452,0.513679821253735,0.59076669951807
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2006,"Rate",0.385191309976928,0.357841869216206,0.413982975044505
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2007,"Rate",0.29803664523671,0.277316753948014,0.321089726126616
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2008,"Rate",0.248336868154767,0.230854236762653,0.267772435793945
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2009,"Rate",0.221277813209329,0.205398652709002,0.239708751557735
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2010,"Rate",0.197969605533467,0.182611420964229,0.21533792559679
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2011,"Rate",0.188651116394004,0.173774141476738,0.206387370263732
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2012,"Rate",0.181888123668568,0.166200233568382,0.199303597144089
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2013,"Rate",0.177714666905359,0.159827940777145,0.196590463232353
+1,"Deaths",102,"United States",NA,400,"Hepatitis",2,"Female",27,"Age-standardized",2014,"Rate",0.188535243745042,0.166432737957731,0.211796988084422
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1980,"Rate",0.494371276217038,0.457811688256979,0.531064120491553
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1981,"Rate",0.481227316060433,0.447458530330773,0.514202950328562
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1982,"Rate",0.47607995112167,0.446224781861158,0.506284309276259
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1983,"Rate",0.483723262192333,0.456463952130039,0.511960317329672
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1984,"Rate",0.500060650209415,0.474598479644879,0.526889118828949
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1985,"Rate",0.528946199069706,0.504462851106804,0.555790511401059
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1986,"Rate",0.561962412740543,0.537389507448113,0.589031409099874
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1987,"Rate",0.604369941260489,0.577622567712723,0.632874501661607
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1988,"Rate",0.658804814925687,0.628963904844922,0.690409036169577
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1989,"Rate",0.718149206274978,0.686635013595947,0.753643877885891
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1990,"Rate",0.78071634657212,0.743956922340436,0.819193354145798
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1991,"Rate",0.866002068984746,0.826264465042844,0.907834605782418
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1992,"Rate",0.9561512548091,0.912880821101928,1.00128717695122
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1993,"Rate",1.10191470695392,1.05138726077442,1.15542072670259
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1994,"Rate",1.2506283256569,1.19174381004786,1.31365262298621
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1995,"Rate",1.41667219216151,1.34669581742588,1.49032169273104
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1996,"Rate",1.55640242848424,1.47778899308545,1.63932877689303
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1997,"Rate",1.69739303983419,1.61072178841135,1.79131557072309
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1998,"Rate",1.8153979675516,1.71857190530271,1.91698231432328
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",1999,"Rate",1.83632217770375,1.73966893391815,1.93319165096684
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2000,"Rate",1.83977683097354,1.74681507762634,1.93810566092006
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2001,"Rate",1.80086292567063,1.71319587991633,1.89136298297084
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2002,"Rate",1.67592184512265,1.59515896733855,1.75802315246245
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2003,"Rate",1.46882877232876,1.40005575912788,1.54211913278246
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2004,"Rate",1.18369243767189,1.12619848724721,1.24703498847975
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2005,"Rate",0.858549574617562,0.815342729092822,0.906224171636668
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2006,"Rate",0.606106672051755,0.573714835171399,0.641061937271807
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2007,"Rate",0.470517086404525,0.444987196857161,0.497497184603583
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2008,"Rate",0.388395759223708,0.367161844567403,0.410473485039087
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2009,"Rate",0.339383817413357,0.320875054509139,0.359551444033478
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2010,"Rate",0.303515876263519,0.285439261683408,0.321442452864004
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2011,"Rate",0.287503699583222,0.268692312727806,0.306632806795275
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2012,"Rate",0.278456183923486,0.256646776218716,0.302806292290769
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2013,"Rate",0.280474801784253,0.2537897492243,0.31561284120959
+1,"Deaths",102,"United States",NA,400,"Hepatitis",3,"Both",27,"Age-standardized",2014,"Rate",0.292986851492822,0.266949414305468,0.320576539268231
