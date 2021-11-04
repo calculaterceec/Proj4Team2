@@ -23,6 +23,12 @@ st.subheader()
 with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
     counties = json.load(response)
 
+option1 = st.selectbox('Choose an Affliction to plot', 
+('Email', 'Home phone', 'Mobile phone'))
+
+option2 = st.selectbox('Choose a County in Texas', 
+('Email', 'Home phone', 'Mobile phone'))
+
 #Graph type 2 (Pick Affliction, and County)
 def Infection_Bargraph(Infection, County):
     plt.figure(figsize=(10,8))
@@ -44,6 +50,9 @@ def Respiratory_Bargraph(Infection, County):
     df_INF_TX[(df_RESP_TX['location_name']==County) & (df_RESP_TX['cause_name']==Infection) & (df_RESP_TX['year_id']>=1990)]['mx'])
     plt.xticks(np.arange(1990, 2015, 1.0), rotation=45)
     plt.title(Infection + " In " + County + " Texas from 1990 to 2015");
+
+option1 = st.selectbox('Choose an Affliction to see on map', 
+('Email', 'Home phone', 'Mobile phone'))
 
 
 #Graph type 3 (Pick Affliction)
