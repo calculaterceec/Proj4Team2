@@ -11,17 +11,14 @@ import altair as alt
 
 # load the climate data by state
 def get_states():
-    df = pd.read_csv('./data/01_climate_data/01_climate_data_CLEAN/precip_airTemp_1979_2011.zip', parse_dates=['month_year_short'])
+    df = pd.read_csv('./data/01_climate_data/01_climate_data_CLEAN/precip_airTemp_wFIPS_1979_2011.zip', parse_dates=['month_year_short'], dtype={'FIPS': object})
     states = df['state_abbrv'].unique()
     return states
 
 def load_climate(state):
-    df = pd.read_csv('./data/01_climate_data/01_climate_data_CLEAN/precip_airTemp_1979_2011.zip', parse_dates=['month_year_short'])
+    df = pd.read_csv('./data/01_climate_data/01_climate_data_CLEAN/precip_airTemp_wFIPS_1979_2011.zip', parse_dates=['month_year_short'], dtype={'FIPS': object})
     df = df[df['state_abbrv'] == state]
-    df['new_FIPS'] = ['0'+str(i) for i in df['FIPS']]
     df['year'] = df['month_year_short'].dt.year
-    df = df.drop(columns='FIPS')
-    df = df.rename(columns={'new_FIPS': 'FIPS'})
 
     df = df[['FIPS', 'county_name', 'state_abbrv', 'year', 'month_year_long', 'month_year_short', 'avg_dailyMaxAirTemp_F', 'min_dailyMaxAirTemp_F', 'max_dailyMaxAirTemp_F', 'avg_daily_precip_mm', 'min_daily_precip_mm', 'max_daily_precip_mm']]
     return df
@@ -32,5 +29,4 @@ def get_inf_diseases():
 
 # def load_state_inf(cause, ):
 #     df = pd.read_csv('')
-
 
