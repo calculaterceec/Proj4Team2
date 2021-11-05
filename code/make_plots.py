@@ -55,12 +55,19 @@ def plot_mortality_heatmaps(disease, cause_of_death, chosen_year, sex):
     fig = px.choropleth(
         data_frame=df_plot,
         locations='FIPS', geojson=geo_counties,
-        width=900, height=600,
+        #width=900, height=600,
+        hover_name='FIPS',
         color='mx',
+        center={'lat': 31.9686, 'lon': -99.9018},
         scope='usa',
+        #zoom=5,
         title=cause_of_death + "  Heatmap"
     )
-    #fig.update_layout(margin={'r': 0, 't':0, 'l': 0, 'b':0})
+    fig.update_geos(fitbounds="locations", visible=False)
+    fig.update_layout(
+        legend_yanchor="top",
+        legend_x=-2
+    )
 
     return fig
 
@@ -115,22 +122,25 @@ def plot_cvd_stats(df, disease):
 
     return fig
 
-##### Climate Related PLOTS
+##### CLIMATE PLOTTING FUNCTIONS
 
-def plot_hw_days_choropleth(df, year):
+def plot_hw_days_choropleth(df):
     df['year_string'] = df['Year'].dt.year
-
-    df_plot = df[df['year_string'] == year]
+    #df_plot = df
+    #df_plot = df[df['year_string'] == year]
 
     fig = px.choropleth(
     data_frame=df,
     locations='County Code', geojson=geo_counties,
-    width=900, height=600,
+    #width=900, height=600,
     scope='usa',
+    #animation_frame='Year',
+    hover_name='County Code',
     color='count_hwDays_onDailyMaxTemp',
     color_continuous_scale="Viridis",
     title="Heat Wave Choropleth"
 )
+
     return fig
 
 def plot_precip_lines(climate_df):
@@ -144,6 +154,7 @@ def plot_precip_lines(climate_df):
     sns.lineplot(data=climate_df, x='month_year_long', y='avg_daily_precip_mm', ax=ax[1])
 
     return fig
+### END CLIMATE PLOTTING FUCNTIONS
 
 
 ### DEMOGARPHICS HEATMAP
@@ -172,11 +183,13 @@ def demographics_heatmap(df, metric):
     fig = px.choropleth(
     data_frame=df,
     locations='fips', geojson=geo_counties,
-    width=900, height=600,
+    #width=900, height=600,
     scope='usa',
+    center={'lat': 31.9686, 'lon': -99.9018},
     color=var,
     hover_name='county',
     color_continuous_scale="Viridis",
     title="Demographics Choropleth"
 )
+    fig.update_geos(fitbounds="locations", visible=False)
     return fig
