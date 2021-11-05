@@ -92,7 +92,7 @@ if show_mortality_lines:
     if show_df:
         disease_df
 
-
+# adding in some comments for github to recognize
 st.header("Here is climate stuff")
 st.write("We investivated climate and participation. Check the box below to show our visual of average (max) temperature and precipitation through the years")
 hw_years = list(range(1981, 2011))
