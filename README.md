@@ -13,9 +13,9 @@ In the past nearly two years, informed citizens are more aware of publicy availa
 We focused on data that were completely pre-COVID as much of the county-level aggregated climate and demographic data are not yet available for the past two years. We collected data at the county level using Federal Information Processing Standards (FIPS) codes. These are five digit codes that uniquely correspond to all the counties and county-equivalents (independent cities, for example) in the United States. 
 
 A. *Demographic*
-    - We obtained data from the [Census Bureau's American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs) 5-year estimates. The ACS is a rolling, annual survey that provides county-level estimates for a variety of demographic characteristics from the previous five years. We included data on population, median household income, race and ethnicity, gender, whether or not a household had broadband, a computer, a smartphone, veteran status, and high school graduation rates. In the methodology section we discuss which variables we ultimately used in the modeling and visualizations. 
+    - We obtained data from the [Census Bureau's American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs) 5-year estimates. The ACS is a rolling, annual survey that provides county-level estimates for a variety of demographic characteristics from the previous five years. We included data on population, median household income, race and ethnicity, gender, whether or not a household had broadband, a computer, a smartphone, veteran status, and high school graduation rates. In the methodology section we discuss which variables we ultimately used in the modeling and visualizations as not all of them were useful. [OpenIntro.org](https://www.openintro.org/data/?data=county_complete)
 
-
+[Background info on the county_complete file.](./data/02_demo_data/openintro_dot_org/county_complete.txt)
 
 - [Setosa.io PCA Visualization](http://setosa.io/ev/principal-component-analysis/)
 - [Medium Article: A One-Stop Shop for Principal Component Analysis](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
