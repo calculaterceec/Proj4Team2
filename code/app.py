@@ -40,11 +40,14 @@ st.header("Look for Drivers of Health Conditions")
 st.subheader("Pretty neat, huh?")
 
 tx_inf_df[:10]
+inf_diseases =  tx_inf_df['cause_name'].unique()
+inf_diseases
 #df_cvd = load_disease()
 #states = get_states()
 
 #creates a sidebar
 st.sidebar.header('Choose Your Granularity')
+st.sidebar.selectbox("sSelect Disease", inf_diseases)
 #user chooses the county from selectbox
 #choose_state = st.sidebar.selectbox('Select State', states)
 
