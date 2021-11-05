@@ -11,11 +11,17 @@ import altair as alt
 #     get_states,
 #     load_climate
 # )
-# from make_plots import (
-#     plot_seaborn,
-#     plot_county_heatmaps
+from make_plots import (
+    plot_seaborn,
+    plot_county_heatmaps,
+    plot_kmeans_choropleth,
+    plot_mortality_lines,
+    plot_mortality_heatmaps,
+    plot_hw_days_choropleth,
+    plot_precip_lines,
+    demographics_heatmap
 
-# )
+)
 
 
 
@@ -29,52 +35,89 @@ tx_subInj_df = pd.read_csv('../data/cleaned/tx_for_streamlit/tx_subInj.csv', par
 
 #read in climate data
 tx_climate_df = pd.read_csv('../data/cleaned/tx_for_streamlit/tx_climate_wave.csv', parse_dates=['month_year_long'], dtype={'county_FIPS': object})
-tx_heat_wave_df = pd.read_csv('../data/cleaned/tx_for_streamlit/tx_heat_wave.csv', dtype={'fips': object})
+tx_heat_wave_df = pd.read_csv('../data/cleaned/tx_for_streamlit/tx_heat_wave.csv', parse_dates=['Year'], dtype={'County Code': object})
 
 #demographics
 tx_demo_df = pd.read_csv('../data/cleaned/tx_for_streamlit/tx_demographics.csv',dtype={'fips': object})
+#tx_demo_USE = pd.read_csv('../data/cleaned/tx_for_streamlit/tx_demographics_full.csv',dtype={'fips': object})
+#kmeans
+k_means = pd.read_csv('../data/cleaned/kmeans_clusters_with_labels_and_features.csv',dtype={'fips': object})
 
 
 st.title("County Level Health Trends Investigator")
 st.header("Look for Drivers of Health Conditions")
-st.subheader("Pretty neat, huh?")
+st.write("We created some interactive visualizations to help users dig into trends in climate, mortality and demographics")
 
-tx_inf_df[:10]
-inf_diseases =  tx_inf_df['cause_name'].unique()
-inf_diseases
-#df_cvd = load_disease()
-#states = get_states()
+dfs_to_plot = ['Cardiovascular Disease', 'Infectious Diseases', 'Respiratory Diseases', 'Substance Abuse & Self Injury']
+sexes = ['Male', 'Female', 'Both']
+demographic_variables = ['Median Age', '% Pop < 18', '% Pop > 65', 'Unemployment Rate', '% Pop Below Poverty', 'Uninsured Population', 'Rural/Urban Continuum', 'Obesity Rate per 100K']
+years = list(range(1980, 2015))
 
 #creates a sidebar
-st.sidebar.header('Choose Your Granularity')
-st.sidebar.selectbox("sSelect Disease", inf_diseases)
-#user chooses the county from selectbox
-#choose_state = st.sidebar.selectbox('Select State', states)
+st.sidebar.header('Choose Your Mortality Metrics')
+select_mortality_df = st.sidebar.selectbox("Select Disease", dfs_to_plot)
 
-# state_climate_df = load_climate(choose_state)
-# counties = state_climate_df['county_name'].unique()
+if select_mortality_df == 'Cardiovascular Disease':
+    disease_df = tx_cvd_df
+elif select_mortality_df == 'Infectious Diseases':
+    disease_df = tx_inf_df
+elif select_mortality_df == 'Respiratory Diseases':
+    disease_df = tx_resp_df
+elif select_mortality_df == 'Substance Abuse & Self Injury':
+    disease_df = tx_subInj_df
+    
 
-# plot_choro = plot_county_heatmaps(state_climate_df, 1989, metric='avg_daily_precip_mm')
+mortality_causes = disease_df['cause_name'].unique()
 
-# st.plotly_chart(plot_choro)
+sex = st.sidebar.selectbox("Select Sex Aggregation", sexes)
+cause = st.sidebar.selectbox('Select Cause of Death', mortality_causes)  
+year = st.sidebar.selectbox("Select Year", years)
 
-# choose_county = st.sidebar.selectbox('Pick Your County', counties)
+#mortality_lineplot = plot_mortality_lines(select_mortality_df, sex)
 
-# county_climate_df = state_climate_df[state_climate_df['county_name'] == choose_county]
+st.header("Mortality Infographics")
+st.subheader("Pretty neat, huh?")
+mortality_heatmap = plot_mortality_heatmaps(disease_df, cause, year, sex)
+mortality_lineplot = plot_mortality_lines(disease_df, sex)
+
+st.plotly_chart(mortality_heatmap)
 
 
-#streamlit & plotly can also give us interactive widgets
+show_mortality_lines = st.checkbox('Show Mortality Lines?')
 
-show_hist = st.sidebar.checkbox('See Graphs?')
 
-show_df = st.sidebar.checkbox('Do you want to see the data?')
+if show_mortality_lines:
+    st.plotly_chart(mortality_lineplot)
+    show_df = st.checkbox("Show Data?")
+    if show_df:
+        disease_df
+
+
+st.header("Here is climate stuff")
+st.write("We investivated climate and participation. Check the box below to show our visual of average (max) temperature and precipitation through the years")
+hw_years = list(range(1981, 2011))
+hw_year = st.selectbox('Choose Year', hw_years)
+hw_heatmap = plot_hw_days_choropleth(tx_heat_wave_df, hw_year)
+st.plotly_chart(hw_heatmap)
+show_climate_lines = st.checkbox('Show Climate Lines?')
+if show_climate_lines:
+    st.pyplot(plot_precip_lines(tx_climate_df))
+
+
+st.header("Demographic Data")
+demo_metric = st.selectbox("Choose your Demographic Metric", demographic_variables)
+demo_heatmap = demographics_heatmap(tx_demo_df, demo_metric)
+st.plotly_chart(demo_heatmap)
+
+
+st.header("We did some K Means Clustering")
+st.write("Grouping Similar Counties")
+plot_kmeans = plot_kmeans_choropleth(k_means)
+st.plotly_chart(plot_kmeans)
+
+
 
 #plot = plot_county_heatmaps(state_climate_df, 2014)
 
-if show_hist:
-    #plot = plot_seaborn(county_climate_df)
-    st.pyplot(plot)
 
-if show_df:
-    county_climate_df[:10]
 
