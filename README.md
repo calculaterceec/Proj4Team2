@@ -32,53 +32,14 @@ C. *EXPLORATORY DATA ANALYSIS* - We examined trends in climate such as average h
 D. *INVESTIGATE HIGH MORTALITY DISEASES* - We investigated disease mortality rates in the United States generally and Texas specifically, to include infectious diseases, and we were able to see the upward trend in HIV-AIDS disease mortality with a drop-off occurring after the introduction of antiretroviral therapies in the late 1980s. You can see these graphics in our final [presentation](./project4_team_2_presentation.pdf).
 
 E. *CLUSTER MODELING* We looked at this project as one of exploration rather than prediction, and determined that we could use a k-means clustering model in an attempt to identify any meaningful clusters of counties. In our initial attempt, we threw all the county-level demographic and health variables at our model (we did not include climate data in this clustering due to technical issues) and found that the iterative cluster-selection algorithm recommended only two clusters. We knew this wouldn't be very helpful since it would not be meaningful. Therefore, we removed all features except those related to the `percent_below_poverty`, `smoking_ban_2010`, `unemployment_rate_2019`, `obesity_prev_100K`, and the `rural_urban_continuum_code_2013`. Our algorithm suggested we should cluster the counties into four groups, which we did. You can see the labels with the FIPS codes and features [here](./data/cleaned/kmeans_clusters_with_labels_and_features.csv) Viewing these on a map visually shows some identifiable patterns, though it is not readily clear exactly which variable is driving the clustering. We would need to create additional maps for each of the individual clusters to see if there are obvious patterns. (You can see the k-means clustering choropleth in our [presentation](./project4_team_2_presentation.pdf).)
+
+F. *STREAMLIT VISUALIZATION* Using Texas as a case study, we created an interactive application that allows users to dynamically view various categories of county level disease mortality rates by year, sex and specific disease, while comparing it to a county level map of select demographic variables that can also be dynamically changed by the user. Using Streamlit docs and knowledge of python, custom functions were created to load and plot data to optimize the performance of the web app. 
+
+The dynamic maps were made using plotly express's create_choropleth function. We believe a side by side comparison between mortality rates and demographic variables is a powerful tool in the arsenal of any public health department, government entity, or informed citizen.  
     
 **V. Conclusion and Path Forward**
 
 A. *WHAT DID WE LEARN?* - We showed a general model and workflow for conducting exploratory analysis and join data from different sources, clean it and munge it in a way that made sense for our particular analysis. We did find some unexpected patterns such as a slight upward trend in diarrheal diseases after the late 1990s. We identified variables that we thought might be drivers of health outcomes and started exploring those patterns. We created an interactive visualization of the data via our streamlit app. We do not have this hosted on the web but our repository includes the code for you to launch it from your local machine.
 
-B. *PATH FORWARD* - Given more time, we would investigate a variety of predictive models to predict income, mortality, disease, and climate metrics. We would investigate hosting the interactive on a Tableau dashboard to avoid some of the bandwidth and storage issues we confronted.
-
-**VI. Data**
-
-```python
-df_climate
-
-XXXX total entries.
-```
-
-|Feature|Type|Dataset|Description|
-|---|---|---|---|
-
-|**var1**|*int64*|df_climate|blah blah blah|.
-
-|**var1**|*int64*|df_climate|Eblah blah blah|.
-
-|**var2**|*object*|df_climate|blah blah blah|
-|**var3**|*object*|df_climate|blah blah blah|
-|**var4**|*object*|df_climate|blah blah blah|
-|**var5**|*int64*|df_climate|blah blah blah|
-
-
-
-```python
-df_demographic
-xxxx total entries.
-```
-
-|Feature|Type|Dataset|Description|
-|---|---|---|---|
-|**var1**|*int64*|df_demographic|blah blah blah|.
-|**var2**|*object*|df_demographic|blah blah blah|
-|**var3**|*object*|df_demographic|blah blah blah|
-|**var4**|*object*|df_demographic|blah blah blah|
-|**var5**|*int64*|df_demographic|blah blah blah|
-|**var6**|*object*|df_demographic|blah blah blah|
-
-
-
-df_health
-etc.
-=======
-=======
+B. *PATH FORWARD* - Given more time, we would investigate a variety of predictive models to predict disease mortality as a function of demographic variables (race/sex/income/unemployment/etc). We would investigate using cached functions and querying a PostGRES database on the fly, or alternatively hosting the interactive on a Tableau dashboard to avoid some of the bandwidth and storage issues we confronted.
 
